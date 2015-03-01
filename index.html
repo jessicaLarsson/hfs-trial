@@ -24,6 +24,8 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <!-- d3.js -->
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 </head>
 
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
@@ -83,6 +85,27 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Section 1</h1>
+                    <script>
+                        var jsonCircles = [
+                           { "x_axis": 30, "y_axis": 30, "radius": 20, "color" : "green" },
+                           { "x_axis": 70, "y_axis": 70, "radius": 20, "color" : "purple"},
+                           { "x_axis": 110, "y_axis": 100, "radius": 20, "color" : "red"}];
+
+                         var svgContainer = d3.select("#intro").append("svg")
+                                                             .attr("width", 200)
+                                                             .attr("height", 200);
+
+                        var circles = svgContainer.selectAll("circle")
+                                                  .data(jsonCircles)
+                                                  .enter()
+                                                  .append("circle");
+
+                        var circleAttributes = circles
+                                               .attr("cx", function (d) { return d.x_axis; })
+                                               .attr("cy", function (d) { return d.y_axis; })
+                                               .attr("r", function (d) { return d.radius; })
+                                               .style("fill", function(d) { return d.color; });
+                    </script>
                 </div>
             </div>
         </div>
@@ -109,7 +132,6 @@
             </div>
         </div>
     </section>
-
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
@@ -119,7 +141,6 @@
     <!-- Scrolling Nav JavaScript -->
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/scrolling-nav.js"></script>
-
 </body>
 
 </html>
