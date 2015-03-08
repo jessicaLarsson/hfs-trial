@@ -134,9 +134,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Angular Example</h1>
-                    <div ng-controller='HelloController'>
-                        <input ng-model='greeting.text'>
-                        <p>{{greeting.text}}, World</p>
+                    <div ng-controller='customerController'>
+                        <div ng-repeat='x in cars'>{{x.code}}</div>
+
                     </div>
 
                 </div>
@@ -145,7 +145,7 @@
     </section>
     <!-- Javascript -->
     <script src="js/felicia.js"></script>
-    <script src="js/cars.js"></script>s
+    <script src="js/carsController.js"></script>s
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
