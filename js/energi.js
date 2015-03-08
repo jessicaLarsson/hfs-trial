@@ -1,12 +1,3 @@
-var xmlHttp = null;
-
-xmlHttp = new XMLHttpRequest();
-xmlHttp.open( "GET", "http://api.scb.se/OV0104/v1/doris/sv/ssd/START/HE/HE0201/HE0201A/HUTutgift1", false );
-xmlHttp.send( null );
-//console.log(xmlHttp.responseText);
-
-/* -----------*/
-
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
