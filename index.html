@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="">
 
 <head>
 
@@ -24,6 +24,9 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <!-- angular.js -->
+    <script src="js/angular.js"></script>
 
     <!-- d3.js -->
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
@@ -130,7 +133,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Section 3</h1>
+                    <h1>Angular Example</h1>
+                    <div ng-controller='HelloController'>
+                        <input ng-model='greeting.text'>
+                        <p>{{greeting.text}}, World</p>
+                    </div>
 
                 </div>
             </div>

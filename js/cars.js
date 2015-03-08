@@ -12,4 +12,15 @@ function loadXMLDoc() {
   }
   xmlhttp.open("GET","http://api.scb.se/OV0104/v1/doris/sv/ssd/START/TK/TK1001/TK1001A/PersBilarDrivMedel",true);
   xmlhttp.send();
+  xmlDoc = xmlhttp.responseXML;
+
+  var ttitems=xmlDoc.getElementsByTagName("code");
+  document.getElementById("cardata").innerHTML=ttitems;
+
 }
+
+function HelloController($scope){
+  $scope.greeting = { text: 'Hello' };
+  
+}
+
