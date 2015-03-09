@@ -1,155 +1,140 @@
 <!DOCTYPE html>
 <html lang="en" ng-app="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
 
-<head>
+        <title>Awesome title</title>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+        <!-- Bootstrap Core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <title>Awesome title</title>
+        <!-- Custom CSS -->
+        <link href="css/scrolling-nav.css" rel="stylesheet">
+        <link href="css/energy.css" rel="stylesheet">
+        <link href="css/map.css" rel="stylesheet">
 
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
 
-    <!-- Custom CSS -->
-    <link href="css/scrolling-nav.css" rel="stylesheet">
-    <link href="css/energi.css" rel="stylesheet">
+    <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-    <!-- angular.js -->
-    <script src="js/angular.js"></script>
-    <!-- d3.js -->
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-</head>
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand page-scroll" href="#page-top">Site name</a>
+                </div>
 
-<!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
-
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Site name</a>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                    <ul class="nav navbar-nav">
+                        <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                        <li class="hidden">
+                            <a class="page-scroll" href="#page-top"></a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#section1">Section 1</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#section2">Section 2</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#section3">Section 3</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
             </div>
+            <!-- /.container -->
+        </nav>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a class="page-scroll" href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#section1">Section 1</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#section2">Section 2</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#section3">Section 3</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
-    <!-- Intro Section -->
-    <section id="intro" class="intro-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h1>Hej på dej!</h1>
-                        <script>
-                        var jsonCircles = [
-                           { "x_axis": 30, "y_axis": 30, "radius": 20, "color" : "green" },
-                           { "x_axis": 70, "y_axis": 70, "radius": 20, "color" : "purple"},
-                           { "x_axis": 110, "y_axis": 100, "radius": 20, "color" : "red"}];
-
-                         var svgContainer = d3.select("#intro").append("svg")
-                                                             .attr("width", 200)
-                                                             .attr("height", 200);
-
-                        var circles = svgContainer.selectAll("circle")
-                                                  .data(jsonCircles)
-                                                  .enter()
-                                                  .append("circle");
-
-                        var circleAttributes = circles
-                                               .attr("cx", function (d) { return d.x_axis; })
-                                               .attr("cy", function (d) { return d.y_axis; })
-                                               .attr("r", function (d) { return d.radius; })
-                                               .style("fill", function(d) { return d.color; });
-                    </script>
+        <!-- Intro Section -->
+        <section id="intro" class="intro-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Hej på dej!</h1>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
 
-    <!-- First Section -->
-    <section id="section1" class="section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h1>Energi</h1>
+        <!-- First Section -->
+        <section id="section1" class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Vattenförbrukning</h1>
+                    </div>
+                </div>
+                <div id="chart">
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Second Section -->
-    <section id="section2" class="section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
+        <!-- Second Section -->
+        <section id="section2" class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Sverige</h1>
+                        <div id="map" style="height: 60vh;">
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Third Section -->
-    <section id="section3" class="section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h1>Angular Example</h1>          
+        <!-- Third Section -->
+        <section id="section3" class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Angular Example</h1>          
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Javascript -->
-    <script src="js/carsController.js"></script>
-    <script src="js/energi.js"></script>
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+        <!-- jQuery -->
+        <script src="js/jquery.js"></script>
+       
+        <!-- d3.js -->
+        <script src="js/d3.min.js"></script>
+        <script src="js/topojson.v1.min.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+        <!-- angular.js -->
+        <script src="js/angular.js"></script>
 
-    <!-- Scrolling Nav JavaScript -->
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/scrolling-nav.js"></script>
-</body>
+        <!-- Javascript Modules-->
+        <script src="js/carsController.js"></script>
+        <script src="js/energy.js"></script>
+        <script src="js/map.js"></script>
+
+        <!-- Bootstrap Core JavaScript -->
+        <script src="js/bootstrap.min.js"></script>
+
+        <!-- Scrolling Nav JavaScript -->
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/scrolling-nav.js"></script>
+    </body>
 
 </html>
