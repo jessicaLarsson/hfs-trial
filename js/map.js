@@ -1,3 +1,4 @@
+function sweden_map(){
     var zoom = d3.behavior.zoom()
         .scaleExtent([1, 15])
         .on("zoom", move);
@@ -80,6 +81,6 @@
         g.style("stroke-width", 1 / s).attr("transform", "translate(" + t + ")scale(" + s + ")");
 
     }
-    
+}   
 
 
