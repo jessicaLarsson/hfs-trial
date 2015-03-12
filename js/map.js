@@ -1,4 +1,4 @@
-function sweden_map(div_name, stroke_color, fill_color){
+function swedenMap(div_name, stroke_color, fill_color){
     var zoom = d3.behavior.zoom()
         .scaleExtent([1, 15])
         .on("zoom", move);

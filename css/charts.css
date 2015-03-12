@@ -5,3 +5,8 @@
   stroke: #000;
   shape-rendering: crispEdges;
 }
+
+.red_counter {
+	font-size: 50px;
+	color: red;
+}

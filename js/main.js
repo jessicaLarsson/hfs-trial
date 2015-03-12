@@ -1,12 +1,12 @@
-var sweden = new sweden_map("map", "white", "orange");
+var sweden = new swedenMap("map", "white", "orange");
 var donut = new donut("donut");
-var test_diagram = new grouped_bar_chart();
+var test_diagram = new groupedBarChart();
 
 var venn = new vennDiagram("venn");
 
 
 /* ------- LIQUID ------ */
-var liquid1 = new liquid_fill_gauge();
+var liquid1 = new liquidFillGauge();
 var config1 = liquid1.liquidFillGaugeDefaultSettings();
     config1.circleColor = "#FF7777";
     config1.textColor = "#FF4444";
@@ -17,3 +17,6 @@ var config1 = liquid1.liquidFillGaugeDefaultSettings();
     config1.waveAnimateTime = 1000;
 
 liquid1.loadLiquidFillGauge("fillgauge1", 28, config1);
+
+/* ------- COUNTER --------- */
+var counter1 = new counter("counter1", 0, 1082, 1200, "red_counter", false);
