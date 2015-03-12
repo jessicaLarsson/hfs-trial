@@ -2,6 +2,8 @@ var sweden = new sweden_map("map", "white", "orange");
 var donut = new donut("donut");
 var test_diagram = new grouped_bar_chart();
 
+var venn = new vennDiagram("venn");
+
 
 /* ------- LIQUID ------ */
 var liquid1 = new liquid_fill_gauge();
