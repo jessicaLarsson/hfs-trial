@@ -1,4 +1,4 @@
-function energy(){
+function grouped_bar_chart(){
   var margin = {top: 20, right: 20, bottom: 30, left: 40},
       width = 960 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
@@ -64,7 +64,7 @@ function energy(){
         .attr("y", 6)
         .attr("dy", ".71em")
         .style("text-anchor", "end")
-        .text("Population");
+        .text("Label");
 
     var region = svg.selectAll(".region")
         .data(data)

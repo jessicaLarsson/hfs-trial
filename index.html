@@ -15,6 +15,7 @@
         <!-- Custom CSS -->
         <link href="css/scrolling-nav.css" rel="stylesheet">
         <link href="css/map.css" rel="stylesheet">
+        <link href="css/charts.css" rel="stylesheet">
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -70,8 +71,15 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Hej på dej!</h1>
+                        <svg id="fillgauge1" width="97%" height="250"></svg>
                     </div>
                 </div>
+                <div class="row">
+                    <div class=col-lg-"12">
+                        <div id="donut">
+                        </div>
+                    </div>
+                </div>     
             </div>
         </section>
 
@@ -95,6 +103,10 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Sverige</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
                         <div id="map" style="height: 60vh;">
                         </div>
                     </div>
@@ -125,8 +137,11 @@
 
         <!-- Javascript Modules-->
         <script src="js/carsController.js"></script>
-        <script src="js/energy.js"></script>
+       
+        <script src="js/grouped-bar-chart.js"></script>
+        <script src="js/donut.js"></script>
         <script src="js/map.js"></script>
+        <script src="js/liquid_fill_gauge.js"></script>
         <script src="js/main.js"></script>
 
         <!-- Bootstrap Core JavaScript -->
