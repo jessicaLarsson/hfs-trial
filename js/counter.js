@@ -3,7 +3,7 @@ function counter(elementID, startvalue, endvalue, duration, className, showPerce
 	var textStartValue = startvalue;
 	var percentText = showPercent?"%":"";
 
-	 var textRounder = function(value){ return Math.round(value); };
+	var textRounder = function(value){ return Math.round(value); };
     if(parseFloat(textFinalValue) != parseFloat(textRounder(textFinalValue))){
         textRounder = function(value){ return parseFloat(value).toFixed(1); };
     }
