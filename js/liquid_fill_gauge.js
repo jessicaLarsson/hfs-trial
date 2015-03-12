@@ -1,4 +1,4 @@
-function liquid_fill_gauge(){
+function liquidFillGauge(){
 
 	this.liquidFillGaugeDefaultSettings = function(){
 	    return {
