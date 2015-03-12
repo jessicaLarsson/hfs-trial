@@ -1,9 +1,9 @@
-function sweden_map(){
+function sweden_map(div_name, stroke_color, fill_color){
     var zoom = d3.behavior.zoom()
         .scaleExtent([1, 15])
         .on("zoom", move);
 
-    var mapDiv = $("#map");
+    var mapDiv = $("#"+div_name);
 
     var width = mapDiv.width(); 
     var height = mapDiv.height();
@@ -32,14 +32,14 @@ function sweden_map(){
 
     d3.json("data/swe_mun.topojson", function(error, sweden) {
         mun = topojson.feature(sweden, sweden.objects.swe_mun).features;        
-        draw(mun);         
+        draw();         
      });
 
 
-    function draw(regions)
+    function draw()
     {
 
-        region = g.selectAll(".region").data(regions);
+        region = g.selectAll(".region").data(mun);
         region.enter().insert("path")
             .attr("class", "region")
             .attr("d", path)
@@ -47,8 +47,8 @@ function sweden_map(){
             .attr("title", function(d) { 
                 return d.properties.name; 
             })
-            .style("fill", "red")
-            .attr("stroke" , "white")
+            .style("fill", fill_color)
+            .attr("stroke" , stroke_color)
             .attr("strokewidth" , 0.5)
             .attr("stroke-linejoin" , "round")
         
@@ -70,16 +70,11 @@ function sweden_map(){
 
     }
 
-    // //zoom and panning method
     function move() {
-
         var t = d3.event.translate;
         var s = d3.event.scale;
-        
-
         zoom.translate(t);
         g.style("stroke-width", 1 / s).attr("transform", "translate(" + t + ")scale(" + s + ")");
-
     }
 }   
 

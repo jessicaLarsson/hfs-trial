@@ -64,7 +64,7 @@ function energy(){
         .attr("y", 6)
         .attr("dy", ".71em")
         .style("text-anchor", "end")
-        .text("Population");
+        .text("Label");
 
     var region = svg.selectAll(".region")
         .data(data)
