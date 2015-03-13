@@ -19,4 +19,4 @@ var config1 = liquid1.liquidFillGaugeDefaultSettings();
 liquid1.loadLiquidFillGauge("fillgauge1", 28, config1);
 
 /* ------- COUNTER --------- */
-var counter1 = new counter("counter1", 0, 1082, 1200, "red_counter", false);
+countTo("test_text", 1082, 1200, false);

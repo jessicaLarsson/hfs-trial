@@ -6,7 +6,7 @@
   shape-rendering: crispEdges;
 }
 
-.red_counter {
+#test_text {
 	font-size: 50px;
 	color: red;
 }
