@@ -1,3 +1,8 @@
+path.line_graph_path {
+    stroke: steelblue;
+    stroke-width: 1;
+    fill: none;
+  }
 .axis line,
 .axis path {
   fill: none;
@@ -7,6 +12,7 @@
 
 .axis {
   font: 10px sans-serif;
+  shape-rendering: crispEdges;
 }
 
 .bar {
@@ -19,6 +25,19 @@
 
 .x.axis path {
   display: none;
+}
+
+.x.axis .minor {
+	stroke-opacity: .5;
+}
+
+.x.axis line {
+  stroke: lightgrey;
+}
+
+.y.axis line, .y.axis path {
+	fill: none;
+	stroke: #000;
 }
 
 .line {

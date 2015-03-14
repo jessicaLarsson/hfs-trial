@@ -12,12 +12,17 @@ d3.csv("data/greenCars.csv", function(error, counties) {
 });
 
 //read data, green cars, number of cars etc
+d3.csv("data/waterTrend.csv", function(error, counties) {
+	if (error) throw error;
+	water_trend_data = d3.map();
+	counties.forEach(function(d) { water_trend_data.set(d.Län, d); });
+});
+
 d3.csv("data/drivenDistance.csv", function(error, counties) {
 	if (error) throw error;
 	driven_distance_data = d3.map();
 	counties.forEach(function(d) { driven_distance_data.set(d.Län, d); });
 });
-
 
 //read county data
 d3.csv("data/greenCars.csv", function(error, counties) {
@@ -44,6 +49,7 @@ var select = d3.selectAll("."+div_drop_down)
 	dispatch.on("countychange.menu", function(county) {
 	  select.property("value", county.Län);
 	  updateTransportationSection(county.Län);
+	  updateWaterSection(county.Län);
 	});
 });
 
@@ -164,9 +170,16 @@ var configFunFact = liquidFunFact.liquidFillGaugeDefaultSettings();
 
 liquidFunFact.loadLiquidFillGauge("water_fun_fact", 28, configFunFact);
 
+function updateWaterSection(c){
+	
+	var water_data = water_trend_data.get(c);
+	console.log(water_data[2000]);
+	var s = new waterTrendLineChart(water_data);
+
+}
+
 
 /* Water pie chart over the use of water in sweden , this pie chart won't update */
-console.log("ska anropa piechart");
 var waterData = d3.csv("data/waterUseSweden.csv");
 var waterPie = new pieChart("water_pie_chart", waterData);
 
