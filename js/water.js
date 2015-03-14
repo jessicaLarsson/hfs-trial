@@ -6,6 +6,12 @@ function water(){
 		counties.forEach(function(d) { water_trend_data.set(d.Län, d); });
 	});
 
+	d3.csv("data/populationCounty.csv", function(error,counties){
+		if(error) throw error;
+		populationData = d3.map();
+		counties.forEach(function(d) { populationData.set(d.region, d); });
+	});
+
 	/* Liquid Water Fun Fact*/
 	var liquidFunFact = new liquidFillGauge();
 	var configFunFact = liquidFunFact.liquidFillGaugeDefaultSettings();
@@ -27,7 +33,9 @@ function water(){
 
 	this.update = function(c){
 		var data = water_trend_data.get(c);
-		var water_data = [parseInt(data[1995]), parseInt(data[2000]), parseInt(data[2005]), parseInt(data[2010])];
+		var population = populationData.get(c)
+		var water_data = [parseInt(data[1995] / population[1995]), parseInt(data[2000] / population[2000]), 
+			parseInt(data[2005] / population[2005]), parseInt(data[2010] / population[2005])];
 		water_trend_graph.update(water_data);
 	}
 
