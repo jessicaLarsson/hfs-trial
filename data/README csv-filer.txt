@@ -45,20 +45,26 @@ Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__TK__TK1001__TK10
 Kommentar: Riket, län och kommun, månadsvis grunddata, 2002-2014
 
 --- Vatten --- 
-
-
 Fil:
 Beskrivning:
 Källa:
 Kommentar:
 
 --- Konsumtion --- 
-
-
 Fil:
 Beskrivning:
 Källa:
 Kommentar:
+
+Fil: consumptionHouseholdExpenses.csv
+Beskrivning: Hur mycket (i SEK) hushållen spenderar på vissa varugrupper
+Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HE__HE0201__HE0201A/HUTutgift6/?rxid=ecf6fd0d-ba06-4301-843b-bfff95eeda03
+Kommentar: Varugrupper: kött, fisk och skaldjur, frukt och bär, kaffe, drift av bil, resor och hotell, År: 2006-2009
+
+Fil: consumptionHouseholdRatio.csv
+Beskrivning: Hur stor andel av hushållens utgifter som spenderas på vissa varugrupper
+Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HE__HE0201__HE0201A/HUTutgift6/?rxid=ecf6fd0d-ba06-4301-843b-bfff95eeda03
+Kommentar: Varugrupper: kött, fisk och skaldjur, frukt och bär, kaffe, drift av bil, resor och hotell, År: 2006-2009
 
 	--- FUN FACTS ---
 Den genomsnittlige svensken åkte 1235 mil med bil år 2012 (Bilar på gas åkte i snitt längst, 2426 mil. Elbilar åkte i snitt kortast, 900 mil.)  
