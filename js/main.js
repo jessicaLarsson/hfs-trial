@@ -1,6 +1,54 @@
+/*----- DROP DOWN COUNTY SELECTION*/
+var div_drop_down = "drop_down_counties";
+var dispatch = d3.dispatch("load", "countychange");
+
+//read county data
+d3.csv("data/greenCars.csv", function(error, counties) {
+	if (error) throw error;
+	county_data = d3.map();
+	counties.forEach(function(d) { county_data.set(d.Län, d); });
+	dispatch.load(county_data);
+	dispatch.countychange(county_data.get("Stockholms län")); //startvalue
+});
+
+// A drop-down menu for selecting a county; uses the "menu" namespace
+dispatch.on("load.menu", function(green_cars_data) {
+var select = d3.selectAll("."+div_drop_down)
+  .append("div")
+  .append("select")
+  .on("change", function() { dispatch.countychange(county_data.get(this.value)); });
+
+	select.selectAll("option")
+	    .data(county_data.values())
+	  	.enter().append("option")
+	    .attr("value", function(d) { return d.Län; })
+	    .text(function(d) { return d.Län; });
+
+	dispatch.on("countychange.menu", function(county) {
+	  select.property("value", county.Län);
+	  updateTransportationSection(county.Län);
+	});
+});
+
+/*----- TRANSPORTATION SECTION -------- */
+//read data, green cars, number of cars etc
+d3.csv("data/greenCars.csv", function(error, counties) {
+	if (error) throw error;
+	green_cars_data = d3.map();
+	counties.forEach(function(d) { green_cars_data.set(d.Län, d); });
+	dispatch.load(green_cars_data);
+	//dispatch.countychange(green_cars_data.get("Stockholms län")); //startvalue
+});
+
+function updateTransportationSection(c){
+	console.log(c);
+	var data_test = green_cars_data.get(c);
+	console.log(data_test.AntalMiljöbilar);
+}
+
+
 var sweden = new swedenMap("map", "white", "orange");
 var donut = new donut("donut");
-
 var venn = new vennDiagram("venn");
 
 
@@ -21,34 +69,4 @@ liquid1.loadLiquidFillGauge("fillgauge1", 28, config1);
 countTo("test_text", 1082, 1200, false);
 
 
-
-/*TRANSPORTATION SECTION*/
-var div_drop_down = "drop_down_counties";
-var dispatch = d3.dispatch("load", "countychange");
-
-d3.csv("data/greenCars.csv", function(error, counties) {
-	if (error) throw error;
-	green_cars_data = d3.map();
-	counties.forEach(function(d) { green_cars_data.set(d.Län, d); });
-	dispatch.load(green_cars_data);
-	dispatch.countychange(green_cars_data.get("Stockholms län"));
-});
-
-// A drop-down menu for selecting a county; uses the "menu" namespace.
-dispatch.on("load.menu", function(green_cars_data) {
-var select = d3.selectAll("."+div_drop_down)
-  .append("div")
-  .append("select")
-  .on("change", function() { dispatch.countychange(green_cars_data.get(this.value)); });
-
-	select.selectAll("option")
-	    .data(green_cars_data.values())
-	  	.enter().append("option")
-	    .attr("value", function(d) { return d.Län; })
-	    .text(function(d) { return d.Län; });
-
-	dispatch.on("countychange.menu", function(county) {
-	  select.property("value", county.Län);
-	});
-});
 
