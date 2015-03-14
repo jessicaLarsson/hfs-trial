@@ -22,6 +22,7 @@ dispatch.on("load.menu", function(green_cars_data) {
 var select = d3.selectAll("."+div_drop_down)
   .append("div")
   .append("select")
+  .attr("class", "form-control")
   .on("change", function() { dispatch.countychange(county_data.get(this.value)); });
 
 	select.selectAll("option")

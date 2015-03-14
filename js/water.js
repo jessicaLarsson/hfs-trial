@@ -35,7 +35,7 @@ function water(){
 		var data = water_trend_data.get(c);
 		var population = populationData.get(c)
 		var water_data = [parseInt(data[1995] / population[1995]), parseInt(data[2000] / population[2000]), 
-			parseInt(data[2005] / population[2005]), parseInt(data[2010] / population[2005])];
+		parseInt(data[2005] / population[2005]), parseInt(data[2010] / population[2005])];
 		water_trend_graph.update(water_data);
 	}
 

@@ -40,6 +40,20 @@ of those sections to manage the look and feel of the site. */
 .section {
     padding-top: 30px;
     padding-bottom: 50px;
+}
+
+#transportationSection{
     background: #eeeeee;
-    border-top: 2px solid blue;
+}
+
+#waterSection{
+    background: #cccccc;
+}
+
+#energySection{
+    background: #eeeeee;
+}
+
+#consumptionSection{
+    background: #cccccc;
 }
