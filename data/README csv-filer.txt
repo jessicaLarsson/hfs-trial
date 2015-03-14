@@ -50,10 +50,15 @@ Beskrivning:
 Källa:
 Kommentar:
 
-Fil: waterUsageHousehold
+Fil: waterTrend.csv
 Beskrivning: Hur mycket vatten hushållen förbrukar per år
 Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902A/Vattenanvandning/?rxid=ecf6fd0d-ba06-4301-843b-bfff95eeda03
 Kommentar: Nivå: Län. Data: Samtliga hushåll aggregerade, 1000-tals kubikmeter. År: 1995, 2000, 2005, 2010
+
+Fil: populationCounty.csv
+Beskrivning: Folkmängd per län för utvalda år
+Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101A/BefolkningNy/?rxid=2d09f4a6-b7fd-4c12-91de-6067c42be7a6
+Kommentar: Data: Folkmängd i antal invånare. Nivå: Län. År: 1995, 2000, 2005, 2010.
 
 --- Konsumtion --- 
 Fil:
