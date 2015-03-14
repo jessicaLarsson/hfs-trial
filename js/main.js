@@ -4,6 +4,7 @@ var dispatch = d3.dispatch("load", "countychange");
 
 var water = new water();
 var transportation = new transportation();
+var consumtion = new consumtion();
 
 //read county data
 d3.csv("data/greenCars.csv", function(error, counties) {
