@@ -1,7 +1,7 @@
 function waterTrendLineChart(data) {
-	var m = [80, 80, 80, 80]; // margins
-	var w = 400 // width
-	var h = 300; // height
+	var m = [0, 80, 80, 80]; // margins
+	var w = $("#water_trend").width(); // width
+	var h = 200; // height
 
 	var x = d3.scale.linear().domain([0, data.length]).range([0, w]);
 	var y = d3.scale.linear().domain([0, d3.max(data)]).range([h, 0]);
