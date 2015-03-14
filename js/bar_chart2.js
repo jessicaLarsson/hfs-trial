@@ -1,4 +1,4 @@
-function barChart(data, div, h, w, max){
+function barChart2(data, div, h, w, max){
 
 	var color = ['#007F60', '#347F6D', '#00CC9A', '#007F4A', '#367F61'];
 	var years = ['2009','2010','2011','2012','2013'];
@@ -51,24 +51,7 @@ function barChart(data, div, h, w, max){
 	   		return xScale(i) + xScale.rangeBand() / 2;
 	   })
 	   .attr("y", function(d) {
-	   		return h - yScale(d) + 23;
-	   });
-
-	//Create labels
-	svg.selectAll(".year")
-	   .data(data)
-	   .enter()
-	   .append("text")
-	   .text(function(d, i) {
-	   		return years[i];
-	   })
-	   .attr("class", "year")
-	   .attr("text-anchor", "middle")
-	   .attr("x", function(d, i) {
-	   		return xScale(i) + xScale.rangeBand() / 2;
-	   })
-	   .attr("y", function(d) {
-	   		return h-10;
+	   		return h - yScale(d)-3;
 	   });
 
 

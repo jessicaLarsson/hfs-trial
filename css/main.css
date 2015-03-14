@@ -1,3 +1,9 @@
+p {
+	font-size: 12px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+}
+
 .drop_down_counties{
 	padding-bottom: 20px;
 }
@@ -11,15 +17,24 @@ h1.section-heading{
 
 /*TRANSPORTATOPN SECTION*/
 #nr_of_cars, #green_cars{
-	font-size: 90px;
+	font-size: 80px;
 	font-family: 'Oswald', sans-serif;
 	font-weight: 700;
+	padding-bottom: 0px;
 }
 
-#nr_of_cars{
-	color: #FF0000;
+#nr_of_cars, #nr_of_cars_sub{
+	color: #403826;
 }
 
-#green_cars{
-	color: #FF00FF;
+#green_cars, #green_cars_sub{
+	color: #007F60;
+}
+
+#nr_of_cars_sub, #green_cars_sub{
+	font-size: 44px;
+	text-align: center;
+	padding-top: 0px;
+
+
 }

@@ -22,7 +22,7 @@ function transportation(){
 	var travel_data_div = "travel1";
 	var travel_div_h = 300;
 	var travel_div_w = $("#"+travel_data_div).width();
-	var bar_chart = new barChart(travel_data, travel_data_div, travel_div_h, travel_div_w, 2300);
+	var bar_chart = new barChart2(travel_data, travel_data_div, travel_div_h, travel_div_w, 2300);
 
 
 	//----------------------------------
