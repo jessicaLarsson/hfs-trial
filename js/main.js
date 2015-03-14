@@ -169,6 +169,3 @@ var waterData = d3.csv("data/waterUseSweden.csv");
 var waterPie = new pieChart("water_pie_chart", waterData);
 
 /* ----- Consupmtion Section -----*/
-
-d3.csv("carbonPollutionConsumers.csv", function(error, data) {
-
