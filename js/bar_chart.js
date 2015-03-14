@@ -1,10 +1,10 @@
-function barChart(data, div, h, w){
+function barChart(data, div, h, w, max){
 	var xScale = d3.scale.ordinal()
 					.domain(d3.range(data.length))
 					.rangeRoundBands([0, w], 0.05);
 
 	var yScale = d3.scale.linear()
-					.domain([0, d3.max(data)])
+					.domain([0, max])
 					.range([0, h]);
 
 	//Create SVG element
