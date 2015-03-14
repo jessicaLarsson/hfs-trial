@@ -1,0 +1,2521 @@
+"region","drivmedel","2002M01","2002M02","2002M03","2002M04","2002M05","2002M06","2002M07","2002M08","2002M09","2002M10","2002M11","2002M12"
+"00 Riket","bensin",17968,19756,24725,25563,26932,24835,19155,20749,23649,25305,23176,21173
+"00 Riket","diesel",1333,1502,1789,1774,1806,1591,1340,1387,1588,1951,1966,1960
+"00 Riket","el",0,1,0,0,0,0,0,1,0,0,0,0
+"00 Riket","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"00 Riket","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"00 Riket","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"00 Riket","gas/gas flexifuel",2,14,51,85,129,103,47,115,56,63,155,121
+"00 Riket","övriga bränslen",0,1,0,0,2,0,0,0,0,0,0,0
+"01 Stockholms län","bensin",4557,4632,5951,6394,6950,6302,4548,5093,5304,5628,5307,5253
+"01 Stockholms län","diesel",269,279,306,372,320,256,212,249,295,431,436,391
+"01 Stockholms län","el",0,0,0,0,0,0,0,1,0,0,0,0
+"01 Stockholms län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"01 Stockholms län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"01 Stockholms län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"01 Stockholms län","gas/gas flexifuel",0,2,32,35,39,64,28,70,26,33,115,92
+"01 Stockholms län","övriga bränslen",0,1,0,0,0,0,0,0,0,0,0,0
+"03 Uppsala län","bensin",574,635,859,879,880,847,641,659,776,824,782,742
+"03 Uppsala län","diesel",54,35,56,55,54,61,42,51,71,73,67,69
+"03 Uppsala län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"03 Uppsala län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"03 Uppsala län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"03 Uppsala län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"03 Uppsala län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"03 Uppsala län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"04 Södermanlands län","bensin",540,541,723,761,758,655,562,526,694,731,671,601
+"04 Södermanlands län","diesel",24,28,37,34,32,54,28,38,34,50,55,55
+"04 Södermanlands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"04 Södermanlands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"04 Södermanlands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"04 Södermanlands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"04 Södermanlands län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,1,0
+"04 Södermanlands län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"05 Östergötlands län","bensin",702,828,967,1024,1128,1034,728,808,926,1022,988,866
+"05 Östergötlands län","diesel",38,48,67,62,48,31,39,39,42,59,53,52
+"05 Östergötlands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"05 Östergötlands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"05 Östergötlands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"05 Östergötlands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"05 Östergötlands län","gas/gas flexifuel",1,0,2,1,14,5,2,3,4,0,1,4
+"05 Östergötlands län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"06 Jönköpings län","bensin",847,766,1087,1112,1158,998,719,765,961,1076,976,782
+"06 Jönköpings län","diesel",60,53,64,42,54,54,46,52,60,86,63,89
+"06 Jönköpings län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"06 Jönköpings län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"06 Jönköpings län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"06 Jönköpings län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"06 Jönköpings län","gas/gas flexifuel",0,1,2,3,4,1,1,0,1,1,1,0
+"06 Jönköpings län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"07 Kronobergs län","bensin",339,372,467,512,466,475,404,416,449,496,444,371
+"07 Kronobergs län","diesel",35,30,47,35,30,32,30,22,36,29,31,53
+"07 Kronobergs län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"07 Kronobergs län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"07 Kronobergs län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"07 Kronobergs län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"07 Kronobergs län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"07 Kronobergs län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"08 Kalmar län","bensin",434,428,613,647,643,603,449,454,648,647,575,468
+"08 Kalmar län","diesel",34,37,52,50,46,54,44,43,44,44,31,50
+"08 Kalmar län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"08 Kalmar län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"08 Kalmar län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"08 Kalmar län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"08 Kalmar län","gas/gas flexifuel",0,0,0,0,1,0,0,1,0,0,0,0
+"08 Kalmar län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"09 Gotlands län","bensin",56,79,97,123,107,113,107,63,95,104,82,65
+"09 Gotlands län","diesel",2,5,3,14,6,7,3,5,6,3,3,3
+"09 Gotlands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"09 Gotlands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"09 Gotlands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"09 Gotlands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"09 Gotlands län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"09 Gotlands län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"10 Blekinge län","bensin",241,248,310,334,356,331,279,361,313,412,324,299
+"10 Blekinge län","diesel",18,5,11,14,11,3,10,18,10,17,11,15
+"10 Blekinge län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"10 Blekinge län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"10 Blekinge län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"10 Blekinge län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"10 Blekinge län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"10 Blekinge län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"12 Skåne län","bensin",2366,2953,3361,3506,3601,3304,2811,2970,3483,3531,3133,3060
+"12 Skåne län","diesel",146,172,225,189,204,190,168,170,176,197,222,189
+"12 Skåne län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"12 Skåne län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"12 Skåne län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"12 Skåne län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"12 Skåne län","gas/gas flexifuel",0,7,5,13,11,6,7,8,11,18,11,6
+"12 Skåne län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"13 Hallands län","bensin",499,602,728,759,793,672,598,620,682,780,643,648
+"13 Hallands län","diesel",25,34,47,43,53,60,42,22,55,50,57,59
+"13 Hallands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"13 Hallands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"13 Hallands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"13 Hallands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"13 Hallands län","gas/gas flexifuel",0,0,0,1,1,2,1,2,1,2,0,0
+"13 Hallands län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"14 Västra Götalands län","bensin",3377,3912,5009,4790,5089,4819,3504,3946,4542,4942,4737,4142
+"14 Västra Götalands län","diesel",265,348,351,408,447,400,295,294,323,400,402,397
+"14 Västra Götalands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"14 Västra Götalands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"14 Västra Götalands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"14 Västra Götalands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"14 Västra Götalands län","gas/gas flexifuel",1,4,10,32,58,25,8,31,13,9,25,19
+"14 Västra Götalands län","övriga bränslen",0,0,0,0,2,0,0,0,0,0,0,0
+"15 f.d. Älvsborgs län","bensin",0,0,0,0,0,0,0,0,0,0,0,0
+"15 f.d. Älvsborgs län","diesel",0,0,0,0,0,0,0,0,0,0,0,0
+"15 f.d. Älvsborgs län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"15 f.d. Älvsborgs län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"15 f.d. Älvsborgs län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"15 f.d. Älvsborgs län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"15 f.d. Älvsborgs län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"15 f.d. Älvsborgs län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"16 f.d. Skaraborgs län","bensin",0,0,0,0,0,0,0,0,0,0,0,0
+"16 f.d. Skaraborgs län","diesel",0,0,0,0,0,0,0,0,0,0,0,0
+"16 f.d. Skaraborgs län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"16 f.d. Skaraborgs län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"16 f.d. Skaraborgs län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"16 f.d. Skaraborgs län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"16 f.d. Skaraborgs län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"16 f.d. Skaraborgs län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"17 Värmlands län","bensin",486,461,591,660,690,583,555,624,646,763,709,598
+"17 Värmlands län","diesel",44,39,47,74,67,44,45,52,58,72,67,92
+"17 Värmlands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"17 Värmlands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"17 Värmlands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"17 Värmlands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"17 Värmlands län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"17 Värmlands län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"18 Örebro län","bensin",496,600,856,710,745,734,552,613,664,681,667,525
+"18 Örebro län","diesel",65,103,148,51,44,40,41,35,54,47,55,45
+"18 Örebro län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"18 Örebro län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"18 Örebro län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"18 Örebro län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"18 Örebro län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"18 Örebro län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"19 Västmanlands län","bensin",423,508,559,615,645,613,486,523,609,649,583,583
+"19 Västmanlands län","diesel",26,27,34,32,39,45,33,25,30,47,56,52
+"19 Västmanlands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"19 Västmanlands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"19 Västmanlands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"19 Västmanlands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"19 Västmanlands län","gas/gas flexifuel",0,0,0,0,1,0,0,0,0,0,1,0
+"19 Västmanlands län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"20 Dalarnas län","bensin",476,450,538,635,692,628,551,519,646,663,616,460
+"20 Dalarnas län","diesel",37,51,50,62,67,55,49,57,54,72,64,58
+"20 Dalarnas län","el",0,1,0,0,0,0,0,0,0,0,0,0
+"20 Dalarnas län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"20 Dalarnas län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"20 Dalarnas län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"20 Dalarnas län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"20 Dalarnas län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"21 Gävleborgs län","bensin",413,423,523,544,594,597,435,488,592,611,545,449
+"21 Gävleborgs län","diesel",29,40,40,25,51,28,41,34,48,63,45,46
+"21 Gävleborgs län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"21 Gävleborgs län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"21 Gävleborgs län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"21 Gävleborgs län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"21 Gävleborgs län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"21 Gävleborgs län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"22 Västernorrlands län","bensin",329,413,485,527,551,498,419,457,507,620,450,405
+"22 Västernorrlands län","diesel",31,39,39,41,47,37,42,40,40,44,45,57
+"22 Västernorrlands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"22 Västernorrlands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"22 Västernorrlands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"22 Västernorrlands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"22 Västernorrlands län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"22 Västernorrlands län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"23 Jämtlands län","bensin",186,170,183,181,251,226,156,165,215,216,191,192
+"23 Jämtlands län","diesel",38,34,34,38,38,27,29,29,21,32,36,39
+"23 Jämtlands län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"23 Jämtlands län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"23 Jämtlands län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"23 Jämtlands län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"23 Jämtlands län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"23 Jämtlands län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"24 Västerbottens län","bensin",322,385,420,499,421,385,314,336,441,457,388,352
+"24 Västerbottens län","diesel",42,29,55,43,61,44,35,46,57,61,58,66
+"24 Västerbottens län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"24 Västerbottens län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"24 Västerbottens län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"24 Västerbottens län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"24 Västerbottens län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"24 Västerbottens län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"25 Norrbottens län","bensin",305,350,398,351,414,418,337,343,456,452,365,312
+"25 Norrbottens län","diesel",51,66,76,90,87,69,66,66,74,74,109,83
+"25 Norrbottens län","el",0,0,0,0,0,0,0,0,0,0,0,0
+"25 Norrbottens län","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"25 Norrbottens län","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"25 Norrbottens län","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"25 Norrbottens län","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"25 Norrbottens län","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0114 Upplands Väsby","bensin",58,83,85,98,106,98,63,72,83,99,96,100
+"0114 Upplands Väsby","diesel",5,3,2,6,8,1,3,5,5,11,6,6
+"0114 Upplands Väsby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0114 Upplands Väsby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0114 Upplands Väsby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0114 Upplands Väsby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0114 Upplands Väsby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0114 Upplands Väsby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0115 Vallentuna","bensin",40,48,68,61,100,79,44,52,60,77,80,60
+"0115 Vallentuna","diesel",1,4,3,3,3,4,3,0,4,1,2,3
+"0115 Vallentuna","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0115 Vallentuna","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0115 Vallentuna","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0115 Vallentuna","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0115 Vallentuna","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0115 Vallentuna","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0117 Österåker","bensin",60,71,88,101,112,74,71,69,97,92,108,66
+"0117 Österåker","diesel",0,1,3,5,1,1,7,1,3,2,3,1
+"0117 Österåker","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0117 Österåker","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0117 Österåker","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0117 Österåker","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0117 Österåker","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0117 Österåker","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0120 Värmdö","bensin",46,52,75,84,90,116,67,49,72,51,68,55
+"0120 Värmdö","diesel",0,4,5,8,2,3,1,1,5,10,5,3
+"0120 Värmdö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0120 Värmdö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0120 Värmdö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0120 Värmdö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0120 Värmdö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0120 Värmdö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0123 Järfälla","bensin",80,87,152,148,207,157,100,84,125,123,106,108
+"0123 Järfälla","diesel",4,1,4,5,7,0,5,6,6,7,10,8
+"0123 Järfälla","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0123 Järfälla","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0123 Järfälla","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0123 Järfälla","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0123 Järfälla","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0123 Järfälla","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0125 Ekerö","bensin",31,38,47,40,47,46,37,28,38,55,51,27
+"0125 Ekerö","diesel",0,1,2,1,0,2,3,0,1,3,3,1
+"0125 Ekerö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0125 Ekerö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0125 Ekerö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0125 Ekerö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0125 Ekerö","gas/gas flexifuel",0,0,0,0,0,0,0,1,0,0,0,0
+"0125 Ekerö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0126 Huddinge","bensin",138,136,166,196,219,178,141,149,174,146,142,132
+"0126 Huddinge","diesel",6,9,7,10,10,6,5,11,14,15,8,6
+"0126 Huddinge","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0126 Huddinge","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0126 Huddinge","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0126 Huddinge","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0126 Huddinge","gas/gas flexifuel",0,0,0,0,0,2,0,0,1,0,0,0
+"0126 Huddinge","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0127 Botkyrka","bensin",98,113,132,158,157,120,111,103,141,135,130,107
+"0127 Botkyrka","diesel",5,4,5,13,6,5,1,12,6,11,11,10
+"0127 Botkyrka","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0127 Botkyrka","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0127 Botkyrka","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0127 Botkyrka","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0127 Botkyrka","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0127 Botkyrka","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0128 Salem","bensin",23,18,27,37,30,28,23,23,17,33,21,25
+"0128 Salem","diesel",1,0,0,1,2,1,2,0,2,3,2,3
+"0128 Salem","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0128 Salem","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0128 Salem","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0128 Salem","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0128 Salem","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0128 Salem","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0136 Haninge","bensin",141,147,236,238,190,187,200,163,171,182,182,143
+"0136 Haninge","diesel",7,5,4,9,6,14,7,11,5,6,8,7
+"0136 Haninge","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0136 Haninge","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0136 Haninge","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0136 Haninge","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0136 Haninge","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0136 Haninge","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0138 Tyresö","bensin",65,61,67,81,87,58,75,73,85,73,75,61
+"0138 Tyresö","diesel",1,2,1,3,2,1,0,3,4,2,4,0
+"0138 Tyresö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0138 Tyresö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0138 Tyresö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0138 Tyresö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0138 Tyresö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0138 Tyresö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0139 Upplands-Bro","bensin",21,31,39,45,44,29,34,36,38,36,28,39
+"0139 Upplands-Bro","diesel",0,0,2,7,2,2,4,1,1,2,2,4
+"0139 Upplands-Bro","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0139 Upplands-Bro","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0139 Upplands-Bro","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0139 Upplands-Bro","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0139 Upplands-Bro","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0139 Upplands-Bro","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0140 Nykvarn","bensin",13,11,24,16,18,17,18,12,11,11,16,17
+"0140 Nykvarn","diesel",0,0,2,0,0,0,0,0,1,1,1,1
+"0140 Nykvarn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0140 Nykvarn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0140 Nykvarn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0140 Nykvarn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0140 Nykvarn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0140 Nykvarn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0160 Täby","bensin",110,107,156,176,212,207,126,112,147,161,144,136
+"0160 Täby","diesel",5,5,7,7,5,2,2,10,7,6,8,3
+"0160 Täby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0160 Täby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0160 Täby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0160 Täby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0160 Täby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0160 Täby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0162 Danderyd","bensin",111,96,127,148,155,125,105,106,112,147,104,92
+"0162 Danderyd","diesel",3,5,2,4,2,1,1,2,5,6,4,3
+"0162 Danderyd","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0162 Danderyd","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0162 Danderyd","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0162 Danderyd","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0162 Danderyd","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0162 Danderyd","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0163 Sollentuna","bensin",130,133,150,156,182,145,108,113,126,122,111,119
+"0163 Sollentuna","diesel",4,2,8,9,10,9,16,10,8,15,13,6
+"0163 Sollentuna","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0163 Sollentuna","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0163 Sollentuna","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0163 Sollentuna","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0163 Sollentuna","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0163 Sollentuna","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0180 Stockholm","bensin",2217,2307,2913,3116,3328,3163,2047,2473,2482,2692,2613,2667
+"0180 Stockholm","diesel",139,170,176,178,160,121,91,104,130,229,227,257
+"0180 Stockholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0180 Stockholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0180 Stockholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0180 Stockholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0180 Stockholm","gas/gas flexifuel",0,2,31,35,35,62,26,69,25,33,114,90
+"0180 Stockholm","övriga bränslen",0,1,0,0,0,0,0,0,0,0,0,0
+"0181 Södertälje","bensin",246,254,305,363,364,264,192,352,255,283,259,269
+"0181 Södertälje","diesel",39,27,26,44,36,37,21,30,35,34,43,24
+"0181 Södertälje","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0181 Södertälje","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0181 Södertälje","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0181 Södertälje","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0181 Södertälje","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0181 Södertälje","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0182 Nacka","bensin",141,123,189,227,204,226,165,142,159,214,172,175
+"0182 Nacka","diesel",6,5,6,11,5,8,6,5,9,5,12,8
+"0182 Nacka","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0182 Nacka","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0182 Nacka","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0182 Nacka","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0182 Nacka","gas/gas flexifuel",0,0,1,0,0,0,0,0,0,0,1,0
+"0182 Nacka","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0183 Sundbyberg","bensin",33,50,66,62,70,79,47,34,55,64,66,53
+"0183 Sundbyberg","diesel",1,4,5,2,1,2,1,1,0,4,5,1
+"0183 Sundbyberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0183 Sundbyberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0183 Sundbyberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0183 Sundbyberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0183 Sundbyberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0183 Sundbyberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0184 Solna","bensin",455,360,479,399,603,514,448,467,482,437,325,457
+"0184 Solna","diesel",21,17,19,20,17,18,12,20,25,22,25,10
+"0184 Solna","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0184 Solna","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0184 Solna","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0184 Solna","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0184 Solna","gas/gas flexifuel",0,0,0,0,4,0,2,0,0,0,0,2
+"0184 Solna","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0186 Lidingö","bensin",66,55,77,98,106,85,67,75,65,69,90,73
+"0186 Lidingö","diesel",2,1,0,3,5,2,1,0,1,4,1,3
+"0186 Lidingö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0186 Lidingö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0186 Lidingö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0186 Lidingö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0186 Lidingö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0186 Lidingö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0187 Vaxholm","bensin",14,15,24,15,25,29,17,19,17,21,21,28
+"0187 Vaxholm","diesel",1,0,0,2,2,2,2,0,2,2,0,1
+"0187 Vaxholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0187 Vaxholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0187 Vaxholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0187 Vaxholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0187 Vaxholm","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0187 Vaxholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0188 Norrtälje","bensin",123,135,151,229,183,160,141,158,176,179,175,150
+"0188 Norrtälje","diesel",15,7,11,14,15,9,14,8,6,27,27,16
+"0188 Norrtälje","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0188 Norrtälje","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0188 Norrtälje","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0188 Norrtälje","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0188 Norrtälje","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0188 Norrtälje","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0191 Sigtuna","bensin",56,63,64,70,77,77,66,81,82,73,88,56
+"0191 Sigtuna","diesel",3,1,3,4,7,4,2,4,6,2,5,1
+"0191 Sigtuna","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0191 Sigtuna","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0191 Sigtuna","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0191 Sigtuna","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0191 Sigtuna","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0191 Sigtuna","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0192 Nynäshamn","bensin",40,38,44,31,34,40,35,47,32,52,36,38
+"0192 Nynäshamn","diesel",0,1,3,3,6,1,2,4,4,0,1,5
+"0192 Nynäshamn","el",0,0,0,0,0,0,0,1,0,0,0,0
+"0192 Nynäshamn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0192 Nynäshamn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0192 Nynäshamn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0192 Nynäshamn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0192 Nynäshamn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0305 Håbo","bensin",30,24,42,37,51,62,37,19,40,48,43,35
+"0305 Håbo","diesel",3,1,4,3,1,2,1,0,2,3,3,0
+"0305 Håbo","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0305 Håbo","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0305 Håbo","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0305 Håbo","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0305 Håbo","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0305 Håbo","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0319 Älvkarleby","bensin",9,7,16,15,6,10,7,7,14,16,16,9
+"0319 Älvkarleby","diesel",0,2,0,1,1,0,0,1,0,4,1,0
+"0319 Älvkarleby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0319 Älvkarleby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0319 Älvkarleby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0319 Älvkarleby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0319 Älvkarleby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0319 Älvkarleby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0330 Knivsta","bensin",0,0,0,0,0,0,0,0,0,0,0,0
+"0330 Knivsta","diesel",0,0,0,0,0,0,0,0,0,0,0,0
+"0330 Knivsta","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0330 Knivsta","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0330 Knivsta","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0330 Knivsta","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0330 Knivsta","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0330 Knivsta","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0331 Heby","bensin",0,0,0,0,0,0,0,0,0,0,0,0
+"0331 Heby","diesel",0,0,0,0,0,0,0,0,0,0,0,0
+"0331 Heby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0331 Heby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0331 Heby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0331 Heby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0331 Heby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0331 Heby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0360 Tierp","bensin",7,14,30,26,29,30,17,15,25,22,18,13
+"0360 Tierp","diesel",2,1,3,1,4,2,1,0,1,5,2,1
+"0360 Tierp","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0360 Tierp","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0360 Tierp","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0360 Tierp","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0360 Tierp","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0360 Tierp","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0380 Uppsala","bensin",395,443,627,617,594,592,455,489,519,528,527,512
+"0380 Uppsala","diesel",37,22,34,35,40,42,28,36,37,47,45,44
+"0380 Uppsala","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0380 Uppsala","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0380 Uppsala","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0380 Uppsala","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0380 Uppsala","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0380 Uppsala","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0381 Enköping","bensin",113,112,119,148,167,131,104,93,151,167,153,147
+"0381 Enköping","diesel",9,8,11,14,8,9,5,12,18,12,13,19
+"0381 Enköping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0381 Enköping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0381 Enköping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0381 Enköping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0381 Enköping","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0381 Enköping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0382 Östhammar","bensin",20,35,25,36,33,22,21,36,27,43,25,26
+"0382 Östhammar","diesel",3,1,4,1,0,6,7,2,13,2,3,5
+"0382 Östhammar","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0382 Östhammar","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0382 Östhammar","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0382 Östhammar","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0382 Östhammar","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0382 Östhammar","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0428 Vingåker","bensin",9,7,15,17,16,8,12,8,3,13,7,14
+"0428 Vingåker","diesel",2,1,0,0,0,0,0,0,0,2,0,0
+"0428 Vingåker","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0428 Vingåker","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0428 Vingåker","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0428 Vingåker","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0428 Vingåker","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0428 Vingåker","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0461 Gnesta","bensin",8,15,18,21,18,19,15,6,18,25,16,15
+"0461 Gnesta","diesel",1,0,0,1,1,1,0,1,1,0,3,2
+"0461 Gnesta","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0461 Gnesta","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0461 Gnesta","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0461 Gnesta","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0461 Gnesta","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0461 Gnesta","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0480 Nyköping","bensin",140,132,230,212,193,188,118,125,213,186,192,162
+"0480 Nyköping","diesel",5,9,18,10,10,31,16,14,8,23,18,19
+"0480 Nyköping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0480 Nyköping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0480 Nyköping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0480 Nyköping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0480 Nyköping","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,1,0
+"0480 Nyköping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0481 Oxelösund","bensin",12,14,11,16,22,19,27,10,16,17,27,12
+"0481 Oxelösund","diesel",0,0,1,1,0,2,0,0,0,0,0,2
+"0481 Oxelösund","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0481 Oxelösund","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0481 Oxelösund","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0481 Oxelösund","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0481 Oxelösund","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0481 Oxelösund","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0482 Flen","bensin",43,20,26,28,34,31,36,16,33,29,46,30
+"0482 Flen","diesel",2,2,2,3,4,2,0,4,3,2,1,4
+"0482 Flen","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0482 Flen","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0482 Flen","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0482 Flen","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0482 Flen","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0482 Flen","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0483 Katrineholm","bensin",81,92,109,110,115,99,89,94,94,117,90,91
+"0483 Katrineholm","diesel",5,2,3,4,4,6,3,6,9,7,9,7
+"0483 Katrineholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0483 Katrineholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0483 Katrineholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0483 Katrineholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0483 Katrineholm","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0483 Katrineholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0484 Eskilstuna","bensin",171,171,219,260,253,203,181,183,211,241,196,184
+"0484 Eskilstuna","diesel",4,11,11,15,9,6,5,7,10,8,18,18
+"0484 Eskilstuna","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0484 Eskilstuna","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0484 Eskilstuna","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0484 Eskilstuna","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0484 Eskilstuna","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0484 Eskilstuna","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0486 Strängnäs","bensin",59,68,85,79,81,68,56,69,79,87,74,68
+"0486 Strängnäs","diesel",5,2,1,0,4,5,2,3,1,7,3,3
+"0486 Strängnäs","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0486 Strängnäs","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0486 Strängnäs","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0486 Strängnäs","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0486 Strängnäs","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0486 Strängnäs","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0488 Trosa","bensin",17,22,10,18,26,20,28,15,27,16,23,25
+"0488 Trosa","diesel",0,1,1,0,0,1,2,3,2,1,3,0
+"0488 Trosa","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0488 Trosa","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0488 Trosa","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0488 Trosa","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0488 Trosa","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0488 Trosa","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0509 Ödeshög","bensin",3,2,7,5,4,4,4,6,4,4,10,10
+"0509 Ödeshög","diesel",1,4,3,0,4,0,1,1,0,1,0,0
+"0509 Ödeshög","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0509 Ödeshög","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0509 Ödeshög","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0509 Ödeshög","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0509 Ödeshög","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0509 Ödeshög","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0512 Ydre","bensin",3,3,6,9,8,6,4,5,6,2,5,2
+"0512 Ydre","diesel",1,1,0,0,1,0,0,1,1,1,0,0
+"0512 Ydre","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0512 Ydre","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0512 Ydre","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0512 Ydre","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0512 Ydre","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0512 Ydre","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0513 Kinda","bensin",13,28,47,53,35,37,21,40,23,36,42,46
+"0513 Kinda","diesel",0,2,1,5,1,0,0,3,0,1,0,6
+"0513 Kinda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0513 Kinda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0513 Kinda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0513 Kinda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0513 Kinda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0513 Kinda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0560 Boxholm","bensin",6,3,2,7,7,4,4,2,3,4,8,4
+"0560 Boxholm","diesel",0,0,0,1,0,1,1,1,2,1,0,0
+"0560 Boxholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0560 Boxholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0560 Boxholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0560 Boxholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0560 Boxholm","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0560 Boxholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0561 Åtvidaberg","bensin",11,15,13,18,30,19,11,20,15,19,19,21
+"0561 Åtvidaberg","diesel",2,0,3,2,1,1,1,2,0,0,1,5
+"0561 Åtvidaberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0561 Åtvidaberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0561 Åtvidaberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0561 Åtvidaberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0561 Åtvidaberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0561 Åtvidaberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0562 Finspång","bensin",30,39,45,53,46,41,32,31,48,59,35,44
+"0562 Finspång","diesel",1,1,3,3,0,0,3,1,1,2,1,4
+"0562 Finspång","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0562 Finspång","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0562 Finspång","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0562 Finspång","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0562 Finspång","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0562 Finspång","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0563 Valdemarsvik","bensin",11,8,10,13,6,9,6,7,6,19,8,11
+"0563 Valdemarsvik","diesel",0,1,1,1,1,0,0,0,1,0,3,0
+"0563 Valdemarsvik","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0563 Valdemarsvik","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0563 Valdemarsvik","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0563 Valdemarsvik","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0563 Valdemarsvik","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0563 Valdemarsvik","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0580 Linköping","bensin",272,270,357,369,423,410,278,288,361,364,374,268
+"0580 Linköping","diesel",18,16,18,25,14,12,6,8,15,24,21,17
+"0580 Linköping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0580 Linköping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0580 Linköping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0580 Linköping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0580 Linköping","gas/gas flexifuel",1,0,2,1,14,5,2,3,4,0,1,3
+"0580 Linköping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0581 Norrköping","bensin",219,285,302,314,350,321,214,262,291,313,300,272
+"0581 Norrköping","diesel",7,13,25,10,15,10,18,9,7,10,12,14
+"0581 Norrköping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0581 Norrköping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0581 Norrköping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0581 Norrköping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0581 Norrköping","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0581 Norrköping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0582 Söderköping","bensin",11,27,12,18,26,26,19,16,17,27,31,18
+"0582 Söderköping","diesel",1,4,0,4,3,1,2,2,1,2,0,0
+"0582 Söderköping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0582 Söderköping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0582 Söderköping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0582 Söderköping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0582 Söderköping","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0582 Söderköping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0583 Motala","bensin",87,108,109,104,126,105,87,92,94,111,114,118
+"0583 Motala","diesel",4,4,6,6,7,5,4,7,9,13,8,2
+"0583 Motala","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0583 Motala","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0583 Motala","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0583 Motala","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0583 Motala","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,1
+"0583 Motala","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0584 Vadstena","bensin",9,11,16,9,9,8,11,6,15,12,15,9
+"0584 Vadstena","diesel",0,2,2,2,0,0,2,1,0,1,2,3
+"0584 Vadstena","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0584 Vadstena","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0584 Vadstena","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0584 Vadstena","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0584 Vadstena","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0584 Vadstena","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0586 Mjölby","bensin",27,29,41,52,58,44,37,33,43,52,27,43
+"0586 Mjölby","diesel",3,0,5,3,1,1,1,3,5,3,5,1
+"0586 Mjölby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0586 Mjölby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0586 Mjölby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0586 Mjölby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0586 Mjölby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0586 Mjölby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0604 Aneby","bensin",1,3,8,7,11,6,9,7,4,5,2,7
+"0604 Aneby","diesel",2,1,1,0,0,0,0,1,1,2,0,0
+"0604 Aneby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0604 Aneby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0604 Aneby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0604 Aneby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0604 Aneby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0604 Aneby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0617 Gnosjö","bensin",21,22,19,26,28,30,16,12,16,18,21,17
+"0617 Gnosjö","diesel",1,2,0,0,1,0,1,0,1,2,1,2
+"0617 Gnosjö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0617 Gnosjö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0617 Gnosjö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0617 Gnosjö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0617 Gnosjö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0617 Gnosjö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0642 Mullsjö","bensin",15,6,12,9,14,13,10,7,6,16,8,6
+"0642 Mullsjö","diesel",0,0,0,1,0,0,0,3,1,0,1,0
+"0642 Mullsjö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0642 Mullsjö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0642 Mullsjö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0642 Mullsjö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0642 Mullsjö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0642 Mullsjö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0643 Habo","bensin",16,10,28,40,40,23,28,28,29,29,27,23
+"0643 Habo","diesel",0,1,1,1,2,1,0,0,2,0,2,1
+"0643 Habo","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0643 Habo","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0643 Habo","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0643 Habo","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0643 Habo","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0643 Habo","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0662 Gislaved","bensin",75,54,72,70,87,68,47,48,69,69,62,67
+"0662 Gislaved","diesel",7,1,3,3,5,3,2,3,5,4,1,6
+"0662 Gislaved","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0662 Gislaved","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0662 Gislaved","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0662 Gislaved","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0662 Gislaved","gas/gas flexifuel",0,1,0,1,0,0,0,0,0,0,0,0
+"0662 Gislaved","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0665 Vaggeryd","bensin",11,14,17,17,15,20,14,13,14,19,14,6
+"0665 Vaggeryd","diesel",0,1,0,0,4,1,1,3,0,0,1,3
+"0665 Vaggeryd","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0665 Vaggeryd","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0665 Vaggeryd","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0665 Vaggeryd","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0665 Vaggeryd","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0665 Vaggeryd","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0680 Jönköping","bensin",332,330,529,523,512,447,331,328,474,494,428,355
+"0680 Jönköping","diesel",23,29,29,18,22,17,14,14,28,35,24,41
+"0680 Jönköping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0680 Jönköping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0680 Jönköping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0680 Jönköping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0680 Jönköping","gas/gas flexifuel",0,0,2,2,4,1,0,0,1,1,1,0
+"0680 Jönköping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0682 Nässjö","bensin",71,59,58,65,95,86,41,43,68,85,66,51
+"0682 Nässjö","diesel",5,2,9,5,3,4,7,6,5,4,2,6
+"0682 Nässjö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0682 Nässjö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0682 Nässjö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0682 Nässjö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0682 Nässjö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0682 Nässjö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0683 Värnamo","bensin",165,121,144,152,153,153,109,134,139,161,146,118
+"0683 Värnamo","diesel",8,10,7,6,12,15,12,12,9,21,13,16
+"0683 Värnamo","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0683 Värnamo","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0683 Värnamo","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0683 Värnamo","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0683 Värnamo","gas/gas flexifuel",0,0,0,0,0,0,1,0,0,0,0,0
+"0683 Värnamo","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0684 Sävsjö","bensin",8,15,11,17,17,15,14,14,7,20,18,18
+"0684 Sävsjö","diesel",2,2,1,0,0,3,1,1,2,1,2,1
+"0684 Sävsjö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0684 Sävsjö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0684 Sävsjö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0684 Sävsjö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0684 Sävsjö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0684 Sävsjö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0685 Vetlanda","bensin",66,68,96,84,91,58,52,61,75,75,96,56
+"0685 Vetlanda","diesel",6,1,4,5,3,7,1,1,2,4,4,6
+"0685 Vetlanda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0685 Vetlanda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0685 Vetlanda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0685 Vetlanda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0685 Vetlanda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0685 Vetlanda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0686 Eksjö","bensin",28,16,26,30,29,21,12,20,19,33,28,18
+"0686 Eksjö","diesel",1,1,2,3,0,0,5,4,1,5,2,3
+"0686 Eksjö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0686 Eksjö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0686 Eksjö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0686 Eksjö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0686 Eksjö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0686 Eksjö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0687 Tranås","bensin",38,48,67,72,66,58,36,50,41,52,60,40
+"0687 Tranås","diesel",5,2,7,0,2,3,2,4,3,8,10,4
+"0687 Tranås","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0687 Tranås","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0687 Tranås","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0687 Tranås","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0687 Tranås","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0687 Tranås","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0760 Uppvidinge","bensin",6,13,10,13,17,19,11,10,11,12,12,14
+"0760 Uppvidinge","diesel",0,0,0,0,1,2,0,2,3,0,1,2
+"0760 Uppvidinge","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0760 Uppvidinge","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0760 Uppvidinge","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0760 Uppvidinge","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0760 Uppvidinge","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0760 Uppvidinge","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0761 Lessebo","bensin",7,7,15,12,17,19,16,10,13,16,12,11
+"0761 Lessebo","diesel",1,2,2,2,2,1,1,1,1,2,1,2
+"0761 Lessebo","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0761 Lessebo","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0761 Lessebo","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0761 Lessebo","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0761 Lessebo","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0761 Lessebo","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0763 Tingsryd","bensin",26,27,30,38,31,33,43,35,46,37,35,41
+"0763 Tingsryd","diesel",0,1,3,1,1,0,5,0,6,0,0,3
+"0763 Tingsryd","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0763 Tingsryd","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0763 Tingsryd","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0763 Tingsryd","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0763 Tingsryd","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0763 Tingsryd","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0764 Alvesta","bensin",27,24,41,35,38,36,37,39,38,42,32,27
+"0764 Alvesta","diesel",2,3,1,3,5,2,2,0,2,2,4,3
+"0764 Alvesta","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0764 Alvesta","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0764 Alvesta","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0764 Alvesta","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0764 Alvesta","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0764 Alvesta","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0765 Älmhult","bensin",22,22,33,32,26,38,35,32,31,39,36,19
+"0765 Älmhult","diesel",4,1,1,0,1,1,1,1,1,4,1,3
+"0765 Älmhult","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0765 Älmhult","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0765 Älmhult","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0765 Älmhult","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0765 Älmhult","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0765 Älmhult","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0767 Markaryd","bensin",11,21,16,23,20,25,17,15,31,30,26,10
+"0767 Markaryd","diesel",4,4,6,2,9,2,4,3,2,1,0,1
+"0767 Markaryd","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0767 Markaryd","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0767 Markaryd","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0767 Markaryd","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0767 Markaryd","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0767 Markaryd","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0780 Växjö","bensin",186,203,248,270,229,223,188,215,212,237,232,195
+"0780 Växjö","diesel",18,13,26,23,6,19,14,12,17,13,16,30
+"0780 Växjö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0780 Växjö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0780 Växjö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0780 Växjö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0780 Växjö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0780 Växjö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0781 Ljungby","bensin",54,55,74,89,88,82,57,60,67,83,59,54
+"0781 Ljungby","diesel",6,6,8,4,5,5,3,3,4,7,8,9
+"0781 Ljungby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0781 Ljungby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0781 Ljungby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0781 Ljungby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0781 Ljungby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0781 Ljungby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0821 Högsby","bensin",10,21,6,17,7,6,8,6,7,5,5,7
+"0821 Högsby","diesel",0,2,0,3,0,0,1,2,0,2,1,2
+"0821 Högsby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0821 Högsby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0821 Högsby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0821 Högsby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0821 Högsby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0821 Högsby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0834 Torsås","bensin",4,10,5,19,14,18,9,14,7,14,8,10
+"0834 Torsås","diesel",0,0,2,0,4,3,1,4,2,2,1,0
+"0834 Torsås","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0834 Torsås","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0834 Torsås","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0834 Torsås","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0834 Torsås","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0834 Torsås","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0840 Mörbylånga","bensin",15,21,27,21,24,20,15,19,26,32,23,29
+"0840 Mörbylånga","diesel",0,1,1,3,5,2,2,2,3,2,0,2
+"0840 Mörbylånga","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0840 Mörbylånga","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0840 Mörbylånga","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0840 Mörbylånga","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0840 Mörbylånga","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0840 Mörbylånga","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0860 Hultsfred","bensin",13,15,23,28,20,16,15,14,19,25,18,16
+"0860 Hultsfred","diesel",1,0,2,3,0,3,2,2,0,3,1,2
+"0860 Hultsfred","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0860 Hultsfred","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0860 Hultsfred","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0860 Hultsfred","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0860 Hultsfred","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0860 Hultsfred","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0861 Mönsterås","bensin",12,10,16,20,12,15,10,13,19,18,16,10
+"0861 Mönsterås","diesel",1,1,1,1,1,1,1,0,1,2,0,2
+"0861 Mönsterås","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0861 Mönsterås","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0861 Mönsterås","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0861 Mönsterås","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0861 Mönsterås","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0861 Mönsterås","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0862 Emmaboda","bensin",14,14,24,21,27,19,10,12,20,18,28,16
+"0862 Emmaboda","diesel",2,1,6,1,2,1,1,0,2,2,1,2
+"0862 Emmaboda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0862 Emmaboda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0862 Emmaboda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0862 Emmaboda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0862 Emmaboda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0862 Emmaboda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0880 Kalmar","bensin",148,131,248,197,234,198,162,135,214,216,183,146
+"0880 Kalmar","diesel",9,9,13,13,12,13,16,14,7,13,6,11
+"0880 Kalmar","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0880 Kalmar","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0880 Kalmar","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0880 Kalmar","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0880 Kalmar","gas/gas flexifuel",0,0,0,0,1,0,0,1,0,0,0,0
+"0880 Kalmar","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0881 Nybro","bensin",27,27,23,36,54,45,22,37,30,28,40,30
+"0881 Nybro","diesel",1,2,4,4,2,4,0,1,2,1,4,4
+"0881 Nybro","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0881 Nybro","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0881 Nybro","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0881 Nybro","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0881 Nybro","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0881 Nybro","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0882 Oskarshamn","bensin",55,53,77,75,60,76,50,52,87,86,62,58
+"0882 Oskarshamn","diesel",4,5,4,7,3,6,3,4,9,3,4,9
+"0882 Oskarshamn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0882 Oskarshamn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0882 Oskarshamn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0882 Oskarshamn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0882 Oskarshamn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0882 Oskarshamn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0883 Västervik","bensin",85,66,96,117,94,104,71,81,124,107,100,89
+"0883 Västervik","diesel",12,7,11,10,10,10,13,10,9,10,8,13
+"0883 Västervik","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0883 Västervik","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0883 Västervik","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0883 Västervik","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0883 Västervik","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0883 Västervik","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0884 Vimmerby","bensin",42,51,55,77,79,68,64,64,78,63,74,44
+"0884 Vimmerby","diesel",2,6,5,4,7,9,2,2,6,3,4,3
+"0884 Vimmerby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0884 Vimmerby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0884 Vimmerby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0884 Vimmerby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0884 Vimmerby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0884 Vimmerby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0885 Borgholm","bensin",9,9,13,19,18,18,13,7,17,35,18,13
+"0885 Borgholm","diesel",2,3,3,1,0,2,2,2,3,1,1,0
+"0885 Borgholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0885 Borgholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0885 Borgholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0885 Borgholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0885 Borgholm","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0885 Borgholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"0980 Gotland","bensin",56,79,97,123,107,113,107,63,95,104,82,65
+"0980 Gotland","diesel",2,5,3,14,6,7,3,5,6,3,3,3
+"0980 Gotland","el",0,0,0,0,0,0,0,0,0,0,0,0
+"0980 Gotland","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0980 Gotland","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"0980 Gotland","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0980 Gotland","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"0980 Gotland","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1060 Olofström","bensin",27,35,31,36,46,57,37,32,39,46,31,31
+"1060 Olofström","diesel",1,0,3,2,1,0,2,1,2,0,0,1
+"1060 Olofström","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1060 Olofström","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1060 Olofström","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1060 Olofström","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1060 Olofström","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1060 Olofström","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1080 Karlskrona","bensin",116,82,128,129,112,146,98,126,129,148,145,115
+"1080 Karlskrona","diesel",5,1,2,3,6,0,1,9,3,7,1,10
+"1080 Karlskrona","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1080 Karlskrona","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1080 Karlskrona","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1080 Karlskrona","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1080 Karlskrona","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1080 Karlskrona","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1081 Ronneby","bensin",23,32,18,44,39,24,29,45,28,45,26,36
+"1081 Ronneby","diesel",3,0,1,1,0,0,3,2,1,2,1,3
+"1081 Ronneby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1081 Ronneby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1081 Ronneby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1081 Ronneby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1081 Ronneby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1081 Ronneby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1082 Karlshamn","bensin",59,73,97,84,116,80,73,120,89,131,77,85
+"1082 Karlshamn","diesel",5,3,4,6,1,2,3,2,3,6,5,0
+"1082 Karlshamn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1082 Karlshamn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1082 Karlshamn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1082 Karlshamn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1082 Karlshamn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1082 Karlshamn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1083 Sölvesborg","bensin",16,26,36,41,43,24,42,38,28,42,45,32
+"1083 Sölvesborg","diesel",4,1,1,2,3,1,1,4,1,2,4,1
+"1083 Sölvesborg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1083 Sölvesborg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1083 Sölvesborg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1083 Sölvesborg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1083 Sölvesborg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1083 Sölvesborg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1214 Svalöv","bensin",10,18,16,29,15,17,22,16,20,15,16,15
+"1214 Svalöv","diesel",0,0,1,1,0,2,1,4,2,2,0,1
+"1214 Svalöv","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1214 Svalöv","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1214 Svalöv","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1214 Svalöv","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1214 Svalöv","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1214 Svalöv","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1230 Staffanstorp","bensin",26,30,36,35,27,39,28,33,40,44,32,40
+"1230 Staffanstorp","diesel",0,0,1,0,1,1,3,0,1,0,2,1
+"1230 Staffanstorp","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1230 Staffanstorp","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1230 Staffanstorp","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1230 Staffanstorp","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1230 Staffanstorp","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1230 Staffanstorp","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1231 Burlöv","bensin",29,38,29,39,48,31,28,40,36,31,33,36
+"1231 Burlöv","diesel",0,1,1,0,5,1,0,1,1,1,3,0
+"1231 Burlöv","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1231 Burlöv","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1231 Burlöv","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1231 Burlöv","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1231 Burlöv","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1231 Burlöv","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1233 Vellinge","bensin",79,80,108,83,77,82,64,75,85,99,105,83
+"1233 Vellinge","diesel",2,3,2,1,4,1,8,2,4,5,1,3
+"1233 Vellinge","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1233 Vellinge","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1233 Vellinge","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1233 Vellinge","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1233 Vellinge","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,1
+"1233 Vellinge","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1256 Östra Göinge","bensin",12,16,25,16,12,19,18,7,18,25,24,17
+"1256 Östra Göinge","diesel",0,3,2,0,1,0,0,3,1,2,1,1
+"1256 Östra Göinge","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1256 Östra Göinge","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1256 Östra Göinge","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1256 Östra Göinge","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1256 Östra Göinge","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1256 Östra Göinge","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1257 Örkelljunga","bensin",11,17,22,21,22,26,17,16,21,18,14,19
+"1257 Örkelljunga","diesel",1,1,2,3,1,0,4,1,0,2,5,2
+"1257 Örkelljunga","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1257 Örkelljunga","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1257 Örkelljunga","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1257 Örkelljunga","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1257 Örkelljunga","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1257 Örkelljunga","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1260 Bjuv","bensin",23,28,38,41,40,27,27,29,33,34,38,31
+"1260 Bjuv","diesel",2,1,3,3,5,1,2,5,1,4,1,3
+"1260 Bjuv","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1260 Bjuv","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1260 Bjuv","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1260 Bjuv","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1260 Bjuv","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1260 Bjuv","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1261 Kävlinge","bensin",35,43,38,51,54,31,43,48,54,59,45,41
+"1261 Kävlinge","diesel",0,1,2,0,1,1,1,0,0,1,4,1
+"1261 Kävlinge","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1261 Kävlinge","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1261 Kävlinge","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1261 Kävlinge","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1261 Kävlinge","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1261 Kävlinge","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1262 Lomma","bensin",20,37,38,33,31,42,30,38,32,34,44,33
+"1262 Lomma","diesel",1,0,1,1,1,1,0,0,0,0,0,0
+"1262 Lomma","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1262 Lomma","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1262 Lomma","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1262 Lomma","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1262 Lomma","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1262 Lomma","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1263 Svedala","bensin",37,37,38,53,33,45,38,44,58,41,34,37
+"1263 Svedala","diesel",2,3,2,1,1,3,1,2,2,3,2,1
+"1263 Svedala","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1263 Svedala","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1263 Svedala","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1263 Svedala","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1263 Svedala","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1263 Svedala","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1264 Skurup","bensin",12,23,26,35,27,31,21,17,38,37,25,26
+"1264 Skurup","diesel",2,2,2,2,2,2,2,1,2,1,2,5
+"1264 Skurup","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1264 Skurup","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1264 Skurup","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1264 Skurup","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1264 Skurup","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1264 Skurup","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1265 Sjöbo","bensin",25,39,50,48,42,39,43,33,47,52,44,41
+"1265 Sjöbo","diesel",3,7,7,6,3,4,3,5,5,2,4,1
+"1265 Sjöbo","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1265 Sjöbo","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1265 Sjöbo","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1265 Sjöbo","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1265 Sjöbo","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1265 Sjöbo","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1266 Hörby","bensin",30,54,85,64,66,67,40,23,39,46,47,31
+"1266 Hörby","diesel",1,3,6,4,3,2,6,1,1,0,1,0
+"1266 Hörby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1266 Hörby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1266 Hörby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1266 Hörby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1266 Hörby","gas/gas flexifuel",0,0,0,0,1,1,0,0,0,0,0,0
+"1266 Hörby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1267 Höör","bensin",29,48,44,39,35,40,33,30,39,35,44,29
+"1267 Höör","diesel",4,0,4,1,1,3,2,0,4,1,0,1
+"1267 Höör","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1267 Höör","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1267 Höör","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1267 Höör","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1267 Höör","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1267 Höör","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1270 Tomelilla","bensin",38,67,74,65,53,75,43,52,66,63,56,64
+"1270 Tomelilla","diesel",2,2,9,6,2,3,5,3,12,8,2,10
+"1270 Tomelilla","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1270 Tomelilla","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1270 Tomelilla","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1270 Tomelilla","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1270 Tomelilla","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1270 Tomelilla","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1272 Bromölla","bensin",11,9,16,20,17,12,17,21,9,15,22,17
+"1272 Bromölla","diesel",0,0,0,0,0,1,0,0,0,0,3,1
+"1272 Bromölla","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1272 Bromölla","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1272 Bromölla","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1272 Bromölla","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1272 Bromölla","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1272 Bromölla","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1273 Osby","bensin",9,17,33,30,25,29,22,23,27,38,36,14
+"1273 Osby","diesel",1,6,7,3,0,4,0,0,1,2,3,0
+"1273 Osby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1273 Osby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1273 Osby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1273 Osby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1273 Osby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1273 Osby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1275 Perstorp","bensin",5,5,14,10,8,8,3,8,11,6,4,10
+"1275 Perstorp","diesel",0,0,0,0,0,0,1,1,2,1,0,0
+"1275 Perstorp","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1275 Perstorp","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1275 Perstorp","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1275 Perstorp","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1275 Perstorp","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1275 Perstorp","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1276 Klippan","bensin",21,21,25,23,25,26,26,24,19,29,40,36
+"1276 Klippan","diesel",2,1,1,2,5,2,3,1,2,1,5,2
+"1276 Klippan","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1276 Klippan","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1276 Klippan","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1276 Klippan","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1276 Klippan","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1276 Klippan","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1277 Åstorp","bensin",9,19,16,20,20,19,22,19,24,33,23,24
+"1277 Åstorp","diesel",0,1,1,0,2,0,3,0,2,2,3,2
+"1277 Åstorp","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1277 Åstorp","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1277 Åstorp","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1277 Åstorp","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1277 Åstorp","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1277 Åstorp","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1278 Båstad","bensin",18,22,31,33,41,22,19,37,34,33,35,30
+"1278 Båstad","diesel",3,0,2,2,2,1,1,2,1,1,0,1
+"1278 Båstad","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1278 Båstad","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1278 Båstad","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1278 Båstad","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1278 Båstad","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1278 Båstad","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1280 Malmö","bensin",693,921,961,1032,1187,1060,821,904,1005,939,753,966
+"1280 Malmö","diesel",67,69,109,84,92,99,55,62,69,61,77,76
+"1280 Malmö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1280 Malmö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1280 Malmö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1280 Malmö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1280 Malmö","gas/gas flexifuel",0,2,2,5,6,1,6,7,11,10,4,5
+"1280 Malmö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1281 Lund","bensin",149,210,209,216,239,223,150,218,224,240,211,202
+"1281 Lund","diesel",9,11,12,9,8,3,8,11,8,10,11,11
+"1281 Lund","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1281 Lund","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1281 Lund","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1281 Lund","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1281 Lund","gas/gas flexifuel",0,0,0,1,2,1,0,1,0,0,1,0
+"1281 Lund","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1282 Landskrona","bensin",55,51,73,80,91,62,66,40,71,99,63,53
+"1282 Landskrona","diesel",0,2,2,5,4,5,2,3,2,5,3,3
+"1282 Landskrona","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1282 Landskrona","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1282 Landskrona","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1282 Landskrona","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1282 Landskrona","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1282 Landskrona","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1283 Helsingborg","bensin",339,338,420,453,433,401,362,376,455,453,414,382
+"1283 Helsingborg","diesel",14,16,12,18,12,12,13,16,21,23,21,14
+"1283 Helsingborg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1283 Helsingborg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1283 Helsingborg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1283 Helsingborg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1283 Helsingborg","gas/gas flexifuel",0,4,3,3,0,1,1,0,0,2,1,0
+"1283 Helsingborg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1284 Höganäs","bensin",34,44,44,49,48,42,44,44,60,56,53,37
+"1284 Höganäs","diesel",0,0,0,1,0,0,1,4,1,2,5,3
+"1284 Höganäs","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1284 Höganäs","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1284 Höganäs","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1284 Höganäs","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1284 Höganäs","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1284 Höganäs","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1285 Eslöv","bensin",36,54,53,47,51,41,65,55,95,87,72,93
+"1285 Eslöv","diesel",3,0,2,3,3,2,0,11,6,12,10,6
+"1285 Eslöv","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1285 Eslöv","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1285 Eslöv","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1285 Eslöv","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1285 Eslöv","gas/gas flexifuel",0,0,0,0,0,1,0,0,0,1,2,0
+"1285 Eslöv","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1286 Ystad","bensin",52,63,90,95,107,84,75,72,100,78,74,73
+"1286 Ystad","diesel",6,8,7,4,6,8,4,1,0,2,5,7
+"1286 Ystad","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1286 Ystad","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1286 Ystad","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1286 Ystad","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1286 Ystad","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1286 Ystad","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1287 Trelleborg","bensin",56,88,90,80,85,97,68,109,84,89,78,84
+"1287 Trelleborg","diesel",2,2,1,2,4,3,3,4,0,2,2,4
+"1287 Trelleborg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1287 Trelleborg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1287 Trelleborg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1287 Trelleborg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1287 Trelleborg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1287 Trelleborg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1290 Kristianstad","bensin",162,183,220,225,242,207,194,186,208,227,215,169
+"1290 Kristianstad","diesel",9,11,5,8,10,10,8,7,7,14,16,9
+"1290 Kristianstad","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1290 Kristianstad","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1290 Kristianstad","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1290 Kristianstad","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1290 Kristianstad","gas/gas flexifuel",0,1,0,4,2,1,0,0,0,5,3,0
+"1290 Kristianstad","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1291 Simrishamn","bensin",42,56,58,64,45,53,71,45,66,66,51,57
+"1291 Simrishamn","diesel",1,3,3,5,8,6,5,2,2,6,6,3
+"1291 Simrishamn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1291 Simrishamn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1291 Simrishamn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1291 Simrishamn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1291 Simrishamn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1291 Simrishamn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1292 Ängelholm","bensin",163,184,233,256,229,179,200,191,212,267,232,184
+"1292 Ängelholm","diesel",6,8,6,6,9,5,15,7,9,12,16,8
+"1292 Ängelholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1292 Ängelholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1292 Ängelholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1292 Ängelholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1292 Ängelholm","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1292 Ängelholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1293 Hässleholm","bensin",96,93,108,121,126,128,91,97,153,143,156,86
+"1293 Hässleholm","diesel",3,7,10,8,8,4,8,10,7,9,8,9
+"1293 Hässleholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1293 Hässleholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1293 Hässleholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1293 Hässleholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1293 Hässleholm","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1293 Hässleholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1315 Hylte","bensin",17,17,29,21,34,24,36,26,15,33,20,17
+"1315 Hylte","diesel",1,0,2,1,1,1,0,0,1,0,2,4
+"1315 Hylte","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1315 Hylte","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1315 Hylte","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1315 Hylte","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1315 Hylte","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1315 Hylte","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1380 Halmstad","bensin",149,207,227,226,269,235,168,177,239,224,222,214
+"1380 Halmstad","diesel",7,9,21,10,12,15,11,7,14,8,17,12
+"1380 Halmstad","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1380 Halmstad","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1380 Halmstad","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1380 Halmstad","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1380 Halmstad","gas/gas flexifuel",0,0,0,1,1,0,0,1,1,2,0,0
+"1380 Halmstad","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1381 Laholm","bensin",64,70,66,91,86,75,62,59,71,71,79,63
+"1381 Laholm","diesel",1,7,4,5,8,5,3,2,10,4,4,6
+"1381 Laholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1381 Laholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1381 Laholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1381 Laholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1381 Laholm","gas/gas flexifuel",0,0,0,0,0,2,1,1,0,0,0,0
+"1381 Laholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1382 Falkenberg","bensin",63,59,79,78,90,75,72,70,61,99,84,71
+"1382 Falkenberg","diesel",5,4,6,6,5,8,2,3,7,12,9,7
+"1382 Falkenberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1382 Falkenberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1382 Falkenberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1382 Falkenberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1382 Falkenberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1382 Falkenberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1383 Varberg","bensin",93,91,151,158,134,108,94,123,127,155,105,101
+"1383 Varberg","diesel",4,5,7,7,8,18,11,1,9,7,9,17
+"1383 Varberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1383 Varberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1383 Varberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1383 Varberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1383 Varberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1383 Varberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1384 Kungsbacka","bensin",113,158,176,185,180,155,166,165,169,198,133,182
+"1384 Kungsbacka","diesel",7,9,7,14,19,13,15,9,14,19,16,13
+"1384 Kungsbacka","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1384 Kungsbacka","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1384 Kungsbacka","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1384 Kungsbacka","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1384 Kungsbacka","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1384 Kungsbacka","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1401 Härryda","bensin",38,40,62,67,78,49,46,50,46,50,51,39
+"1401 Härryda","diesel",2,4,2,3,2,0,3,4,3,2,1,2
+"1401 Härryda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1401 Härryda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1401 Härryda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1401 Härryda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1401 Härryda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1401 Härryda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1402 Partille","bensin",74,67,91,81,86,55,60,63,73,74,86,66
+"1402 Partille","diesel",5,4,2,5,3,6,2,4,2,2,4,0
+"1402 Partille","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1402 Partille","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1402 Partille","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1402 Partille","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1402 Partille","gas/gas flexifuel",0,0,1,2,0,2,0,0,0,0,0,0
+"1402 Partille","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1407 Öckerö","bensin",22,23,18,23,18,16,24,12,17,16,19,13
+"1407 Öckerö","diesel",0,0,2,1,0,0,0,1,0,2,1,1
+"1407 Öckerö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1407 Öckerö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1407 Öckerö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1407 Öckerö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1407 Öckerö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1407 Öckerö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1415 Stenungsund","bensin",30,31,38,34,49,38,39,36,42,31,40,30
+"1415 Stenungsund","diesel",3,3,1,2,4,5,3,5,1,3,2,6
+"1415 Stenungsund","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1415 Stenungsund","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1415 Stenungsund","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1415 Stenungsund","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1415 Stenungsund","gas/gas flexifuel",0,0,0,1,0,0,0,0,0,0,0,0
+"1415 Stenungsund","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1419 Tjörn","bensin",17,19,28,25,20,28,18,21,20,18,29,9
+"1419 Tjörn","diesel",1,2,2,4,6,0,3,2,1,4,1,0
+"1419 Tjörn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1419 Tjörn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1419 Tjörn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1419 Tjörn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1419 Tjörn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1419 Tjörn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1421 Orust","bensin",25,24,28,33,31,37,36,28,22,32,40,37
+"1421 Orust","diesel",4,2,4,9,3,4,6,1,2,4,3,2
+"1421 Orust","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1421 Orust","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1421 Orust","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1421 Orust","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1421 Orust","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1421 Orust","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1427 Sotenäs","bensin",18,28,23,16,21,14,16,13,17,24,18,21
+"1427 Sotenäs","diesel",0,1,2,0,4,2,4,2,4,0,1,0
+"1427 Sotenäs","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1427 Sotenäs","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1427 Sotenäs","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1427 Sotenäs","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1427 Sotenäs","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1427 Sotenäs","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1430 Munkedal","bensin",20,18,17,20,19,19,11,24,26,26,24,9
+"1430 Munkedal","diesel",0,3,3,1,2,2,3,1,3,2,2,2
+"1430 Munkedal","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1430 Munkedal","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1430 Munkedal","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1430 Munkedal","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1430 Munkedal","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1430 Munkedal","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1435 Tanum","bensin",19,17,27,22,35,28,23,23,23,21,24,21
+"1435 Tanum","diesel",1,2,0,3,1,2,2,2,5,8,5,3
+"1435 Tanum","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1435 Tanum","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1435 Tanum","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1435 Tanum","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1435 Tanum","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1435 Tanum","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1438 Dals-Ed","bensin",8,10,6,9,19,11,8,18,12,15,16,18
+"1438 Dals-Ed","diesel",0,0,1,0,3,1,0,1,0,0,2,0
+"1438 Dals-Ed","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1438 Dals-Ed","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1438 Dals-Ed","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1438 Dals-Ed","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1438 Dals-Ed","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1438 Dals-Ed","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1439 Färgelanda","bensin",1,6,9,12,7,12,7,6,5,4,9,6
+"1439 Färgelanda","diesel",1,0,4,2,3,2,0,0,0,1,1,1
+"1439 Färgelanda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1439 Färgelanda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1439 Färgelanda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1439 Färgelanda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1439 Färgelanda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1439 Färgelanda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1440 Ale","bensin",54,65,51,57,74,65,45,46,63,65,48,54
+"1440 Ale","diesel",1,1,3,3,1,2,1,2,1,2,6,2
+"1440 Ale","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1440 Ale","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1440 Ale","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1440 Ale","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1440 Ale","gas/gas flexifuel",0,1,0,0,0,0,0,0,0,0,0,0
+"1440 Ale","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1441 Lerum","bensin",97,73,97,88,127,110,72,85,67,109,80,111
+"1441 Lerum","diesel",3,2,4,1,1,4,2,1,5,1,3,9
+"1441 Lerum","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1441 Lerum","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1441 Lerum","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1441 Lerum","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1441 Lerum","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1441 Lerum","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1442 Vårgårda","bensin",7,14,18,16,12,12,15,7,15,15,12,5
+"1442 Vårgårda","diesel",1,0,2,3,2,4,2,0,2,2,0,2
+"1442 Vårgårda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1442 Vårgårda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1442 Vårgårda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1442 Vårgårda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1442 Vårgårda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1442 Vårgårda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1443 Bollebygd","bensin",12,6,13,24,13,15,11,19,14,20,16,12
+"1443 Bollebygd","diesel",0,1,1,1,1,2,0,2,0,1,5,0
+"1443 Bollebygd","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1443 Bollebygd","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1443 Bollebygd","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1443 Bollebygd","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1443 Bollebygd","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1443 Bollebygd","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1444 Grästorp","bensin",3,14,6,9,17,11,13,13,4,9,11,12
+"1444 Grästorp","diesel",1,1,1,2,2,1,1,0,1,2,2,2
+"1444 Grästorp","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1444 Grästorp","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1444 Grästorp","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1444 Grästorp","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1444 Grästorp","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1444 Grästorp","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1445 Essunga","bensin",5,4,7,4,9,3,3,1,3,3,8,9
+"1445 Essunga","diesel",1,0,0,0,0,2,0,2,0,1,1,0
+"1445 Essunga","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1445 Essunga","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1445 Essunga","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1445 Essunga","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1445 Essunga","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1445 Essunga","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1446 Karlsborg","bensin",5,8,16,13,14,15,12,19,19,16,17,18
+"1446 Karlsborg","diesel",0,2,3,3,3,4,1,2,3,1,1,1
+"1446 Karlsborg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1446 Karlsborg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1446 Karlsborg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1446 Karlsborg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1446 Karlsborg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1446 Karlsborg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1447 Gullspång","bensin",7,15,12,13,13,6,9,16,12,16,10,6
+"1447 Gullspång","diesel",2,2,1,0,1,0,2,0,1,6,2,2
+"1447 Gullspång","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1447 Gullspång","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1447 Gullspång","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1447 Gullspång","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1447 Gullspång","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1447 Gullspång","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1452 Tranemo","bensin",16,18,24,28,31,22,32,32,22,24,24,19
+"1452 Tranemo","diesel",2,0,2,0,1,1,1,4,1,3,5,5
+"1452 Tranemo","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1452 Tranemo","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1452 Tranemo","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1452 Tranemo","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1452 Tranemo","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1452 Tranemo","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1460 Bengtsfors","bensin",30,25,42,36,35,30,34,41,32,35,30,23
+"1460 Bengtsfors","diesel",2,3,4,3,4,1,1,2,2,4,5,2
+"1460 Bengtsfors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1460 Bengtsfors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1460 Bengtsfors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1460 Bengtsfors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1460 Bengtsfors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1460 Bengtsfors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1461 Mellerud","bensin",8,11,18,23,20,22,13,12,9,19,23,17
+"1461 Mellerud","diesel",3,2,1,3,2,1,0,2,0,6,2,2
+"1461 Mellerud","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1461 Mellerud","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1461 Mellerud","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1461 Mellerud","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1461 Mellerud","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1461 Mellerud","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1462 Lilla Edet","bensin",19,20,22,29,30,16,24,17,20,25,19,19
+"1462 Lilla Edet","diesel",1,2,3,1,1,0,2,1,1,3,1,1
+"1462 Lilla Edet","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1462 Lilla Edet","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1462 Lilla Edet","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1462 Lilla Edet","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1462 Lilla Edet","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1462 Lilla Edet","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1463 Mark","bensin",92,101,131,132,146,115,105,139,121,123,122,118
+"1463 Mark","diesel",17,6,20,8,10,15,9,13,9,16,18,13
+"1463 Mark","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1463 Mark","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1463 Mark","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1463 Mark","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1463 Mark","gas/gas flexifuel",0,0,0,0,1,0,0,0,0,0,0,0
+"1463 Mark","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1465 Svenljunga","bensin",22,14,31,20,33,23,11,29,18,18,19,22
+"1465 Svenljunga","diesel",2,0,2,0,2,2,0,2,3,2,0,4
+"1465 Svenljunga","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1465 Svenljunga","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1465 Svenljunga","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1465 Svenljunga","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1465 Svenljunga","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1465 Svenljunga","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1466 Herrljunga","bensin",8,8,8,13,15,16,12,6,6,14,13,8
+"1466 Herrljunga","diesel",1,0,2,4,1,3,2,0,1,0,4,0
+"1466 Herrljunga","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1466 Herrljunga","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1466 Herrljunga","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1466 Herrljunga","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1466 Herrljunga","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1466 Herrljunga","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1470 Vara","bensin",14,10,33,34,25,23,22,21,21,40,23,22
+"1470 Vara","diesel",6,5,6,11,8,6,4,3,6,9,4,5
+"1470 Vara","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1470 Vara","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1470 Vara","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1470 Vara","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1470 Vara","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1470 Vara","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1471 Götene","bensin",18,21,31,47,41,33,33,27,40,41,28,49
+"1471 Götene","diesel",0,4,4,2,2,2,3,2,2,3,5,5
+"1471 Götene","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1471 Götene","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1471 Götene","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1471 Götene","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1471 Götene","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1471 Götene","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1472 Tibro","bensin",8,19,20,29,20,22,20,19,20,24,20,18
+"1472 Tibro","diesel",3,0,2,4,6,1,4,1,0,1,1,0
+"1472 Tibro","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1472 Tibro","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1472 Tibro","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1472 Tibro","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1472 Tibro","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1472 Tibro","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1473 Töreboda","bensin",14,5,13,15,12,27,13,16,16,13,22,13
+"1473 Töreboda","diesel",0,1,4,4,4,1,6,3,1,2,3,3
+"1473 Töreboda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1473 Töreboda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1473 Töreboda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1473 Töreboda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1473 Töreboda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1473 Töreboda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1480 Göteborg","bensin",1092,1296,1473,1465,1590,1836,1286,1319,1562,1500,1473,1437
+"1480 Göteborg","diesel",87,160,111,142,172,114,126,88,100,106,127,129
+"1480 Göteborg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1480 Göteborg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1480 Göteborg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1480 Göteborg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1480 Göteborg","gas/gas flexifuel",1,3,9,21,50,22,6,28,12,9,13,15
+"1480 Göteborg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1481 Mölndal","bensin",110,81,127,147,184,147,113,129,117,145,129,108
+"1481 Mölndal","diesel",2,3,7,12,10,7,4,2,14,7,6,8
+"1481 Mölndal","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1481 Mölndal","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1481 Mölndal","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1481 Mölndal","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1481 Mölndal","gas/gas flexifuel",0,0,0,0,1,0,0,0,0,0,0,0
+"1481 Mölndal","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1482 Kungälv","bensin",101,115,127,137,138,153,100,93,108,133,139,122
+"1482 Kungälv","diesel",8,5,5,9,10,6,6,5,6,9,12,14
+"1482 Kungälv","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1482 Kungälv","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1482 Kungälv","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1482 Kungälv","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1482 Kungälv","gas/gas flexifuel",0,0,0,0,0,0,0,0,1,0,0,0
+"1482 Kungälv","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1484 Lysekil","bensin",30,38,43,41,23,31,32,28,46,35,37,27
+"1484 Lysekil","diesel",0,0,3,2,1,4,2,0,5,2,4,5
+"1484 Lysekil","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1484 Lysekil","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1484 Lysekil","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1484 Lysekil","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1484 Lysekil","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1484 Lysekil","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1485 Uddevalla","bensin",96,118,142,163,134,130,99,169,158,150,137,134
+"1485 Uddevalla","diesel",11,9,11,19,13,13,8,6,14,22,20,13
+"1485 Uddevalla","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1485 Uddevalla","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1485 Uddevalla","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1485 Uddevalla","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1485 Uddevalla","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1485 Uddevalla","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1486 Strömstad","bensin",25,29,28,45,32,28,27,25,15,45,54,30
+"1486 Strömstad","diesel",2,1,3,2,1,4,5,2,1,4,3,1
+"1486 Strömstad","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1486 Strömstad","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1486 Strömstad","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1486 Strömstad","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1486 Strömstad","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1486 Strömstad","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1487 Vänersborg","bensin",84,80,71,91,93,66,76,92,99,124,100,85
+"1487 Vänersborg","diesel",7,2,7,4,7,5,6,6,7,6,8,11
+"1487 Vänersborg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1487 Vänersborg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1487 Vänersborg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1487 Vänersborg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1487 Vänersborg","gas/gas flexifuel",0,0,0,0,0,0,0,1,0,0,1,0
+"1487 Vänersborg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1488 Trollhättan","bensin",329,448,824,483,547,354,140,180,413,561,670,294
+"1488 Trollhättan","diesel",22,28,19,30,57,58,8,23,38,42,27,24
+"1488 Trollhättan","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1488 Trollhättan","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1488 Trollhättan","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1488 Trollhättan","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1488 Trollhättan","gas/gas flexifuel",0,0,0,0,1,0,1,0,0,0,8,0
+"1488 Trollhättan","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1489 Alingsås","bensin",78,93,126,129,135,157,118,118,143,163,112,108
+"1489 Alingsås","diesel",9,8,10,9,13,22,4,11,16,15,9,9
+"1489 Alingsås","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1489 Alingsås","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1489 Alingsås","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1489 Alingsås","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1489 Alingsås","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1489 Alingsås","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1490 Borås","bensin",296,345,434,422,457,373,248,355,392,440,369,410
+"1490 Borås","diesel",12,26,31,39,28,27,19,56,26,24,41,42
+"1490 Borås","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1490 Borås","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1490 Borås","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1490 Borås","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1490 Borås","gas/gas flexifuel",0,0,0,5,2,0,0,1,0,0,2,2
+"1490 Borås","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1491 Ulricehamn","bensin",39,97,93,81,85,83,66,69,75,95,81,76
+"1491 Ulricehamn","diesel",2,8,4,3,3,4,5,5,3,6,5,7
+"1491 Ulricehamn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1491 Ulricehamn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1491 Ulricehamn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1491 Ulricehamn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1491 Ulricehamn","gas/gas flexifuel",0,0,0,0,0,0,1,0,0,0,0,0
+"1491 Ulricehamn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1492 Åmål","bensin",17,24,47,54,33,27,32,33,36,38,30,19
+"1492 Åmål","diesel",2,3,1,3,3,6,3,1,3,3,2,4
+"1492 Åmål","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1492 Åmål","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1492 Åmål","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1492 Åmål","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1492 Åmål","gas/gas flexifuel",0,0,0,1,0,0,0,0,0,0,0,0
+"1492 Åmål","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1493 Mariestad","bensin",35,46,56,42,56,56,25,52,58,51,64,54
+"1493 Mariestad","diesel",2,1,4,5,3,8,0,1,2,4,3,5
+"1493 Mariestad","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1493 Mariestad","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1493 Mariestad","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1493 Mariestad","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1493 Mariestad","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,1,1
+"1493 Mariestad","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1494 Lidköping","bensin",86,80,148,129,111,125,79,90,130,122,92,113
+"1494 Lidköping","diesel",12,8,11,9,16,14,9,9,7,12,16,12
+"1494 Lidköping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1494 Lidköping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1494 Lidköping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1494 Lidköping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1494 Lidköping","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1494 Lidköping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1495 Skara","bensin",40,42,46,67,64,54,42,40,36,58,40,45
+"1495 Skara","diesel",5,10,7,11,7,5,4,1,1,3,4,2
+"1495 Skara","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1495 Skara","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1495 Skara","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1495 Skara","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1495 Skara","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1495 Skara","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1496 Skövde","bensin",148,156,187,214,221,212,137,186,222,219,206,175
+"1496 Skövde","diesel",8,13,15,11,10,10,8,8,13,21,12,28
+"1496 Skövde","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1496 Skövde","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1496 Skövde","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1496 Skövde","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1496 Skövde","gas/gas flexifuel",0,0,0,2,3,1,0,1,0,0,0,1
+"1496 Skövde","övriga bränslen",0,0,0,0,2,0,0,0,0,0,0,0
+"1497 Hjo","bensin",7,7,9,8,10,13,19,13,11,18,21,16
+"1497 Hjo","diesel",0,1,0,0,0,1,1,1,0,2,1,1
+"1497 Hjo","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1497 Hjo","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1497 Hjo","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1497 Hjo","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1497 Hjo","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1497 Hjo","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1498 Tidaholm","bensin",8,9,20,20,17,22,15,31,17,27,24,12
+"1498 Tidaholm","diesel",2,0,5,4,5,3,1,1,2,8,4,2
+"1498 Tidaholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1498 Tidaholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1498 Tidaholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1498 Tidaholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1498 Tidaholm","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1498 Tidaholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1499 Falköping","bensin",45,74,68,80,89,59,63,65,79,78,58,53
+"1499 Falköping","diesel",9,9,9,11,5,13,9,3,5,11,7,5
+"1499 Falköping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1499 Falköping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1499 Falköping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1499 Falköping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1499 Falköping","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1499 Falköping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1715 Kil","bensin",17,14,18,24,25,18,14,22,20,27,21,22
+"1715 Kil","diesel",2,1,0,3,2,1,5,2,1,5,2,7
+"1715 Kil","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1715 Kil","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1715 Kil","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1715 Kil","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1715 Kil","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1715 Kil","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1730 Eda","bensin",10,15,15,17,15,16,18,28,25,25,27,13
+"1730 Eda","diesel",1,1,3,1,5,4,5,3,2,11,8,5
+"1730 Eda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1730 Eda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1730 Eda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1730 Eda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1730 Eda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1730 Eda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1737 Torsby","bensin",42,29,29,29,31,32,29,20,36,27,37,22
+"1737 Torsby","diesel",5,4,4,8,5,5,1,4,5,4,2,5
+"1737 Torsby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1737 Torsby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1737 Torsby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1737 Torsby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1737 Torsby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1737 Torsby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1760 Storfors","bensin",6,3,5,6,4,5,10,3,4,10,3,5
+"1760 Storfors","diesel",0,1,0,0,2,0,1,0,0,0,2,1
+"1760 Storfors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1760 Storfors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1760 Storfors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1760 Storfors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1760 Storfors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1760 Storfors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1761 Hammarö","bensin",15,12,21,19,23,23,21,27,19,26,28,28
+"1761 Hammarö","diesel",3,1,3,3,1,2,2,0,1,1,1,2
+"1761 Hammarö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1761 Hammarö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1761 Hammarö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1761 Hammarö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1761 Hammarö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1761 Hammarö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1762 Munkfors","bensin",4,2,5,5,10,4,4,6,3,2,5,5
+"1762 Munkfors","diesel",0,0,2,1,1,2,0,0,0,1,2,1
+"1762 Munkfors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1762 Munkfors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1762 Munkfors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1762 Munkfors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1762 Munkfors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1762 Munkfors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1763 Forshaga","bensin",9,17,16,22,24,19,17,11,15,20,25,15
+"1763 Forshaga","diesel",0,2,0,2,1,1,3,0,0,2,2,0
+"1763 Forshaga","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1763 Forshaga","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1763 Forshaga","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1763 Forshaga","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1763 Forshaga","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1763 Forshaga","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1764 Grums","bensin",10,12,17,20,12,15,10,13,10,21,16,18
+"1764 Grums","diesel",0,3,2,1,3,1,1,1,1,3,0,3
+"1764 Grums","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1764 Grums","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1764 Grums","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1764 Grums","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1764 Grums","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1764 Grums","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1765 Årjäng","bensin",22,20,16,19,21,21,15,21,24,32,18,16
+"1765 Årjäng","diesel",3,1,4,2,0,2,1,2,2,1,4,2
+"1765 Årjäng","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1765 Årjäng","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1765 Årjäng","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1765 Årjäng","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1765 Årjäng","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1765 Årjäng","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1766 Sunne","bensin",23,12,11,22,17,17,20,17,24,36,39,18
+"1766 Sunne","diesel",1,3,2,5,1,1,0,6,1,9,4,4
+"1766 Sunne","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1766 Sunne","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1766 Sunne","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1766 Sunne","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1766 Sunne","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1766 Sunne","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1780 Karlstad","bensin",184,168,260,295,288,227,195,236,271,311,270,251
+"1780 Karlstad","diesel",15,11,15,36,27,14,14,17,16,18,19,38
+"1780 Karlstad","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1780 Karlstad","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1780 Karlstad","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1780 Karlstad","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1780 Karlstad","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1780 Karlstad","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1781 Kristinehamn","bensin",43,40,66,51,74,54,56,45,69,78,75,61
+"1781 Kristinehamn","diesel",4,3,2,3,2,1,2,3,8,5,6,9
+"1781 Kristinehamn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1781 Kristinehamn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1781 Kristinehamn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1781 Kristinehamn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1781 Kristinehamn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1781 Kristinehamn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1782 Filipstad","bensin",17,23,20,25,24,10,28,69,17,33,26,22
+"1782 Filipstad","diesel",1,3,1,2,2,2,0,3,5,1,3,1
+"1782 Filipstad","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1782 Filipstad","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1782 Filipstad","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1782 Filipstad","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1782 Filipstad","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1782 Filipstad","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1783 Hagfors","bensin",16,22,22,23,33,38,26,18,25,25,32,17
+"1783 Hagfors","diesel",3,2,0,3,5,4,0,4,3,2,3,3
+"1783 Hagfors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1783 Hagfors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1783 Hagfors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1783 Hagfors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1783 Hagfors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1783 Hagfors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1784 Arvika","bensin",47,46,49,59,66,61,64,65,64,65,60,60
+"1784 Arvika","diesel",2,2,9,2,8,3,7,6,11,7,9,5
+"1784 Arvika","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1784 Arvika","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1784 Arvika","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1784 Arvika","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1784 Arvika","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1784 Arvika","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1785 Säffle","bensin",21,26,21,24,23,23,28,23,20,25,27,25
+"1785 Säffle","diesel",4,1,0,2,2,1,3,1,2,2,0,6
+"1785 Säffle","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1785 Säffle","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1785 Säffle","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1785 Säffle","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1785 Säffle","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1785 Säffle","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1814 Lekeberg","bensin",3,6,5,11,13,9,8,9,7,3,6,3
+"1814 Lekeberg","diesel",1,0,0,0,0,1,3,2,2,0,0,1
+"1814 Lekeberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1814 Lekeberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1814 Lekeberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1814 Lekeberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1814 Lekeberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1814 Lekeberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1860 Laxå","bensin",4,12,12,11,12,3,8,13,5,11,11,4
+"1860 Laxå","diesel",3,1,0,0,0,1,0,0,0,1,1,1
+"1860 Laxå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1860 Laxå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1860 Laxå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1860 Laxå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1860 Laxå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1860 Laxå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1861 Hallsberg","bensin",25,21,29,19,24,26,22,20,25,22,20,22
+"1861 Hallsberg","diesel",0,1,1,3,1,3,0,0,1,2,3,3
+"1861 Hallsberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1861 Hallsberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1861 Hallsberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1861 Hallsberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1861 Hallsberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1861 Hallsberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1862 Degerfors","bensin",6,6,19,15,24,10,17,10,11,12,22,14
+"1862 Degerfors","diesel",0,0,2,1,0,0,1,0,1,0,0,1
+"1862 Degerfors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1862 Degerfors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1862 Degerfors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1862 Degerfors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1862 Degerfors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1862 Degerfors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1863 Hällefors","bensin",7,10,7,21,21,15,9,7,10,18,15,10
+"1863 Hällefors","diesel",1,0,0,0,1,0,0,0,0,1,1,1
+"1863 Hällefors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1863 Hällefors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1863 Hällefors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1863 Hällefors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1863 Hällefors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1863 Hällefors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1864 Ljusnarsberg","bensin",5,5,3,9,7,5,6,7,7,5,4,4
+"1864 Ljusnarsberg","diesel",0,0,0,1,1,0,0,1,0,0,2,1
+"1864 Ljusnarsberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1864 Ljusnarsberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1864 Ljusnarsberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1864 Ljusnarsberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1864 Ljusnarsberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1864 Ljusnarsberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1880 Örebro","bensin",325,400,641,452,451,453,301,374,412,460,417,340
+"1880 Örebro","diesel",53,94,134,36,23,24,26,25,38,27,35,27
+"1880 Örebro","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1880 Örebro","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1880 Örebro","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1880 Örebro","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1880 Örebro","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1880 Örebro","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1881 Kumla","bensin",29,29,41,33,40,39,41,39,38,39,26,20
+"1881 Kumla","diesel",2,1,1,0,8,1,1,2,2,2,1,3
+"1881 Kumla","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1881 Kumla","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1881 Kumla","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1881 Kumla","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1881 Kumla","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1881 Kumla","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1882 Askersund","bensin",15,25,14,14,22,26,18,9,21,17,15,21
+"1882 Askersund","diesel",1,0,3,2,1,2,3,0,1,1,0,0
+"1882 Askersund","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1882 Askersund","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1882 Askersund","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1882 Askersund","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1882 Askersund","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1882 Askersund","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1883 Karlskoga","bensin",36,43,40,67,68,76,56,58,59,36,62,48
+"1883 Karlskoga","diesel",0,1,4,3,3,4,3,1,1,7,3,0
+"1883 Karlskoga","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1883 Karlskoga","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1883 Karlskoga","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1883 Karlskoga","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1883 Karlskoga","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1883 Karlskoga","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1884 Nora","bensin",14,4,12,13,15,14,17,15,13,10,16,12
+"1884 Nora","diesel",0,2,2,2,1,0,2,0,3,3,4,5
+"1884 Nora","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1884 Nora","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1884 Nora","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1884 Nora","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1884 Nora","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1884 Nora","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1885 Lindesberg","bensin",27,39,33,45,48,58,49,52,56,48,53,27
+"1885 Lindesberg","diesel",4,3,1,3,5,4,2,4,5,3,5,2
+"1885 Lindesberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1885 Lindesberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1885 Lindesberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1885 Lindesberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1885 Lindesberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1885 Lindesberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1904 Skinnskatteberg","bensin",2,12,6,11,15,11,8,5,9,14,7,6
+"1904 Skinnskatteberg","diesel",2,2,1,0,0,1,0,0,0,0,0,3
+"1904 Skinnskatteberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1904 Skinnskatteberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1904 Skinnskatteberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1904 Skinnskatteberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1904 Skinnskatteberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1904 Skinnskatteberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1907 Surahammar","bensin",14,16,18,15,12,16,15,16,22,19,13,11
+"1907 Surahammar","diesel",0,1,1,3,1,3,1,0,0,2,1,3
+"1907 Surahammar","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1907 Surahammar","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1907 Surahammar","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1907 Surahammar","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1907 Surahammar","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1907 Surahammar","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1917 Heby","bensin",14,13,6,13,7,13,19,12,20,10,12,10
+"1917 Heby","diesel",1,0,1,1,1,1,0,1,2,4,2,3
+"1917 Heby","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1917 Heby","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1917 Heby","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1917 Heby","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1917 Heby","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1917 Heby","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1960 Kungsör","bensin",12,17,8,10,10,11,13,10,21,16,13,13
+"1960 Kungsör","diesel",1,0,0,0,0,0,0,0,0,1,2,1
+"1960 Kungsör","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1960 Kungsör","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1960 Kungsör","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1960 Kungsör","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1960 Kungsör","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1960 Kungsör","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1961 Hallstahammar","bensin",20,10,23,20,27,30,27,22,27,40,32,21
+"1961 Hallstahammar","diesel",2,3,0,3,1,3,1,1,1,2,2,0
+"1961 Hallstahammar","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1961 Hallstahammar","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1961 Hallstahammar","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1961 Hallstahammar","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1961 Hallstahammar","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1961 Hallstahammar","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1962 Norberg","bensin",4,9,5,7,10,8,11,7,9,14,5,8
+"1962 Norberg","diesel",1,0,0,0,2,3,3,0,1,0,1,1
+"1962 Norberg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1962 Norberg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1962 Norberg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1962 Norberg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1962 Norberg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1962 Norberg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1980 Västerås","bensin",248,314,363,387,403,376,276,308,360,374,352,366
+"1980 Västerås","diesel",9,14,21,17,24,20,18,12,10,21,32,24
+"1980 Västerås","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1980 Västerås","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1980 Västerås","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1980 Västerås","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1980 Västerås","gas/gas flexifuel",0,0,0,0,1,0,0,0,0,0,0,0
+"1980 Västerås","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1981 Sala","bensin",27,26,31,32,25,33,18,41,34,35,34,28
+"1981 Sala","diesel",2,4,2,2,4,8,2,3,5,5,8,9
+"1981 Sala","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1981 Sala","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1981 Sala","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1981 Sala","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1981 Sala","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,1,0
+"1981 Sala","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1982 Fagersta","bensin",21,23,36,38,44,45,22,28,31,33,30,41
+"1982 Fagersta","diesel",2,0,4,3,3,1,4,4,3,8,6,3
+"1982 Fagersta","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1982 Fagersta","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1982 Fagersta","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1982 Fagersta","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1982 Fagersta","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1982 Fagersta","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1983 Köping","bensin",47,49,39,55,57,55,50,56,56,76,60,60
+"1983 Köping","diesel",4,3,4,2,3,4,4,4,8,4,1,4
+"1983 Köping","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1983 Köping","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1983 Köping","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1983 Köping","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1983 Köping","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1983 Köping","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"1984 Arboga","bensin",14,19,24,27,35,15,27,18,20,18,25,19
+"1984 Arboga","diesel",2,0,0,1,0,1,0,0,0,0,1,1
+"1984 Arboga","el",0,0,0,0,0,0,0,0,0,0,0,0
+"1984 Arboga","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1984 Arboga","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"1984 Arboga","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1984 Arboga","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"1984 Arboga","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2021 Vansbro","bensin",7,5,8,5,12,9,10,12,5,14,9,6
+"2021 Vansbro","diesel",1,1,0,0,1,0,3,1,1,0,0,0
+"2021 Vansbro","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2021 Vansbro","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2021 Vansbro","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2021 Vansbro","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2021 Vansbro","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2021 Vansbro","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2023 Malung-Sälen","bensin",5,8,8,18,9,20,14,16,26,19,15,12
+"2023 Malung-Sälen","diesel",2,2,1,5,6,4,8,6,4,7,5,3
+"2023 Malung-Sälen","el",0,1,0,0,0,0,0,0,0,0,0,0
+"2023 Malung-Sälen","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2023 Malung-Sälen","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2023 Malung-Sälen","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2023 Malung-Sälen","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2023 Malung-Sälen","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2026 Gagnef","bensin",14,8,10,7,4,10,16,8,10,25,13,17
+"2026 Gagnef","diesel",0,1,1,0,1,0,0,1,4,1,4,4
+"2026 Gagnef","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2026 Gagnef","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2026 Gagnef","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2026 Gagnef","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2026 Gagnef","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2026 Gagnef","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2029 Leksand","bensin",21,18,17,31,26,21,24,17,27,25,28,24
+"2029 Leksand","diesel",1,1,2,2,3,0,4,2,1,0,1,2
+"2029 Leksand","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2029 Leksand","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2029 Leksand","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2029 Leksand","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2029 Leksand","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2029 Leksand","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2031 Rättvik","bensin",10,10,9,9,12,12,12,16,11,11,20,6
+"2031 Rättvik","diesel",0,1,2,2,1,0,2,0,3,4,2,2
+"2031 Rättvik","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2031 Rättvik","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2031 Rättvik","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2031 Rättvik","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2031 Rättvik","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2031 Rättvik","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2034 Orsa","bensin",6,6,3,6,11,12,13,12,11,9,8,7
+"2034 Orsa","diesel",1,2,1,0,0,2,0,1,1,0,3,0
+"2034 Orsa","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2034 Orsa","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2034 Orsa","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2034 Orsa","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2034 Orsa","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2034 Orsa","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2039 Älvdalen","bensin",6,2,4,5,9,4,8,7,12,6,5,2
+"2039 Älvdalen","diesel",1,0,1,0,2,1,0,0,2,1,2,2
+"2039 Älvdalen","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2039 Älvdalen","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2039 Älvdalen","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2039 Älvdalen","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2039 Älvdalen","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2039 Älvdalen","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2061 Smedjebacken","bensin",9,19,13,18,18,17,22,14,9,20,18,10
+"2061 Smedjebacken","diesel",0,0,1,1,0,1,1,2,2,0,2,2
+"2061 Smedjebacken","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2061 Smedjebacken","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2061 Smedjebacken","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2061 Smedjebacken","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2061 Smedjebacken","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2061 Smedjebacken","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2062 Mora","bensin",53,49,44,57,46,38,36,37,59,59,58,32
+"2062 Mora","diesel",1,5,3,6,4,4,2,4,4,7,9,5
+"2062 Mora","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2062 Mora","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2062 Mora","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2062 Mora","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2062 Mora","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2062 Mora","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2080 Falun","bensin",136,110,151,180,183,178,130,136,162,159,142,139
+"2080 Falun","diesel",6,13,10,15,13,18,11,11,11,16,10,12
+"2080 Falun","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2080 Falun","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2080 Falun","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2080 Falun","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2080 Falun","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2080 Falun","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2081 Borlänge","bensin",70,86,91,109,134,124,78,86,116,122,103,75
+"2081 Borlänge","diesel",2,5,3,9,10,8,4,2,6,9,9,12
+"2081 Borlänge","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2081 Borlänge","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2081 Borlänge","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2081 Borlänge","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2081 Borlänge","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2081 Borlänge","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2082 Säter","bensin",11,9,8,16,12,9,15,12,10,15,6,15
+"2082 Säter","diesel",2,3,3,2,2,1,3,2,1,2,2,3
+"2082 Säter","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2082 Säter","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2082 Säter","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2082 Säter","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2082 Säter","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2082 Säter","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2083 Hedemora","bensin",31,29,45,33,49,36,51,38,31,36,31,31
+"2083 Hedemora","diesel",8,1,8,4,4,4,3,8,4,2,2,3
+"2083 Hedemora","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2083 Hedemora","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2083 Hedemora","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2083 Hedemora","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2083 Hedemora","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2083 Hedemora","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2084 Avesta","bensin",43,39,65,64,78,75,59,54,77,85,87,38
+"2084 Avesta","diesel",9,12,8,10,11,7,7,7,9,13,10,4
+"2084 Avesta","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2084 Avesta","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2084 Avesta","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2084 Avesta","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2084 Avesta","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2084 Avesta","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2085 Ludvika","bensin",54,52,62,77,89,63,63,54,80,58,73,46
+"2085 Ludvika","diesel",3,4,6,6,9,5,1,10,1,10,3,4
+"2085 Ludvika","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2085 Ludvika","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2085 Ludvika","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2085 Ludvika","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2085 Ludvika","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2085 Ludvika","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2101 Ockelbo","bensin",5,3,8,5,1,4,4,5,7,6,13,10
+"2101 Ockelbo","diesel",0,0,0,0,0,0,0,0,0,0,0,1
+"2101 Ockelbo","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2101 Ockelbo","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2101 Ockelbo","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2101 Ockelbo","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2101 Ockelbo","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2101 Ockelbo","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2104 Hofors","bensin",10,12,11,16,14,15,10,8,18,12,14,12
+"2104 Hofors","diesel",0,2,1,1,1,4,0,1,1,0,1,1
+"2104 Hofors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2104 Hofors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2104 Hofors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2104 Hofors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2104 Hofors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2104 Hofors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2121 Ovanåker","bensin",8,8,16,17,14,14,9,9,14,11,13,6
+"2121 Ovanåker","diesel",2,1,2,1,1,1,3,2,1,4,4,3
+"2121 Ovanåker","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2121 Ovanåker","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2121 Ovanåker","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2121 Ovanåker","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2121 Ovanåker","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2121 Ovanåker","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2132 Nordanstig","bensin",9,14,5,12,17,18,8,8,14,12,18,10
+"2132 Nordanstig","diesel",2,1,0,0,0,0,3,1,0,0,1,1
+"2132 Nordanstig","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2132 Nordanstig","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2132 Nordanstig","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2132 Nordanstig","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2132 Nordanstig","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2132 Nordanstig","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2161 Ljusdal","bensin",33,28,35,53,64,46,36,48,63,55,51,39
+"2161 Ljusdal","diesel",8,7,8,4,14,7,11,9,6,9,3,5
+"2161 Ljusdal","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2161 Ljusdal","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2161 Ljusdal","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2161 Ljusdal","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2161 Ljusdal","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2161 Ljusdal","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2180 Gävle","bensin",166,182,218,208,249,220,164,167,222,232,204,167
+"2180 Gävle","diesel",10,12,13,8,17,4,8,11,16,19,10,14
+"2180 Gävle","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2180 Gävle","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2180 Gävle","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2180 Gävle","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2180 Gävle","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2180 Gävle","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2181 Sandviken","bensin",65,50,82,77,89,106,66,84,91,94,75,59
+"2181 Sandviken","diesel",2,5,4,1,3,6,3,6,7,4,5,1
+"2181 Sandviken","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2181 Sandviken","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2181 Sandviken","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2181 Sandviken","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2181 Sandviken","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2181 Sandviken","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2182 Söderhamn","bensin",33,33,38,41,35,35,37,47,45,60,37,39
+"2182 Söderhamn","diesel",3,3,2,2,6,3,0,0,3,4,0,2
+"2182 Söderhamn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2182 Söderhamn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2182 Söderhamn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2182 Söderhamn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2182 Söderhamn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2182 Söderhamn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2183 Bollnäs","bensin",25,37,42,49,51,63,48,48,64,67,59,45
+"2183 Bollnäs","diesel",1,4,5,5,5,3,9,4,8,3,9,16
+"2183 Bollnäs","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2183 Bollnäs","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2183 Bollnäs","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2183 Bollnäs","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2183 Bollnäs","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2183 Bollnäs","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2184 Hudiksvall","bensin",59,56,68,66,60,76,53,64,54,62,61,62
+"2184 Hudiksvall","diesel",1,5,5,3,4,0,4,0,6,20,12,2
+"2184 Hudiksvall","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2184 Hudiksvall","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2184 Hudiksvall","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2184 Hudiksvall","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2184 Hudiksvall","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2184 Hudiksvall","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2260 Ånge","bensin",19,12,14,18,26,18,19,16,18,21,16,24
+"2260 Ånge","diesel",1,0,0,1,5,4,2,2,2,0,1,2
+"2260 Ånge","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2260 Ånge","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2260 Ånge","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2260 Ånge","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2260 Ånge","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2260 Ånge","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2262 Timrå","bensin",17,25,18,26,42,28,34,26,32,31,21,21
+"2262 Timrå","diesel",2,3,1,2,3,2,5,1,2,2,2,2
+"2262 Timrå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2262 Timrå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2262 Timrå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2262 Timrå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2262 Timrå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2262 Timrå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2280 Härnösand","bensin",33,41,44,45,49,51,43,46,37,43,40,43
+"2280 Härnösand","diesel",4,3,3,5,4,4,2,2,1,7,5,5
+"2280 Härnösand","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2280 Härnösand","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2280 Härnösand","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2280 Härnösand","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2280 Härnösand","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2280 Härnösand","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2281 Sundsvall","bensin",136,196,241,250,235,242,186,209,234,323,223,172
+"2281 Sundsvall","diesel",10,14,16,13,20,12,13,14,23,18,20,23
+"2281 Sundsvall","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2281 Sundsvall","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2281 Sundsvall","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2281 Sundsvall","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2281 Sundsvall","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2281 Sundsvall","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2282 Kramfors","bensin",21,15,13,24,21,20,20,19,16,18,16,28
+"2282 Kramfors","diesel",3,2,0,2,1,2,1,3,1,1,4,3
+"2282 Kramfors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2282 Kramfors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2282 Kramfors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2282 Kramfors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2282 Kramfors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2282 Kramfors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2283 Sollefteå","bensin",28,27,34,28,39,40,28,37,65,42,26,25
+"2283 Sollefteå","diesel",4,2,8,4,7,6,8,5,2,6,1,6
+"2283 Sollefteå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2283 Sollefteå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2283 Sollefteå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2283 Sollefteå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2283 Sollefteå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2283 Sollefteå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2284 Örnsköldsvik","bensin",75,97,121,136,139,99,89,104,105,142,108,92
+"2284 Örnsköldsvik","diesel",7,15,11,14,7,7,11,13,9,10,12,16
+"2284 Örnsköldsvik","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2284 Örnsköldsvik","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2284 Örnsköldsvik","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2284 Örnsköldsvik","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2284 Örnsköldsvik","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2284 Örnsköldsvik","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2303 Ragunda","bensin",3,4,8,3,4,4,5,3,5,6,2,4
+"2303 Ragunda","diesel",1,2,1,3,3,1,2,2,1,0,1,2
+"2303 Ragunda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2303 Ragunda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2303 Ragunda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2303 Ragunda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2303 Ragunda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2303 Ragunda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2305 Bräcke","bensin",5,8,5,8,6,3,11,8,6,9,7,8
+"2305 Bräcke","diesel",2,2,1,3,4,4,6,1,0,1,1,1
+"2305 Bräcke","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2305 Bräcke","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2305 Bräcke","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2305 Bräcke","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2305 Bräcke","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2305 Bräcke","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2309 Krokom","bensin",13,13,7,16,9,18,21,13,15,19,11,10
+"2309 Krokom","diesel",2,3,3,1,2,3,1,2,0,1,6,1
+"2309 Krokom","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2309 Krokom","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2309 Krokom","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2309 Krokom","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2309 Krokom","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2309 Krokom","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2313 Strömsund","bensin",15,14,20,24,41,16,17,26,23,19,29,18
+"2313 Strömsund","diesel",7,11,12,11,4,4,5,4,3,6,6,6
+"2313 Strömsund","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2313 Strömsund","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2313 Strömsund","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2313 Strömsund","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2313 Strömsund","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2313 Strömsund","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2321 Åre","bensin",12,7,7,4,13,15,3,8,5,13,9,14
+"2321 Åre","diesel",3,2,4,2,4,0,2,2,1,0,0,3
+"2321 Åre","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2321 Åre","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2321 Åre","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2321 Åre","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2321 Åre","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2321 Åre","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2326 Berg","bensin",10,8,10,8,11,4,8,7,7,7,9,6
+"2326 Berg","diesel",1,0,0,3,0,0,0,3,0,2,1,0
+"2326 Berg","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2326 Berg","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2326 Berg","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2326 Berg","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2326 Berg","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2326 Berg","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2361 Härjedalen","bensin",8,5,22,14,21,18,14,11,17,26,20,16
+"2361 Härjedalen","diesel",4,6,2,0,3,5,1,3,2,5,1,2
+"2361 Härjedalen","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2361 Härjedalen","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2361 Härjedalen","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2361 Härjedalen","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2361 Härjedalen","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2361 Härjedalen","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2380 Östersund","bensin",120,111,104,104,146,148,77,89,137,117,104,116
+"2380 Östersund","diesel",18,8,11,15,18,10,12,12,14,17,20,24
+"2380 Östersund","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2380 Östersund","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2380 Östersund","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2380 Östersund","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2380 Östersund","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2380 Östersund","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2401 Nordmaling","bensin",6,26,11,9,9,8,10,5,19,14,3,9
+"2401 Nordmaling","diesel",1,0,4,0,3,0,1,1,2,1,2,0
+"2401 Nordmaling","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2401 Nordmaling","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2401 Nordmaling","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2401 Nordmaling","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2401 Nordmaling","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2401 Nordmaling","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2403 Bjurholm","bensin",3,2,5,2,1,2,1,3,3,0,1,2
+"2403 Bjurholm","diesel",1,0,0,0,0,1,2,0,1,0,1,0
+"2403 Bjurholm","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2403 Bjurholm","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2403 Bjurholm","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2403 Bjurholm","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2403 Bjurholm","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2403 Bjurholm","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2404 Vindeln","bensin",3,2,4,4,6,6,2,0,8,3,7,7
+"2404 Vindeln","diesel",1,0,1,0,0,2,1,0,2,0,0,2
+"2404 Vindeln","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2404 Vindeln","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2404 Vindeln","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2404 Vindeln","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2404 Vindeln","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2404 Vindeln","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2409 Robertsfors","bensin",6,7,13,9,6,5,5,5,6,4,8,3
+"2409 Robertsfors","diesel",5,2,4,0,0,0,2,0,6,0,2,1
+"2409 Robertsfors","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2409 Robertsfors","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2409 Robertsfors","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2409 Robertsfors","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2409 Robertsfors","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2409 Robertsfors","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2417 Norsjö","bensin",1,3,2,3,1,5,3,2,2,3,5,11
+"2417 Norsjö","diesel",0,1,1,0,0,0,0,1,2,1,3,1
+"2417 Norsjö","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2417 Norsjö","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2417 Norsjö","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2417 Norsjö","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2417 Norsjö","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2417 Norsjö","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2418 Malå","bensin",1,1,2,3,6,1,3,1,2,5,2,2
+"2418 Malå","diesel",1,1,2,2,1,1,2,0,0,1,1,2
+"2418 Malå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2418 Malå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2418 Malå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2418 Malå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2418 Malå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2418 Malå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2421 Storuman","bensin",3,2,3,7,1,8,7,3,4,7,3,5
+"2421 Storuman","diesel",2,2,1,1,5,3,3,1,0,5,1,3
+"2421 Storuman","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2421 Storuman","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2421 Storuman","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2421 Storuman","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2421 Storuman","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2421 Storuman","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2422 Sorsele","bensin",2,0,1,2,0,1,3,1,3,0,1,0
+"2422 Sorsele","diesel",0,0,0,0,0,1,1,0,2,0,0,2
+"2422 Sorsele","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2422 Sorsele","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2422 Sorsele","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2422 Sorsele","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2422 Sorsele","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2422 Sorsele","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2425 Dorotea","bensin",3,1,2,3,2,3,4,1,1,1,2,3
+"2425 Dorotea","diesel",1,0,1,0,1,0,1,4,1,0,0,1
+"2425 Dorotea","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2425 Dorotea","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2425 Dorotea","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2425 Dorotea","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2425 Dorotea","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2425 Dorotea","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2460 Vännäs","bensin",5,7,7,11,5,6,6,8,7,9,7,5
+"2460 Vännäs","diesel",1,0,1,0,0,1,0,0,4,3,1,2
+"2460 Vännäs","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2460 Vännäs","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2460 Vännäs","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2460 Vännäs","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2460 Vännäs","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2460 Vännäs","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2462 Vilhelmina","bensin",5,4,2,1,5,3,7,5,4,6,13,3
+"2462 Vilhelmina","diesel",1,2,0,2,1,3,1,0,1,2,5,2
+"2462 Vilhelmina","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2462 Vilhelmina","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2462 Vilhelmina","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2462 Vilhelmina","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2462 Vilhelmina","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2462 Vilhelmina","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2463 Åsele","bensin",3,1,2,0,2,8,1,3,0,3,1,1
+"2463 Åsele","diesel",0,0,0,1,1,1,0,1,1,2,1,0
+"2463 Åsele","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2463 Åsele","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2463 Åsele","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2463 Åsele","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2463 Åsele","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2463 Åsele","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2480 Umeå","bensin",170,200,216,320,254,200,181,201,256,255,210,187
+"2480 Umeå","diesel",18,12,28,28,30,15,9,24,25,25,23,32
+"2480 Umeå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2480 Umeå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2480 Umeå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2480 Umeå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2480 Umeå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2480 Umeå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2481 Lycksele","bensin",25,14,11,10,9,6,9,7,10,11,14,5
+"2481 Lycksele","diesel",2,1,1,2,2,2,3,1,4,2,3,4
+"2481 Lycksele","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2481 Lycksele","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2481 Lycksele","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2481 Lycksele","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2481 Lycksele","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2481 Lycksele","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2482 Skellefteå","bensin",86,115,139,115,114,123,72,91,116,136,111,109
+"2482 Skellefteå","diesel",8,8,11,7,17,14,9,13,6,19,15,14
+"2482 Skellefteå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2482 Skellefteå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2482 Skellefteå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2482 Skellefteå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2482 Skellefteå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2482 Skellefteå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2505 Arvidsjaur","bensin",9,15,5,13,12,9,8,8,18,13,10,13
+"2505 Arvidsjaur","diesel",5,6,4,5,3,5,2,5,5,7,11,7
+"2505 Arvidsjaur","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2505 Arvidsjaur","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2505 Arvidsjaur","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2505 Arvidsjaur","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2505 Arvidsjaur","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2505 Arvidsjaur","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2506 Arjeplog","bensin",1,3,6,4,4,2,3,2,1,1,3,4
+"2506 Arjeplog","diesel",0,2,2,1,0,0,0,1,0,2,1,0
+"2506 Arjeplog","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2506 Arjeplog","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2506 Arjeplog","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2506 Arjeplog","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2506 Arjeplog","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2506 Arjeplog","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2510 Jokkmokk","bensin",0,4,3,4,4,5,8,1,3,6,8,10
+"2510 Jokkmokk","diesel",0,0,2,2,3,0,1,0,3,0,0,1
+"2510 Jokkmokk","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2510 Jokkmokk","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2510 Jokkmokk","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2510 Jokkmokk","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2510 Jokkmokk","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2510 Jokkmokk","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2513 Överkalix","bensin",4,1,0,2,3,1,2,2,2,1,1,2
+"2513 Överkalix","diesel",1,1,3,2,2,1,1,2,0,1,1,1
+"2513 Överkalix","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2513 Överkalix","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2513 Överkalix","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2513 Överkalix","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2513 Överkalix","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2513 Överkalix","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2514 Kalix","bensin",14,11,26,19,25,16,22,21,37,18,17,23
+"2514 Kalix","diesel",4,7,4,9,5,4,10,9,5,5,13,4
+"2514 Kalix","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2514 Kalix","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2514 Kalix","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2514 Kalix","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2514 Kalix","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2514 Kalix","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2518 Övertorneå","bensin",1,2,4,3,2,2,4,9,3,4,3,4
+"2518 Övertorneå","diesel",3,1,3,3,4,2,1,0,1,3,3,0
+"2518 Övertorneå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2518 Övertorneå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2518 Övertorneå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2518 Övertorneå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2518 Övertorneå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2518 Övertorneå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2521 Pajala","bensin",3,10,1,2,2,4,5,1,4,4,5,7
+"2521 Pajala","diesel",1,1,2,1,3,1,2,2,0,0,1,1
+"2521 Pajala","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2521 Pajala","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2521 Pajala","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2521 Pajala","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2521 Pajala","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2521 Pajala","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2523 Gällivare","bensin",14,20,18,17,16,24,24,23,20,32,18,11
+"2523 Gällivare","diesel",2,6,5,5,2,6,6,3,7,2,6,6
+"2523 Gällivare","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2523 Gällivare","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2523 Gällivare","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2523 Gällivare","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2523 Gällivare","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2523 Gällivare","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2560 Älvsbyn","bensin",3,3,7,4,6,4,5,1,6,5,7,3
+"2560 Älvsbyn","diesel",0,1,1,3,6,2,1,2,2,2,0,0
+"2560 Älvsbyn","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2560 Älvsbyn","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2560 Älvsbyn","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2560 Älvsbyn","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2560 Älvsbyn","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2560 Älvsbyn","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2580 Luleå","bensin",108,138,168,150,173,183,121,126,201,181,139,112
+"2580 Luleå","diesel",14,18,17,21,33,24,24,23,23,21,43,29
+"2580 Luleå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2580 Luleå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2580 Luleå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2580 Luleå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2580 Luleå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2580 Luleå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2581 Piteå","bensin",56,53,58,45,54,66,47,54,59,77,66,49
+"2581 Piteå","diesel",5,7,13,11,9,9,11,3,11,11,9,13
+"2581 Piteå","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2581 Piteå","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2581 Piteå","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2581 Piteå","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2581 Piteå","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2581 Piteå","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2582 Boden","bensin",36,35,55,44,53,52,45,40,58,51,47,37
+"2582 Boden","diesel",4,7,6,7,7,3,3,6,7,8,9,11
+"2582 Boden","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2582 Boden","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2582 Boden","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2582 Boden","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2582 Boden","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2582 Boden","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2583 Haparanda","bensin",14,10,6,11,16,13,16,19,6,9,8,8
+"2583 Haparanda","diesel",6,3,6,7,3,4,2,2,6,5,3,6
+"2583 Haparanda","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2583 Haparanda","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2583 Haparanda","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2583 Haparanda","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2583 Haparanda","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2583 Haparanda","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
+"2584 Kiruna","bensin",42,45,41,33,44,37,27,36,38,50,33,29
+"2584 Kiruna","diesel",6,6,8,13,7,8,2,8,4,7,9,4
+"2584 Kiruna","el",0,0,0,0,0,0,0,0,0,0,0,0
+"2584 Kiruna","elhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2584 Kiruna","laddhybrid",0,0,0,0,0,0,0,0,0,0,0,0
+"2584 Kiruna","etanol/etanol flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2584 Kiruna","gas/gas flexifuel",0,0,0,0,0,0,0,0,0,0,0,0
+"2584 Kiruna","övriga bränslen",0,0,0,0,0,0,0,0,0,0,0,0
