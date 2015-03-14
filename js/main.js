@@ -45,26 +45,48 @@ function updateTransportationSection(c){
 }
 
 
-var sweden = new swedenMap("map", "white", "orange");
-var donut = new donut("donut");
-var venn = new vennDiagram("venn");
+/*-------- WATER SECTION -------------*/
+/* Liquid Water Fun Fact*/
+var liquidFunFact = new liquidFillGauge();
+var configFunFact = liquidFunFact.liquidFillGaugeDefaultSettings();
+    configFunFact.circleColor = "#FF7777";
+    configFunFact.textColor = "#FF4444";
+    configFunFact.waveTextColor = "#FFAAAA";
+    configFunFact.waveColor = "#FFDDDD";
+    configFunFact.circleThickness = 0.2;
+    configFunFact.textVertPosition = 0.2;
+    configFunFact.waveAnimateTime = 1000;
+
+liquidFunFact.loadLiquidFillGauge("water_fun_fact", 28, configFunFact);
+
+
+/* Water pie chart over the use of water in sweden , this pie chart won't update */
+console.log("ska anropa piechart");
+var waterData = d3.csv("data/waterUseSweden.csv");
+var waterPie = new pieChart("water_pie_chart", waterData);
+
+
+
+// var sweden = new swedenMap("map", "white", "orange");
+// var donut = new donut("donut");
+// var venn = new vennDiagram("venn");
 
 
 /* ------- LIQUID ------ */
-var liquid1 = new liquidFillGauge();
-var config1 = liquid1.liquidFillGaugeDefaultSettings();
-    config1.circleColor = "#FF7777";
-    config1.textColor = "#FF4444";
-    config1.waveTextColor = "#FFAAAA";
-    config1.waveColor = "#FFDDDD";
-    config1.circleThickness = 0.2;
-    config1.textVertPosition = 0.2;
-    config1.waveAnimateTime = 1000;
+// var liquid1 = new liquidFillGauge();
+// var config1 = liquid1.liquidFillGaugeDefaultSettings();
+//     config1.circleColor = "#FF7777";
+//     config1.textColor = "#FF4444";
+//     config1.waveTextColor = "#FFAAAA";
+//     config1.waveColor = "#FFDDDD";
+//     config1.circleThickness = 0.2;
+//     config1.textVertPosition = 0.2;
+//     config1.waveAnimateTime = 1000;
 
-liquid1.loadLiquidFillGauge("fillgauge1", 28, config1);
+// liquid1.loadLiquidFillGauge("fillgauge1", 28, config1);
 
 /* ------- COUNTER --------- */
-countTo("test_text", 1082, 1200, false);
+//countTo("test_text", 1082, 1200, false);
 
 
 
