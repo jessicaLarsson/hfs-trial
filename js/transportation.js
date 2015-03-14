@@ -13,65 +13,24 @@ function transportation(){
 		counties.forEach(function(d) { driven_distance_data.set(d.Län, d); });
 	});
 
+	//datan nedan är per utsläpp i koldioxid i kg per person, resa tor-och-retur
+	// var gbg_sthlm = [160, 3]; //flyg, tåg
+	// var sthlm_medelhavet = [450, 160]; //flyg ,tåg
+	// var sthlm_thailand = [2200]; //flyg
+
+	var travel_data = [160, 3, 450, 160, 2200];
+	var travel_data_div = "travel1";
+	var travel_div_h = 300;
+	var travel_div_w = $("#"+travel_data_div).width();
+	var bar_chart = new barChart(travel_data, travel_data_div, travel_div_h, travel_div_w);
+
+
+	//----------------------------------
 	var driven_distance_div = "driven_distance";
-
-	var barDiv = $("#"+driven_distance_div);
-	var h = 400;
-	var w = barDiv.width();
-
 	var dataset = [1209,1192,1170,1152,1130]; //fullösning, Statisk data sthlm
-
-	var xScale = d3.scale.ordinal()
-					.domain(d3.range(dataset.length))
-					.rangeRoundBands([0, w], 0.05);
-
-	var yScale = d3.scale.linear()
-					.domain([0, 1281])
-					.range([0, h]);
-
-	//Create SVG element
-	var svg = d3.select("#"+driven_distance_div)
-				.append("svg")
-				.attr("width", w)
-				.attr("height", h);
-
-	//Create bars
-	svg.selectAll("rect")
-	   .data(dataset)
-	   .enter()
-	   .append("rect")
-	   .attr("x", function(d, i) {
-	   		return xScale(i);
-	   })
-	   .attr("y", function(d) {
-	   		return h - yScale(d);
-	   })
-	   .attr("width", xScale.rangeBand())
-	   .attr("height", function(d) {
-	   		return yScale(d);
-	   })
-	   .attr("fill", function(d) {
-			return "rgb(0, 0, " + (d * 10) + ")";
-	   });
-
-	//Create labels
-	svg.selectAll("text")
-	   .data(dataset)
-	   .enter()
-	   .append("text")
-	   .text(function(d) {
-	   		return d;
-	   })
-	   .attr("text-anchor", "middle")
-	   .attr("x", function(d, i) {
-	   		return xScale(i) + xScale.rangeBand() / 2;
-	   })
-	   .attr("y", function(d) {
-	   		return h - yScale(d) + 14;
-	   })
-	   .attr("font-family", "sans-serif")
-	   .attr("font-size", "11px")
-	   .attr("fill", "white");
+	var h = 400;
+	var w = $("#"+driven_distance_div).width();
+	var bar_chart = new barChart(dataset, driven_distance_div, h, w);
 
 
 	this.update = function(c){
@@ -83,33 +42,6 @@ function transportation(){
 
 		//New values for dataset
 		var dataset = [distance_value[2009], distance_value[2010], distance_value[2011], distance_value[2012], distance_value[2013]];
-
-		//Update all rects
-		svg.selectAll("rect")
-		   .data(dataset)
-		   .transition()
-		   .attr("y", function(d) {
-		   		return h - yScale(d);
-		   })
-		   .attr("height", function(d) {
-		   		return yScale(d);
-		   })
-		   .attr("fill", function(d) {
-				return "rgb(0, 0, " + (d * 10) + ")";
-		   });
-
-		//Update all labels
-		svg.selectAll("text")
-		   .data(dataset)
-		   .text(function(d) {
-		   		return d;
-		   })
-		   .attr("x", function(d, i) {
-		   		return xScale(i) + xScale.rangeBand() / 2;
-		   })
-		   .attr("y", function(d) {
-		   		return h - yScale(d) + 14;
-		   });
-						   						
+		bar_chart.update(dataset);				   						
 	}
 }
