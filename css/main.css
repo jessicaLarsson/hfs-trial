@@ -1,0 +1,17 @@
+.drop_down_counties{
+	padding-bottom: 20px;
+}
+
+/*TRANSPORTATOPN SECTION*/
+#nr_of_cars, #green_cars{
+	font-size: 90px;
+	font-family: "Impact, Charcoal, sans-serif";
+}
+
+#nr_of_cars{
+	color: #FF0000;
+}
+
+#green_cars{
+	color: #FF00FF;
+}

@@ -1,11 +1,10 @@
 function pieChart() {
 
-var w = 400;
-var h = 400;
+var w_div= "#water_pie_chart";
+var w = $(w_div).width();
+var h = w;
 var r = h/2;
 var color = d3.scale.category20c();
-
-
 
     //data from SCB, from the data/waterUseSweden.csv file
     var data = [{"label":"hushåll", "value":575640}, 
@@ -13,7 +12,7 @@ var color = d3.scale.category20c();
                       {"label":"industri", "value":2261856},
                       {"label": "övrigt använding", "value":303298}];
 
-    var vis = d3.select('#water_pie_chart')
+    var vis = d3.select(w_div)
                 .append("svg:svg").data([data])
                 .attr("width", w).attr("height", h)
                 .append("svg:g").attr("transform", "translate(" + r + "," + r + ")");

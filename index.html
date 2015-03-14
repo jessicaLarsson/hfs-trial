@@ -14,6 +14,7 @@
 
         <!-- Custom CSS -->
         <link href="css/scrolling-nav.css" rel="stylesheet">
+        <link href="css/main.css" rel="stylesheet">
         <link href="css/map.css" rel="stylesheet">
         <link href="css/charts.css" rel="stylesheet">
 
@@ -50,13 +51,16 @@
                             <a class="page-scroll" href="#page-top"></a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#section1">Section 1</a>
+                            <a class="page-scroll" href="#transportationSection">Transport</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#section2">Section 2</a>
+                            <a class="page-scroll" href="#waterSection">Vatten</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#section3">Section 3</a>
+                            <a class="page-scroll" href="#energySection">Energi</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#consumptionSection">Konsumtion</a>
                         </li>
                     </ul>
                 </div>
@@ -66,42 +70,66 @@
         </nav>
 
         <!-- Intro Section -->
-        <section id="intro" class="intro-section">
+        <section id="introSection">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Hej på dej!</h1>
-                        <svg id="fillgauge1" width="97%" height="250"></svg>
-                        <div id="counter1" width="50%" height="250"></div>
-                        <p id="test_text">0</p>
                     </div>
-                </div>
-                <div class="row">
-                    <div class=col-lg-"12">
-                        <div id="donut">
-                        </div>
-                    </div>
-                </div>     
+                </div>   
             </div>
         </section>
         
         <!-- Transportation Section -->
-        <section id="transportations" class="section">
+        <section id="transportationSection" class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Transport</h1>
                     </div>
                 </div>
-                <div class="drop_down_counties"></div>
-                <div id="nr_of_cars"><p id="nr_of_cars_p"></p></div>
-                <div id="green_cars"><p id="green_cars_p"></p></div>
-                <div id="driven_distance"></div>
                 <div class="row">
-                    <div class="col-lg-2" id="travel1"></div>
+                    <div class="col-lg-12">
+                          <div class="drop_down_counties"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-9">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <p id="nr_of_cars"></p>
+                            </div>
+                            <div class="col-md-4">
+                                <p id="green_cars"></p>
+                            </div>
+                            <div class="col-md-4">
+                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper iaculis pharetra. Vestibulum porta tortor vel orci sodales, et placerat ligula consequat. Duis finibus vitae nunc ac porta. Sed eget nibh velit.Phasellus facilisis accumsan malesuada. Aenean ac dolor vitae magna suscipit hendrerit.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6" id="driven_distance">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper iaculis pharetra. Vestibulum porta tortor vel orci sodales, et placerat ligula consequat. Duis finibus vitae nunc ac porta. Sed eget nibh velit.Phasellus facilisis accumsan malesuada. Aenean ac dolor vitae magna suscipit hendrerit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="row">
+                            <div class="col-lg-12" id="travel1">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper iaculis pharetra. Vestibulum porta tortor vel orci sodales, et placerat ligula consequat. Duis finibus vitae nunc ac porta. Sed eget nibh velit.Phasellus facilisis accumsan malesuada. Aenean ac dolor vitae magna suscipit hendrerit.</p>                  
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
+
+
 
         <!-- Water Section -->
         <section id="waterSection" class="section">
@@ -109,37 +137,36 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Vattenförbrukning</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
                         <div class="drop_down_counties"></div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-8">
-                        <div id="chart"></div>
-                        <div id="water_pie_chart" >
-                            <p>Vattenanvändning i Sverige efter användningsgrupp</p>
-                        </div>
+                    <div class="col-md-3" id="water_pie_chart">    
+                        <p>Vattenanvändning i Sverige efter användningsgrupp</p>
                     </div>
-                    <div class="col-lg-4">
-                        <p>Här igenom kommer användarens resa gå...</p>
+                    <div class="col-md-4">
+                        <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper iaculis pharetra. Vestibulum porta tortor vel orci sodales, et placerat ligula consequat. Duis finibus vitae nunc ac porta. Sed eget nibh velit.Phasellus facilisis accumsan malesuada. Aenean ac dolor vitae magna suscipit hendrerit.</p>      
+                    </div>
+                    <div class="col-md-5" id="water_trend">
+                        
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4">
-                        <p>vänster</p>
-                        <div id="water_trend"></div>
-                        <p>Vi behöver text som förklarar trendlinjen. Det hade varit bra att dela värdet med antalet invånare i kommunen för att få förbrukning per person, alternativt per hushåll. </p>
+                    <div class="col-md-4">
+                        <svg id="water_fun_fact" height="250"></svg>
+                        <p>Fun Fact: Genom att byta kranar och blandare i kök och badrum kan vattenanvändningen minskas med upp till 40%. Snålspolande kranar och blandare med energisparfunktion kan göra stor skillnad! VISA DETTA MEDDELANDE NÄR MAN HOOVRAR OVANPÅ PIE CHARTEN</p>
                     </div>
-                    <div class="col-lg-4" style="vertical-align:middle">
-                        <p>Här igenom kommer användarens resa gå när vi är klara.</p>
+                    <div class="col-md-4">
+                        <p>FUN FACT2</p>
                     </div>
-                    <div class="col-lg-4">
-                        <p>höger</p>
-                        <svg id="water_fun_fact" width="97%" height="250">
-                            <p>Fun Fact: Genom att byta kranar och blandare i kök och badrum kan vattenanvändningen minskas med upp till 40%. Snålspolande kranar och blandare med energisparfunktion kan göra stor skillnad! VISA DETTA MEDDELANDE NÄR MAN HOOVRAR OVANPÅ PIE CHARTEN</p>
-                        </svg>
+                    <div class="col-md-4">
+                        <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper iaculis pharetra. Vestibulum porta tortor vel orci sodales, et placerat ligula consequat. Duis finibus vitae nunc ac porta. Sed eget nibh velit.Phasellus facilisis accumsan malesuada. Aenean ac dolor vitae magna suscipit hendrerit.</p>        
                     </div>
                 </div>
-
             </div>
         </section>
 
@@ -154,6 +181,10 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="drop_down_counties"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
                         <div id="energy_pie_chart"><p>Fördelning av energiförbrukning i Sverige, 2013</p></div>
                         <div id="energy_consumtion"></div>
                     </div>
@@ -169,8 +200,12 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Konsumtion</h1>
-                        <div class="drop_down_counties"></div> 
                         <div id="percentage_private_consumtion"></div>    
+                    </div>
+                </div>
+                 <div class="row">
+                    <div class="col-lg-12">
+                        <div class="drop_down_counties"></div> 
                     </div>
                 </div>
                 <div class="row">
