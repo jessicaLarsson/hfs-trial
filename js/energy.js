@@ -40,26 +40,33 @@ function energy() {
 
 
 	var region_data;
+	var r = [];
+	var regionName = "Stockholms län";
+	var userCategory = "småhus";
 
 	d3.csv("data/energyUsageHouses.csv", function(error, regions) {
 		if (error) throw error;
 		region_data = regions;
 
-		region_data = d3.map();
+		
 		regions.forEach(function(d) {  
-			region_data.set(d.region, d);
-			
+			if(d.region == regionName) {
+				if(d.förbrukarkategori == userCategory) {
+					if(userCategory == "småhus" && (d.bränsletyp == "flytande (icke förnybara)"||d.bränsletyp == "fast (förnybara)" ||d.bränsletyp == "fjärrvärme" ||d.bränsletyp == "el")) {
+						r.push(d);
+					} else if (userCategory == "flerbostadshus" && (d.bränsletyp =="flytande (icke förnybara)"||d.bränsletyp =="fjärrvärme"|| d.bränsletyp =="el")) {
+						r.push(d);
+				}
 
+			}
 
+				
+		}
+	
 		}) 
-
-		draw();
 	});
 	
-
-	function draw() {
-		console.log(region_data.get("Riket"));
 	
-	}
+
 
 }
