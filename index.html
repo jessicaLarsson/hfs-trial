@@ -97,6 +97,9 @@
                 <div id="nr_of_cars"><p id="nr_of_cars_p"></p></div>
                 <div id="green_cars"><p id="green_cars_p"></p></div>
                 <div id="driven_distance"></div>
+                <div class="row">
+                    <div class="col-lg-2" id="travel1"></div>
+                </div>
             </div>
         </section>
 
@@ -118,7 +121,7 @@
         </section>
 
         <!-- Second Section -->
-        <section id="section2" class="section">
+        <section id="energySection" class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -128,12 +131,12 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="drop_down_counties"></div>
-                        <div id="map" style="height: 60vh;">
-                        </div>
-                        <div id="test"></div>
+                        <div id="energy_pie_chart"><p>Fördelning av energiförbrukning i Sverige, 2013</p></div>
                     </div>
+                        
                 </div>
             </div>
+           
         </section>
 
         <!-- Consumption Section -->
@@ -142,7 +145,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>Konsumtion</h1>
-                        <div class="drop_down_counties"></div>   
+                        <div class="drop_down_counties"></div> 
+                        <div id="percentage_private_consumtion"></div>    
                     </div>
                 </div>
                 <div class="row">
@@ -164,6 +168,7 @@
                     </div>
                     <div class="col-lg-4">
                         <p>Derp</p>
+
                     </div>
                     <div class="col-lg-4">
                         <table>
@@ -217,15 +222,17 @@
         <script src="js/vendor/topojson.v1.min.js"></script>
 
         <!-- Javascript Modules-->       
-        <script src="js/grouped-bar-chart.js"></script>
-        <script src="js/bar-chart.js"></script>
+        <script src="js/waterTrendLineChart.js"></script>
         <script src="js/donut.js"></script>
         <script src="js/map.js"></script>
-        <script src="js/vennDiagram.js"></script>
         <script src="js/liquid_fill_gauge.js"></script>
         <script src="js/counter.js"></script>
         <script src="js/pieChart.js"></script>
-        <script src="js/waterTrendLineChart.js"></script>
+         <script src="js/bar_chart.js"></script>
+        <script src="js/water.js"></script>
+        <script src="js/transportation.js"></script>
+        <script src="js/consumtion.js"></script>
+        <script src="js/energy.js"></script>
         <script src="js/main.js"></script>
 
         <!-- Bootstrap Core JavaScript -->

@@ -1,28 +1,12 @@
-/*----- DROP DOWN COUNTY SELECTION*/
+/*----- DROP DOWN COUNTY SELECTION */
 var div_drop_down = "drop_down_counties";
 var dispatch = d3.dispatch("load", "countychange");
 
+var water = new water();
+var transportation = new transportation();
+var energy = new energy();
+var consumtion = new consumtion();
 
-/*----- DATA READ SECTION-------*/
-//read data, green cars, number of cars etc
-d3.csv("data/greenCars.csv", function(error, counties) {
-	if (error) throw error;
-	green_cars_data = d3.map();
-	counties.forEach(function(d) { green_cars_data.set(d.Län, d); });
-});
-
-//read data, green cars, number of cars etc
-d3.csv("data/waterTrend.csv", function(error, counties) {
-	if (error) throw error;
-	water_trend_data = d3.map();
-	counties.forEach(function(d) { water_trend_data.set(d.Län, d); });
-});
-
-d3.csv("data/drivenDistance.csv", function(error, counties) {
-	if (error) throw error;
-	driven_distance_data = d3.map();
-	counties.forEach(function(d) { driven_distance_data.set(d.Län, d); });
-});
 
 //read county data
 d3.csv("data/greenCars.csv", function(error, counties) {
@@ -48,8 +32,9 @@ var select = d3.selectAll("."+div_drop_down)
 
 	dispatch.on("countychange.menu", function(county) {
 	  select.property("value", county.Län);
-	  updateTransportationSection(county.Län);
-	  updateWaterSection(county.Län);
+	  transportation.update(county.Län);
+	  water.update(county.Län);
+	  consumtion.update(county.Län);
 	});
 });
 
@@ -187,4 +172,3 @@ var waterPie = new pieChart("water_pie_chart", waterData);
 
 d3.csv("carbonPollutionConsumers.csv", function(error, data) {
 
-  
