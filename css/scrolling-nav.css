@@ -38,22 +38,24 @@ of those sections to manage the look and feel of the site. */
 }
 
 .section {
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 50px;
+    border-top: 1px  dashed;
+    border-color: #4d422e;
 }
 
 #transportationSection{
-    background: #eeeeee;
+    background: #e5d8c0;
 }
 
 #waterSection{
-    background: #cccccc;
+    background: #e5d8c0;
 }
 
 #energySection{
-    background: #eeeeee;
+    background: #e5d8c0;
 }
 
 #consumptionSection{
-    background: #cccccc;
+    background: #e5d8c0;
 }
