@@ -4,8 +4,8 @@ function consumtion(){
 		total_consumtion = d3.sum(data, function(d){return d[2012]});
 		countTo("percentage_private_consumtion", (private_consumtion/total_consumtion)*100, 1200, true);
 	});
-	
 
 	this.update = function(){
+
 	}
 }
