@@ -56,17 +56,12 @@ function energy() {
 						r.push(d);
 					} else if (userCategory == "flerbostadshus" && (d.bränsletyp =="flytande (icke förnybara)"||d.bränsletyp =="fjärrvärme"|| d.bränsletyp =="el")) {
 						r.push(d);
-				}
+				    }
+                }
 
-			}
-
-				
-		}
-	
-		}) 
+		    }
+	   }) 
+        console.log(r[1]);
+        multipleLineChart(r[0], r[1]);
 	});
-	
-	
-
-
 }
