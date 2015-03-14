@@ -1,9 +1,10 @@
-/*----- DROP DOWN COUNTY SELECTION*/
+/*----- DROP DOWN COUNTY SELECTION */
 var div_drop_down = "drop_down_counties";
 var dispatch = d3.dispatch("load", "countychange");
 
 var water = new water();
 var transportation = new transportation();
+var energy = new energy();
 
 //read county data
 d3.csv("data/greenCars.csv", function(error, counties) {
