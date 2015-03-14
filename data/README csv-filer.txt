@@ -71,6 +71,12 @@ Beskrivning: Hur stor andel av hushållens utgifter som spenderas på vissa varugr
 Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HE__HE0201__HE0201A/HUTutgift6/?rxid=ecf6fd0d-ba06-4301-843b-bfff95eeda03
 Kommentar: Varugrupper: kött, fisk och skaldjur, frukt och bär, kaffe, drift av bil, resor och hotell, År: 2006-2009
 
+Fil: carbonPollutionConsumers.csv
+Beskrivning: Totala CO2-utsläpp från privat konsumtion per år 
+Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI1301/MiljoUtslappAmneSNIb/?rxid=769fc760-7524-4d3e-bf0c-e35e9001a41a
+Kommentar: Nivå: Riket. Data: Utsläpp i 1000 kg. År: 2008-2012
+Har tagit med samtliga branscher för attt man ska kunna räkna ut privat konsumtions andel av totala utsläpp. 
+
 	--- FUN FACTS ---
 Den genomsnittlige svensken åkte 1235 mil med bil år 2012 (Bilar på gas åkte i snitt längst, 2426 mil. Elbilar åkte i snitt kortast, 900 mil.)  
 Den genomsnittlige svensken åkte 1260 mil med bil år 2011 (Bilar på gas åkte i snitt längst, 2437 mil. Elbilar åkte i snitt  kortast, 770 mil.)
