@@ -84,7 +84,20 @@
                 </div>     
             </div>
         </section>
-
+        
+        <!-- Transportation Section -->
+        <section id="transportations" class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Transport</h1>
+                    </div>
+                </div>
+                <div class="drop_down_counties"></div>
+                <div id="nr_of_cars"><p id="nr_of_cars_p"></p></div>
+                <div id="green_cars"><p id="green_cars_p"></p></div>
+            </div>
+        </section>
 
         <!-- First Section -->
         <section id="section1" class="section">
@@ -94,8 +107,8 @@
                         <h1>Vattenförbrukning</h1>
                     </div>
                 </div>
-                <div id="chart">
-                </div>
+                <div class="drop_down_counties"></div>
+                <div id="bar_chart"></div>
             </div>
         </section>
 
@@ -104,13 +117,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1>Sverige</h1>
+                        <h1>Energi</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-12">
+                        <div class="drop_down_counties"></div>
                         <div id="map" style="height: 60vh;">
                         </div>
+                        <div id="test"></div>
                     </div>
                 </div>
             </div>
@@ -121,7 +136,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        
+                        <h1>Konsumtion</h1>
+                        <div class="drop_down_counties"></div>
                         <div id="venn" style="height: 60vh;"></div>         
                     </div>
                 </div>
@@ -151,6 +167,7 @@
 
         <!-- Javascript Modules-->       
         <script src="js/grouped-bar-chart.js"></script>
+        <script src="js/bar-chart.js"></script>
         <script src="js/donut.js"></script>
         <script src="js/map.js"></script>
         <script src="js/vennDiagram.js"></script>
