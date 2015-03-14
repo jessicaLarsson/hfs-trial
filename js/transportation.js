@@ -22,7 +22,7 @@ function transportation(){
 	var travel_data_div = "travel1";
 	var travel_div_h = 300;
 	var travel_div_w = $("#"+travel_data_div).width();
-	var bar_chart = new barChart(travel_data, travel_data_div, travel_div_h, travel_div_w);
+	var bar_chart = new barChart(travel_data, travel_data_div, travel_div_h, travel_div_w, 2300);
 
 
 	//----------------------------------
@@ -30,7 +30,7 @@ function transportation(){
 	var dataset = [1209,1192,1170,1152,1130]; //fullösning, Statisk data sthlm
 	var h = 400;
 	var w = $("#"+driven_distance_div).width();
-	var bar_chart = new barChart(dataset, driven_distance_div, h, w);
+	var bar_chart = new barChart(dataset, driven_distance_div, h, w, 1300);
 
 
 	this.update = function(c){
