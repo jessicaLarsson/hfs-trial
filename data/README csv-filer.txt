@@ -42,13 +42,18 @@ Kommentar:
 Fil: regCarsFuel20XX (20XX är årtal)
 Beskrivning: Nyregistrerade bilar per bränsletyp
 Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__TK__TK1001__TK1001A/PersBilarDrivMedel/?rxid=2d09f4a6-b7fd-4c12-91de-6067c42be7a6
-Kommentar: Riket, län och kommun, månadsvis grunddata, 2002-2014
+Kommentar: Nivå: Riket, län och kommun. Data: månadsvis grunddata. År: 2002-2014
 
 --- Vatten --- 
 Fil:
 Beskrivning:
 Källa:
 Kommentar:
+
+Fil: waterUsageHousehold
+Beskrivning: Hur mycket vatten hushållen förbrukar per år
+Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902A/Vattenanvandning/?rxid=ecf6fd0d-ba06-4301-843b-bfff95eeda03
+Kommentar: Nivå: Län. Data: Samtliga hushåll aggregerade, 1000-tals kubikmeter. År: 1995, 2000, 2005, 2010
 
 --- Konsumtion --- 
 Fil:
