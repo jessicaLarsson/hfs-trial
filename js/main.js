@@ -36,14 +36,12 @@ d3.csv("data/greenCars.csv", function(error, counties) {
 	if (error) throw error;
 	green_cars_data = d3.map();
 	counties.forEach(function(d) { green_cars_data.set(d.Län, d); });
-	dispatch.load(green_cars_data);
-	//dispatch.countychange(green_cars_data.get("Stockholms län")); //startvalue
 });
 
 function updateTransportationSection(c){
-	console.log(c);
 	var data_test = green_cars_data.get(c);
-	console.log(data_test.AntalMiljöbilar);
+	countTo("nr_of_cars", data_test.AntalPersonbilarIlänet, 1200, false);
+	countTo("green_cars", data_test.ProcentuellAndelMiljöbilar, 1200, true);
 }
 
 
