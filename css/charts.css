@@ -20,3 +20,19 @@
 .x.axis path {
   display: none;
 }
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+#driven_distance rect {
+  fill: steelblue;
+}
+
+#driven_distance text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
