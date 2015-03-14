@@ -50,7 +50,7 @@ Beskrivning:
 Källa:
 Kommentar:
 
-Fil: waterUsageHousehold.csv
+Fil: waterTrend.csv
 Beskrivning: Hur mycket vatten hushållen förbrukar per år
 Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902A/Vattenanvandning/?rxid=ecf6fd0d-ba06-4301-843b-bfff95eeda03
 Kommentar: Nivå: Län. Data: Samtliga hushåll aggregerade, 1000-tals kubikmeter. År: 1995, 2000, 2005, 2010
