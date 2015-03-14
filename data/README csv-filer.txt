@@ -34,12 +34,15 @@ Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__EN__EN0105/ElAnv
 Kommentar: Energi i GWh, Hela landet, 2008-2013
 
 --- Transport ---
-
-
 Fil:
 Beskrivning:
 Källa:
 Kommentar:
+
+Fil: regCarsFuel20XX (20XX är årtal)
+Beskrivning: Nyregistrerade bilar per bränsletyp
+Källa: http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__TK__TK1001__TK1001A/PersBilarDrivMedel/?rxid=2d09f4a6-b7fd-4c12-91de-6067c42be7a6
+Kommentar: Riket, län och kommun, månadsvis grunddata, 2002-2014
 
 --- Vatten --- 
 
