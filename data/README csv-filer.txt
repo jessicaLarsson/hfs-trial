@@ -59,3 +59,14 @@ Fil:
 Beskrivning:
 Källa:
 Kommentar:
+
+	--- FUN FACTS ---
+Den genomsnittlige svensken åkte 1235 mil med bil år 2012 (Bilar på gas åkte i snitt längst, 2426 mil. Elbilar åkte i snitt kortast, 900 mil.)  
+Den genomsnittlige svensken åkte 1260 mil med bil år 2011 (Bilar på gas åkte i snitt längst, 2437 mil. Elbilar åkte i snitt  kortast, 770 mil.)
+Den genomsnittlige svensken åkte 1271 mil med bil år 2010 (Bilar på gas åkte i snitt längst, 2270 mil. Elbilar åkte i snitt  kortast, 671 mil.)
+Den genomsnittlige svensken åkte 1299 mil med bil år 2009 (Bilar på diesel åkte i snitt längst, 2103 mil. Elbilar åkte i snitt  kortast, 527 mil.)
+Källa: http://trafa.se/sv/Soksida/#query=körsträckor&mainfacet=24&mainfacetname=category;statistik&tabindex=2&pagingnr=2&queryex=Statistik;Vägtrafik,Statistik;Vägtrafik|Körsträckor&sort= sort:reverse:meta:docdate
+
+andel konsumtion
+http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HE__HE0201__HE0201A/HUTutgift6/?rxid=ecf6fd0d-ba06-4301-843b-bfff95eeda03
+
