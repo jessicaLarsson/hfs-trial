@@ -2,6 +2,15 @@
 var div_drop_down = "drop_down_counties";
 var dispatch = d3.dispatch("load", "countychange");
 
+
+/*----- DATA READ SECTION-------*/
+//read data, green cars, number of cars etc
+d3.csv("data/greenCars.csv", function(error, counties) {
+	if (error) throw error;
+	green_cars_data = d3.map();
+	counties.forEach(function(d) { green_cars_data.set(d.Län, d); });
+});
+
 //read county data
 d3.csv("data/greenCars.csv", function(error, counties) {
 	if (error) throw error;
@@ -31,13 +40,6 @@ var select = d3.selectAll("."+div_drop_down)
 });
 
 /*----- TRANSPORTATION SECTION -------- */
-//read data, green cars, number of cars etc
-d3.csv("data/greenCars.csv", function(error, counties) {
-	if (error) throw error;
-	green_cars_data = d3.map();
-	counties.forEach(function(d) { green_cars_data.set(d.Län, d); });
-});
-
 function updateTransportationSection(c){
 	var data_test = green_cars_data.get(c);
 	countTo("nr_of_cars", data_test.AntalPersonbilarIlänet, 1200, false);
@@ -45,10 +47,13 @@ function updateTransportationSection(c){
 }
 
 
-var sweden = new swedenMap("map", "white", "orange");
-var donut = new donut("donut");
-var venn = new vennDiagram("venn");
 
+
+
+
+//var sweden = new swedenMap("map", "white", "orange");
+//var donut = new donut("donut");
+//var venn = new vennDiagram("venn");
 
 /* ------- LIQUID ------ */
 var liquid1 = new liquidFillGauge();
@@ -63,8 +68,6 @@ var config1 = liquid1.liquidFillGaugeDefaultSettings();
 
 liquid1.loadLiquidFillGauge("fillgauge1", 28, config1);
 
-/* ------- COUNTER --------- */
-countTo("test_text", 1082, 1200, false);
 
 
 
