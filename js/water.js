@@ -33,10 +33,10 @@ function water(){
 	/* Liquid Water Fun Fact2*/
 	var liquidFunFact2 = new liquidFillGauge();
 	var configFunFact2 = liquidFunFact2.liquidFillGaugeDefaultSettings();
-	    configFunFact2.circleColor = "#087FCC";
+	    configFunFact2.circleColor = "#1D3640";
 	    configFunFact2.textColor = "#087FCC";
-	    configFunFact2.waveTextColor = "#087FCC";
-	    configFunFact2.waveColor = "#1D3640";
+	    configFunFact2.waveTextColor = "#1D3640";
+	    configFunFact2.waveColor = "#087FCC";
 	    configFunFact2.circleThickness = 0.2;
 	    configFunFact2.textVertPosition = 0.2;
 	    configFunFact2.waveAnimateTime = 1500;
