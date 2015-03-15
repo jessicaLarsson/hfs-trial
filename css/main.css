@@ -241,5 +241,13 @@ h1.section-heading{
 	color: #E85421 !important;
 }
 #energyTips{
-	font-size: 55px;
+	margin: 0em;
+	font-size: 30px;
+	text-align: float;
+}
+#energyNumber {
+	margin:0em;
+	text-align: float;
+	font-size: 100px;
+	color: #FF9571;
 }
