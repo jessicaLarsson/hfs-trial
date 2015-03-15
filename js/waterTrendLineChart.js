@@ -1,10 +1,10 @@
 function waterTrendLineChart(data) {
-	var m = [0, 80, 80, 80]; // margins
+	var m = [10, 80, 80, 80]; // margins
 	var w = $("#water_trend").width(); // width
 	var h = 200; // height
 
 	var x = d3.scale.linear().domain([0, data.length]).range([0, w]);
-	var y = d3.scale.linear().domain([0, d3.max(data)]).range([h, 0]);
+	var y = d3.scale.linear().domain([0, 100000]).range([h, 0]);
 
 	var line = d3.svg.line()
 		.x(function(d,i) { return x(i);})
@@ -18,7 +18,7 @@ function waterTrendLineChart(data) {
 		      .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
 
 	 	// create yAxis
-	 	var xAxis = d3.svg.axis().scale(x).tickSize(5).tickSubdivide(true);
+	 	var xAxis = d3.svg.axis().scale(x).tickSize(5).tickSubdivide(false);
 
 		graph.append("svg:g")
 		      .attr("class", "x axis")
@@ -39,9 +39,6 @@ function waterTrendLineChart(data) {
 
 	this.update = function(data){
 		
-		var x = d3.scale.linear().domain([0, data.length]).range([0, w]);
-		var y = d3.scale.linear().domain([0, d3.max(data)]).range([h, 0]);
-
 	    // Select the section we want to apply our changes to
 	    var svg = d3.select("#water_trend").transition();
 

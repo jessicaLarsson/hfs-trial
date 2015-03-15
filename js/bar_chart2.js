@@ -15,6 +15,8 @@ function barChart2(data, div, h, w, max){
 
 	//Create SVG element
 	var svg = d3.select("#"+div)
+				.append("div")
+				.attr("class", "inner")
 				.append("svg")
 				.attr("width", w)
 				.attr("height", h);
