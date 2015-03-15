@@ -257,27 +257,40 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-3">
-                        <h1 class="section-heading">Energi</h1>
+                        <h1 class="section-heading energy"><i class="fa fa-lightbulb-o"></i> Energi</h1>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-3">
                         <div class="drop_down_counties"></div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
-                        <div id="energy_pie_chart">
-                            <p>
-                                Fördelning av energiförbrukning i Sverige, 2013
-                            </p>
-                        </div>
-                        <div id="energy_consumtion"></div>
+                    <div class="col-md-6">
+                        <svg width="100%" height="300px" id="pieChartSvg1">
+                            <g id="canvas1">
+                            <g id="art1" />
+                            <g id="labels1" /></g>
+                        </svg> 
+                        <p><b>Fördelning av energiförbrukning i Sverige, 2013</b></p> 
                     </div>
-                        
+                    <div class="col-md-6">
+                        <div id="energy_consumtion"></div>      
+                    </div>
                 </div>
-            </div>
-           
+                <div class="row">
+                    <div class="col-md-3">
+                        <p id="energyNumber">6. </p>
+                        <p id="energyTips">Sverige ligger på sjätte plats internationellt när det gäller el använding per person och år! </p>
+                    </div>
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-3">
+                    </div>
+                </div>
+           </div>
         </section>
 
         <!-- Consumption Section -->

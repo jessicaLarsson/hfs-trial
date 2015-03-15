@@ -253,4 +253,20 @@ h1.section-heading{
 #red4{
     stroke: #CC5F39;
     stroke-width: 4;
+
+/*ENERGY SECTION*/
+
+.energy {
+	color: #E85421 !important;
+}
+#energyTips{
+	margin: 0em;
+	font-size: 30px;
+	text-align: float;
+}
+#energyNumber {
+	margin:0em;
+	text-align: float;
+	font-size: 100px;
+	color: #FF9571;
 }
