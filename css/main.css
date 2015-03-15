@@ -11,8 +11,7 @@ p, li {
 .bubble{
 	padding: 10px 7px 7px 15px;
 	margin: 10px;
-	background-color: #FFF3E6;
-	opacity: 0.4;
+	background-color: #efe3d0;
 	color: #ffffff;
 	-webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -32,7 +31,7 @@ p, li {
     left: 164px;
     border-style: solid;
     border-width: 38px 22px 0;
-    border-color: #FFF3E6 transparent;
+    border-color: #efe3d0 transparent;
     display: block;
     width: 0;
     z-index: 1;
@@ -77,6 +76,10 @@ h1.section-heading{
 }
 
 /*TRANSPORTATOPN SECTION*/
+#transport_row1{
+	background: #efe3d0;
+}
+
 #nr_of_cars, #green_cars{
 	font-size: 80px;
 	font-family: 'Oswald', sans-serif;
@@ -98,6 +101,15 @@ h1.section-heading{
 	padding-top: 0px;
 
 }
+
+#transport_text_1{
+	padding-right: 30px;
+	padding-top: 20px;
+	padding-left: 0px;
+	margin-left: -20px;
+}
+
+
 #testt p {
 	font-size: 30px;
     -ms-transform: rotate(-90deg); /* IE 9 */
@@ -108,9 +120,32 @@ h1.section-heading{
 }
 
 #testt {
-	padding-top: 355px;
+	padding-top: 305px;
 }
 
+#pendel_data{
+	margin-top: 30px;
+	padding: 30px 10px 20px 20px;
+}
+
+.transport_icons{
+	font-size: 120px;
+	text-align:center;
+	border-bottom: 10px solid;
+}
+
+.transport_number{
+	font-size: 40px;
+	font-weight: 700;
+	padding-top: 0;
+	margin-top: -10px;
+	text-align:center;
+}
+
+#transport_chart_text{
+	background: #bca785;
+	padding-top: 10px;
+}
 
 /*WATER SECTION*/
 
@@ -163,4 +198,13 @@ h1.section-heading{
     border-radius: 25px;
     border-color: #E6FFFB;
     background: #E6FFFB;   
+}
+
+/*ENERGY SECTION*/
+
+.energy {
+	color: #E85421 !important;
+}
+#energyTips{
+	font-size: 55px;
 }

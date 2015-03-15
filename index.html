@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Awesome title</title>
+        <title>Miljöresan</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -19,12 +19,8 @@
         <link href="css/map.css" rel="stylesheet">
         <link href="css/charts.css" rel="stylesheet">
 
-
-
         <!-- Fonts -->
         <link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
-        
-
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -103,7 +99,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="section-heading">Transport</h1>
+                        <h1 class="section-heading"><i class="fa fa-car"></i> Transport</h1>
                     </div>
                 </div>
                 <div class="row">
@@ -113,7 +109,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-9">
-                        <div class="row">
+                        <div class="row" id="transport_row1">
                             <div class="col-md-4">
                                 <p id="nr_of_cars"></p>
                                 <p id="nr_of_cars_sub">Antal bilar i länet</p>
@@ -123,19 +119,26 @@
                                 <p id="green_cars_sub">Miljöbilar</p>
                             </div>
                             <div class="col-md-4">
-                                <p class="text">
+                                <p class="text" id="transport_text_1">
                                     En tredjedel av Sveriges totala utsläpp härstammar från transportsektorn. Tunga fordon och personbilar dominerar, men utsläppen från personbilar var <b>16%</b> lägre 2013 jämfört med 1990. Detta trots att trafiken ökade mellan 1990 och 2008. Anledningen till detta är att bilarna har blivit mer energieffektiva med tiden, samt att fler bilar har börjat gå över till biobränslen. Till vänster kan du se hur många bilar som finns i ditt län, samt hur många procent av dem som är miljöbilar. Är en av dem din?
                                 </p>        
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-1" id="testt" heigth="400px"><p>Körsträcka</p></div>
+                            <div class="col-md-1" id="testt" heigth="350"><p>Körsträcka</p></div>
                             <div class="col-md-5" id="driven_distance"></div>
-
-                            <div class="col-md-6">
+                            <div class="col-md-6" id="pendel_data">
                                 <p class="text">Att pendla <b>5</b> gånger i veckan en sträcka som är <b>20km</b> tur och retur i en <b>Volvo V70</b> (bensin) motsvarar <b>25kg</b> utsläpp av koldioxid, jämfört med att åka samma sträcka med <b>buss</b> som då motsvarar ett utsläpp på <b>10kg</b>.</p>
-
-                                <p class="text"> Testelitest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper iaculis pharetra. Vestibulum porta tortor vel orci sodales, et placerat ligula consequat. Duis finibus vitae nunc ac porta. Sed eget nibh velit.Phasellus facilisis accumsan malesuada. Aenean ac dolor vitae magna suscipit hendrerit.</p>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <p class="transport_icons"><i class="fa fa-car car-icon"></i></p>
+                                        <p class="transport_number">25kg CO<sub>2</sub></p>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <p class="transport_icons"><i class="fa fa-bus bus-icon"></i></p>
+                                        <p class="transport_number">10kg CO<sub>2</sub></p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -146,7 +149,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-lg-12">
+                            <div class="col-lg-12" id="transport_chart_text">
                                 <p class="text">
                                     Det är inte bara hur mycket man åker som spelar roll. Det är stor skillnad på olika transportmedel. I grafen ovan jämförs olika färdmedel för samma sträcka. 
                                 </p>
@@ -189,8 +192,11 @@
                         </svg>       
                     </div>
                     <div class="col-md-3">
-                        <p class="text text-square">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper iaculis pharetra. Vestibulum porta tortor vel orci sodales, et placerat ligula consequat. Duis finibus vitae nunc ac porta. Sed eget nibh velit.Phasellus facilisis accumsan malesuada. Aenean ac dolor vitae magna suscipit hendrerit.</p>      
+                        <p class="text text-square">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper iaculis pharetra. Vestibulum porta tortor vel orci sodales, et placerat ligula consequat. Duis finibus vitae nunc ac porta. Sed eget nibh velit.Phasellus facilisis accumsan malesuada. Aenean ac dolor vitae magna suscipit hendrerit.
+                        </p>      
                     </div>
+
                     <div class="col-md-4">
                         <div class="row" id="funFact1">
                             <div class="col-md-6">
@@ -209,7 +215,8 @@
                         </div>
                        <div class="row" id="funFact2">
                             <div class="col-md-6">
-                                <p>Fun Fact: Genom att byta kranar och blandare i kök och badrum kan vattenanvändningen minskas med upp till 40%. Snålspolande kranar och blandare med energisparfunktion kan göra stor skillnad! VISA DETTA MEDDELANDE NÄR MAN HOOVRAR OVANPÅ PIE CHARTEN</p>
+                                <p>Fun Fact: Genom att byta kranar och blandare i kök och badrum kan vattenanvändningen minskas med upp till 40%. Snålspolande kranar och blandare med energisparfunktion kan göra stor skillnad!
+                                </p>
                             </div>
                             <div class="col-md-6">
                                 <svg id="water_fun_fact2" height="150" width="100%"></svg>
@@ -221,6 +228,7 @@
                     <div class="col-md-4" id="water_trend"></div>
                     
                     <div class="col-md-4">
+
                         <div class="row">
                             <div class="col-md-3">
                                 <p id="humam"><i class="fa fa-male"></i></p>
@@ -237,10 +245,9 @@
                                 <svg id="water_fun_fact3" height="150" width="100%"></svg>
                             </div>                            
                             <div class="col-md-6">
-                                <p>Fun Fact: Genom att byta kranar och blandare i kök och badrum kan vattenanvändningen minskas med upp till 40%. Snålspolande kranar och blandare med energisparfunktion kan göra stor skillnad! VISA DETTA MEDDELANDE NÄR MAN HOOVRAR OVANPÅ PIE CHARTEN</p>
+                                <p>Fun Fact: Genom att byta kranar och blandare i kök och badrum kan vattenanvändningen minskas med upp till 40%. Snålspolande kranar och blandare med energisparfunktion kan göra stor skillnad!</p>
                             </div>
                         </div>
-                              
                     </div>
                 </div>
             </div>
@@ -251,11 +258,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-3">
-                        <h1 class="section-heading">Energi</h1>
+                        <h1 class="section-heading energy">Energi</h1>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-3">
                         <div class="drop_down_counties"></div>
                     </div>
                 </div>
@@ -265,15 +272,25 @@
                             <g id="canvas1">
                             <g id="art1" />
                             <g id="labels1" /></g>
-                        </svg>  
-                        <!-- <div id="energy_pie_chart"><p>Fördelning av energiförbrukning i Sverige, 2013</p></div> -->
-                        
+                        </svg> 
+                        <p><b>Fördelning av energiförbrukning i Sverige, 2013</b></p> 
                     </div>
-                    <div class="col-md-6"><div id="energy_consumtion"></div></div>
-                        
+                    <div class="col-md-6">
+                        <div id="energy_consumtion"></div>      
+                    </div>
                 </div>
-            </div>
-           
+                <div class="row">
+                    <div class="col-md-3">
+                        <p id="energyTips"><i class="fa fa-lightbulb-o"></i>Tips</p>
+                    </div>
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-3">
+                    </div>
+                </div>
+           </div>
         </section>
 
         <!-- Consumption Section -->
@@ -292,15 +309,20 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
-                        <p>I den här tredjedelen kan besökarens gubbe komma ner förbiglidande</p>
+                        <p>
+                            I den här tredjedelen kan besökarens gubbe komma ner förbiglidande
+                        </p>
                     </div>
                     <div class="col-lg-4">
-                        <p> I den här tredjedelen kan vi ha en graf över konsumtionen</p>
+                        <p> 
+                            I den här tredjedelen kan vi ha en graf över konsumtionen
+                        </p>
                     </div>
                     <div class="col-lg-4">
-                        <p> I den här tredjedelen kan vi ha en pie chart (alternativt en stor siffra) som visar hur mycket av koldioxidutsläpp som utgörs av privat konsumtion</p>
-                        <div id="pollutionBarChart">
-                        </div>
+                        <p> 
+                            I den här tredjedelen kan vi ha en pie chart (alternativt en stor siffra) som visar hur mycket av koldioxidutsläpp som utgörs av privat konsumtion
+                        </p>
+                        <div id="pollutionBarChart"></div>
                     </div>
                 </div>
                 <div class="row">
@@ -309,12 +331,13 @@
                     </div>
                     <div class="col-lg-4">
                         <p>Derp</p>
-
                     </div>
                     <div class="col-lg-4">
+                        <p>
+                            Tar med den här tabellen för att belysa vikten av att handla lokalt och hur stor skillnad det kan göra att importera saker.
+                        </p>
                         <table>
                             <!-- Tabelldata kommer från "Konsumtionens klimatpåverkan", Naturvårdsverket, 2008-->
-                        <p>Tar med den här tabellen för att belysa vikten av att handla lokalt och hur stor skillnad det kan göra att importera saker.</p>
                           <tr>
                             <th>Äpple</th>
                             <th>1 per vecka [CO2e/år]</th>
