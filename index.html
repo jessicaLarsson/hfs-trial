@@ -326,52 +326,59 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="section-heading">Konsumtion</h1>
-                        <div id="percentage_private_consumtion"></div>    
+                        <h1 class="section-heading">Konsumtion</h1>  
                     </div>
                 </div>
                  <div class="row">
-                    <div class="col-md-3">
-                        <div class="drop_down_counties"></div> 
+                    <div class="col-lg-4">
+                        <div id="percentage_private_consumtion"></div>  
+                    </div>
+                    <div class="col-lg-8">
+                        <p id="consumptionProcent">Av Sveriges koldioxidutsläpp produceras av vår (över-) konsumtion</p> 
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-4">
-                        <p class="text">
+                      <!--    <p class="text" id="consumptionFact">
                             År 2003 förbrukade en svensk ca 800 kg livsmedel per år, dryck inräknat. Där närmare 40% av dessa livsmedel kunde vara importerade. Av de produktgrupper som finns för privat konsumtion är livsmedel bland de mest miljöbelastande.
-                        </p>
+                        </p>  -->
+                       
                     </div>
-                    <div class="col-lg-4">
-                        <p class="text">
-                            Dina val kan göra stor skillnad utan att du behöver välja bort vissa varor. I tabellen till höger visas koldioxidutsläppen för äpplen med olika ursprungsländer. Om man äter ett äpple per vecka kommer utsläppen vara det dubbla om man köper franska jämfört med svenska. Om man istället väljer äpplen från Nya Zeeland kommer utsläppen vara fyra gånger större.   
-                        </p>
-                    </div>
-                    <div class="col-lg-4">
-                        <table>
-                            <!-- Tabelldata kommer från "Konsumtionens klimatpåverkan", Naturvårdsverket, 2008-->
-                          <tr>
-                            <th>Äpple</th>
-                            <th>1 per vecka [CO2e/år]</th>
-                            <th>7 per vecka [CO2e/år]</th>
-                          </tr>
-                          <tr>
-                            <td>Sverige</td>
-                            <td>1</td>
-                            <td>4</td>
-                          </tr>
-                          <tr>
-                            <td>Frankrike</td>
-                            <td>2</td>
-                            <td>14</td>
-                          </tr>
-                          <tr>
-                            <td>Nya Zeeland</td>
-                            <td>4</td>
-                            <td>28</td>
-                          </tr>
-                        </table>
-                    </div>    
+                    <div class="col-lg-8" id="consumptionBack">
+                        <div class="row">
+                            <div class="col-lg-5">
+                                <p class="text">Dina val kan göra stor skillnad utan att du behöver välja bort vissa varor. I tabellen till höger visas koldioxidutsläppen för äpplen med olika ursprungsländer. Om man äter ett äpple per vecka kommer utsläppen vara det dubbla om man köper franska jämfört med svenska. Om man istället väljer äpplen från Nya Zeeland kommer utsläppen vara fyra gånger större.</p>
+                            </div>
+                            <div class="col-lg-7">
+                                <table>
+                                    <!-- Tabelldata kommer från "Konsumtionens klimatpåverkan", Naturvårdsverket, 2008-->
+                                  <tr>
+                                    <th>Äpple</th>
+                                    <th>1 per vecka [CO2e/år]</th>
+                                    <th>7 per vecka [CO2e/år]</th>
+                                  </tr>
+                                  <tr>
+                                    <td>Sverige</td>
+                                    <td>1</td>
+                                    <td>4</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Frankrike</td>
+                                    <td>2</td>
+                                    <td>14</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Nya Zeeland</td>
+                                    <td>4</td>
+                                    <td>28</td>
+                                  </tr>
+                                </table>
+                            </div>    
+                        </div>
+                    </div>   
+                   
+                    
                 </div>
             </div>
         </section>
