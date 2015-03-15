@@ -329,11 +329,12 @@ h1.section-heading{
 
 #percentage_private_consumtion{
 	text-align: right;
+	padding-top: 7px;
 	font-size: 80px;
 	color: #36A7A3;
 }
 #consumptionProcent{
-	padding-top: 28px;
+	padding-top: 18px;
 	font-size: 32px;
 	color: #36A7A3;
 
