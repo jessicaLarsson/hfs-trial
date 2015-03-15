@@ -24,6 +24,16 @@ p, li {
 	color: #e5d8c0 !important;
 }
 
+.navbar-brand{
+	font-size: 30px !important;
+}
+
+p.intro-text{
+	font-size: 30px;
+	font-weight: 300;
+	color: #4d422e;
+}
+
 .drop_down_counties{
 	padding-bottom: 20px;
 }
@@ -82,7 +92,12 @@ p, li {
 	z-index: 2;
 }
 
-
+h1.heading{
+	color: #007F60;
+	font-size: 60px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+}
 
 h1.section-heading{
 	font-size: 70px;
