@@ -253,6 +253,7 @@ h1.section-heading{
 #red4{
     stroke: #CC5F39;
     stroke-width: 4;
+}
 
 /*ENERGY SECTION*/
 
@@ -260,13 +261,29 @@ h1.section-heading{
 	color: #E85421 !important;
 }
 #energyTips{
-	margin: 0em;
+	padding-top: 30px;
+	padding-left: 10px;
 	font-size: 30px;
 	text-align: float;
 }
+#energyTips:after{
+	  content: "\f091"; 
+  	font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  position: absolute;
+  font-size: 200px;
+  color: #4d422e;
+  opacity: 0.1;
+  top: 50%;
+  left: 50%;
+  margin: -150px 0 0 -100px;
+  z-index: 1;
+}
 #energyNumber {
-	margin:0em;
+	font-weight: 700;
 	text-align: float;
-	font-size: 100px;
+	font-size: 120px;
 	color: #FF9571;
 }
