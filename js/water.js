@@ -54,7 +54,7 @@ function water(){
 	    configFunFact3.textVertPosition = 0.2;
 	    configFunFact3.waveAnimateTime = 1500;
 
-	liquidFunFact3.loadLiquidFillGauge("water_fun_fact3", 40, configFunFact3);
+	liquidFunFact3.loadLiquidFillGauge("water_fun_fact3", 50, configFunFact3);
 
 	/* Water pie chart over the use of water in sweden , this pie chart won't update */
 	var waterData = d3.csv("data/waterUseSweden.csv");
