@@ -4,6 +4,26 @@ p, li {
 	font-weight: 300;
 }
 
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #4d422e !important;
+    background: #efe3d0;
+}
+.navbar_class{
+	background: #4d422e;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+	border: none;
+}
+
+.navbar_class a{
+	color: #efe3d0 !important;
+	font-size: 20px;
+}
+
+.navbar_class a:hover{
+	color: #e5d8c0 !important;
+}
+
 .drop_down_counties{
 	padding-bottom: 20px;
 }
