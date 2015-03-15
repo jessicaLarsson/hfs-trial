@@ -103,24 +103,5 @@ function waterTrendLineChart(data) {
 					.attr("x2", 0)
 					.attr("style", "stroke:rgb(0,0,0);")
 
-	this.update = function(data){
-		
-	    // Select the section we want to apply our changes to
-	    var svg = d3.select("#water_trend").transition();
-
-    	// Make the changes
-        svg.select(".line_graph_path")   // change the line
-            .duration(750)
-            .attr("d", line(data));
-        svg.select(".x axis") // change the x axis
-            .duration(750)
-            .call(xAxis);
-        svg.select(".y axis") // change the y axis
-            .duration(750)
-            .call(yAxisLeft);
-
-	   
-	}
-
 }
 			

@@ -234,3 +234,23 @@ h1.section-heading{
     border-color: #E6FFFB;
     background: #E6FFFB;   
 }
+
+#red1{
+    stroke: #E85421;
+    stroke-width: 4;
+}
+
+#red2{
+    stroke: #FF9571;
+    stroke-width: 4;
+}
+
+#red3{
+    stroke: #7F4B38;
+    stroke-width: 4;
+}
+
+#red4{
+    stroke: #CC5F39;
+    stroke-width: 4;
+}

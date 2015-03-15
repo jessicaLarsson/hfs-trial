@@ -34,7 +34,8 @@ var select = d3.selectAll("."+div_drop_down)
 	dispatch.on("countychange.menu", function(county) {
 	  select.property("value", county.Län);
 	  transportation.update(county.Län);
-	  water.update(county.Län);
+	  energy.update(county.Län);
 	  consumtion.update(county.Län);
+	  water.update(county.Län);
 	});
 });

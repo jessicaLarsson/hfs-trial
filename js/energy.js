@@ -44,11 +44,12 @@ function energy() {
 	var regionName = "Stockholms län";
 	var userCategory = "småhus";
 
+    var line_chart_energy;
+
 	d3.csv("data/energyUsageHouses.csv", function(error, regions) {
 		if (error) throw error;
 		region_data = regions;
 
-		
 		regions.forEach(function(d) {  
 			if(d.region == regionName) {
 				if(d.förbrukarkategori == userCategory) {
@@ -61,7 +62,35 @@ function energy() {
 
 		    }
 	   }) 
-        console.log(r[1]);
-        multipleLineChart(r[0], r[1]);
+        multipleLineChart(r);
 	});
+
+    this.update = function(c){
+        console.log("HHH"+c);
+        r = [];
+        regionName = c;
+        
+        //regionName = "Östergötlands län";
+        userCategory = "småhus";
+
+        d3.csv("data/energyUsageHouses.csv", function(error, regions) {
+        if (error) throw error;
+        region_data = regions;
+
+        regions.forEach(function(d) {  
+            if(d.region == regionName) {
+                if(d.förbrukarkategori == userCategory) {
+                    if(userCategory == "småhus" && (d.bränsletyp == "flytande (icke förnybara)"||d.bränsletyp == "fast (förnybara)" ||d.bränsletyp == "fjärrvärme" ||d.bränsletyp == "el")) {
+                        r.push(d);
+                    } else if (userCategory == "flerbostadshus" && (d.bränsletyp =="flytande (icke förnybara)"||d.bränsletyp =="fjärrvärme"|| d.bränsletyp =="el")) {
+                        r.push(d);
+                    }
+                }
+
+            }
+       }) 
+        console.log(r);
+        multipleLineChart(r);
+    });
+    }
 }
