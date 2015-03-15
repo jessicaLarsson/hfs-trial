@@ -177,7 +177,6 @@ function energy() {
 	});
 
     this.update = function(c){
-        console.log("HHH"+c);
         r = [];
         regionName = c;
         
