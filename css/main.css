@@ -11,12 +11,18 @@ p {
 .bubble{
 	padding: 10px 7px 7px 15px;
 	margin: 10px;
-	background-color: #9f8d6d;
+	background-color: #FFF3E6;
+	opacity: 0.4;
 	color: #ffffff;
 	-webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
 	position: relative;
+}
+
+.bubble p {
+	color: #4d422e;
+	font-size: 20px;
 }
 
 .bubble:after {
@@ -26,7 +32,7 @@ p {
     left: 164px;
     border-style: solid;
     border-width: 38px 22px 0;
-    border-color: #9f8d6d transparent;
+    border-color: #FFF3E6 transparent;
     display: block;
     width: 0;
     z-index: 1;
@@ -57,18 +63,17 @@ p {
 	z-index: 2;
 }
 
-p.text-square{
-	padding: 20px 14px 20px 25px;
-	margin: 15px;
-    border: 1px  dashed;
-    border-color: #4d422e;
-}
+
 
 h1.section-heading{
 	font-size: 70px;
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400;	
 	color: #4d422e;
+}
+
+.water {
+	color: #1D3640 !important;
 }
 
 /*TRANSPORTATOPN SECTION*/
@@ -95,13 +100,26 @@ h1.section-heading{
 }
 #testt p {
 	font-size: 30px;
-}
-#testt {
-	height: 400px;
-	padding-top: 200px;
-	
     -ms-transform: rotate(-90deg); /* IE 9 */
     -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
     transform: rotate(-90deg);
+    width: 100%;
+    margin-left: 30px;
+}
 
+#testt {
+	padding-top: 355px;
+
+
+}
+
+
+/*WATER SECTION*/
+#funFact1{
+	border: 5px solid;
+	padding-top: 10px;
+    border-radius: 25px;
+    border-color: #E6FFFB;
+    background: #E6FFFB;
+    
 }

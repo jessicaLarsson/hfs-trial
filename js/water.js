@@ -15,10 +15,10 @@ function water(){
 	/* Liquid Water Fun Fact*/
 	var liquidFunFact = new liquidFillGauge();
 	var configFunFact = liquidFunFact.liquidFillGaugeDefaultSettings();
-	    configFunFact.circleColor = "#FF7777";
-	    configFunFact.textColor = "#FF4444";
-	    configFunFact.waveTextColor = "#FFAAAA";
-	    configFunFact.waveColor = "#FFDDDD";
+	    configFunFact.circleColor = "#087FCC";
+	    configFunFact.textColor = "#087FCC";
+	    configFunFact.waveTextColor = "#087FCC";
+	    configFunFact.waveColor = "#1D3640";
 	    configFunFact.circleThickness = 0.2;
 	    configFunFact.textVertPosition = 0.2;
 	    configFunFact.waveAnimateTime = 1000;
