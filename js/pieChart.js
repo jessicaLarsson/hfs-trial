@@ -1,6 +1,6 @@
 function pieChart() {
 
-    var color = ["#56A3BF", "#3A6D7F", "#73DAFF","#1D3640", "#68C4E5"];
+    var color = ["#1D3640", "#56BDFF", "#054F7F","#2B5E7F", "#087FCC"];
     var data = [{label:"hushåll", value:575640}, 
                       {label:"jordbruk", value:98782}, 
                       {label:"industri", value:2261856},
