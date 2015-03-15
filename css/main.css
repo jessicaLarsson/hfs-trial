@@ -32,6 +32,31 @@ p {
     z-index: 1;
 }
 
+#travel1{
+	position: relative;
+}
+   
+#travel1:after {
+  content: "\f072"; 
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  position: absolute;
+  font-size: 300px;
+  color: #4d422e;
+  opacity: 0.3;
+  top: 50%;
+  left: 60%;
+  margin: -300px 0 0 -200px;
+  z-index: 1;
+}
+
+.inner{
+	position: relative;
+	z-index: 2;
+}
+
 p.text-square{
 	padding: 20px 14px 20px 25px;
 	margin: 15px;

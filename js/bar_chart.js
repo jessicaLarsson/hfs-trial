@@ -98,7 +98,7 @@ function barChart(data, div, h, w, max){
 		   		return xScale(i) + xScale.rangeBand() / 2;
 		   })
 		   .attr("y", function(d) {
-		   		return h - yScale(d) + 14;
+		   		return h - yScale(d) + 23;
 		   })
 
 	   }
