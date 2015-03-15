@@ -207,6 +207,13 @@ h1.section-heading{
 	font-weight: 700;
 }
 
+.text-square2{
+	padding-top: 50px;
+	margin-left: -100px;
+	font-size: 15px;
+	font-weight: 400;
+}
+
 
 #funFact1{
 	border: 5px solid;
@@ -253,6 +260,23 @@ h1.section-heading{
 #red4{
     stroke: #CC5F39;
     stroke-width: 4;
+}
+
+.red1{
+    color: #E85421;
+}
+
+.red2{
+    color: #FF9571;
+}
+
+.red3{
+    color: #7F4B38;
+}
+
+.red4{
+    color: #CC5F39;
+}
 
 /*ENERGY SECTION*/
 
