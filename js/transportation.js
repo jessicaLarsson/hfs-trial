@@ -28,7 +28,7 @@ function transportation(){
 	//----------------------------------
 	var driven_distance_div = "driven_distance";
 	var dataset = [1209,1192,1170,1152,1130]; //fullösning, Statisk data sthlm
-	var h = 400;
+	var h = 350;
 	var w = $("#"+driven_distance_div).width();
 	var bar_chart = new barChart(dataset, driven_distance_div, h, w, 1300);
 
