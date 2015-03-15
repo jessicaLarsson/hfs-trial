@@ -100,13 +100,16 @@ h1.section-heading{
 }
 #testt p {
 	font-size: 30px;
-}
-#testt {
-	height: 400px;
-	padding-top: 200px;	
     -ms-transform: rotate(-90deg); /* IE 9 */
     -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
     transform: rotate(-90deg);
+    width: 100%;
+    margin-left: 30px;
+}
+
+#testt {
+	padding-top: 355px;
+
 
 }
 
