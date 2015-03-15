@@ -2,7 +2,7 @@ function multipleLineChart(d) {
 
 	d3.select("#energy_consumtion").selectAll("*").remove();
 
-	var m = [80, 80, 80, 80]; // margins
+	var m = [10, 80, 80, 80]; // margins
 	var w = 400 // width
 	var h = 300; // height
 
