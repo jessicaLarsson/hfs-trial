@@ -304,25 +304,51 @@ h1.section-heading{
 	text-align: float;
 }
 #energyTips:after{
-	  content: "\f091"; 
+	content: "\f091"; 
   	font-family: FontAwesome;
-  font-style: normal;
-  font-weight: normal;
-  text-decoration: inherit;
-  position: absolute;
-  font-size: 200px;
-  color: #4d422e;
-  opacity: 0.1;
-  top: 50%;
-  left: 50%;
-  margin: -150px 0 0 -100px;
-  z-index: 1;
+  	font-style: normal;
+  	font-weight: normal;
+  	text-decoration: inherit;
+  	position: absolute;
+  	font-size: 200px;
+  	color: #4d422e;
+  	opacity: 0.1;
+  	top: 50%;
+  	left: 50%;
+  	margin: -150px 0 0 -100px;
+  	z-index: 1;
 }
 #energyNumber {
 	font-weight: 700;
 	text-align: float;
 	font-size: 120px;
 	color: #FF9571;
+}
+
+/*CONSUMPTION SECTION*/
+
+#percentage_private_consumtion{
+	text-align: right;
+	font-size: 80px;
+	color: #36A7A3;
+}
+#consumptionProcent{
+	padding-top: 28px;
+	font-size: 32px;
+	color: #36A7A3;
+
+}
+
+#consumptionBack{
+		margin-top: 10px;
+	border: 5px solid;
+	padding-top: 10px;
+    border-radius: 25px;
+    border-color: #efe3d0;
+    background: #efe3d0; 
+}
+#consumptionFact{
+	padding-top: 40px;
 }
 
 footer{
