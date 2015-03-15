@@ -22,8 +22,39 @@ function water(){
 	    configFunFact.circleThickness = 0.2;
 	    configFunFact.textVertPosition = 0.2;
 	    configFunFact.waveAnimateTime = 1000;
+	    configFunFact.displayPercent = false;
+	    configFunFact.maxValue = 200;
+	    configFunFact.textVertPosition = 0.5;
+	    configFunFact.waveHeight = 0.1;
 
-	liquidFunFact.loadLiquidFillGauge("water_fun_fact", 40, configFunFact);
+	liquidFunFact.loadLiquidFillGauge("water_fun_fact", 160, configFunFact);
+
+
+	/* Liquid Water Fun Fact2*/
+	var liquidFunFact2 = new liquidFillGauge();
+	var configFunFact2 = liquidFunFact2.liquidFillGaugeDefaultSettings();
+	    configFunFact2.circleColor = "#087FCC";
+	    configFunFact2.textColor = "#087FCC";
+	    configFunFact2.waveTextColor = "#087FCC";
+	    configFunFact2.waveColor = "#1D3640";
+	    configFunFact2.circleThickness = 0.2;
+	    configFunFact2.textVertPosition = 0.2;
+	    configFunFact2.waveAnimateTime = 1500;
+
+	liquidFunFact2.loadLiquidFillGauge("water_fun_fact2", 40, configFunFact2);
+
+	/* Liquid Water Fun Fact3*/
+	var liquidFunFact3 = new liquidFillGauge();
+	var configFunFact3 = liquidFunFact3.liquidFillGaugeDefaultSettings();
+	    configFunFact3.circleColor = "#087FCC";
+	    configFunFact3.textColor = "#087FCC";
+	    configFunFact3.waveTextColor = "#087FCC";
+	    configFunFact3.waveColor = "#1D3640";
+	    configFunFact3.circleThickness = 0.4;
+	    configFunFact3.textVertPosition = 0.2;
+	    configFunFact3.waveAnimateTime = 1500;
+
+	liquidFunFact3.loadLiquidFillGauge("water_fun_fact3", 40, configFunFact3);
 
 	/* Water pie chart over the use of water in sweden , this pie chart won't update */
 	var waterData = d3.csv("data/waterUseSweden.csv");
